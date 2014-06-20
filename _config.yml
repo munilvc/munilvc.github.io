@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Learn, write and share!
-tagline:          '(by <a href="https://twitter.com/munilvc" target="_blank">@munilvc</a>)'
-description:      'My personal site to share lessons learned while working on Software and enjoying Life.'
+tagline:          
+description:      'My personal site to share lessons learned while working on Software and enjoying Life. (by <a href="https://twitter.com/munilvc" target="_blank">@munilvc</a>)'
 url:              http://munilvc.github.io
 paginate:         5
 
