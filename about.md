@@ -4,7 +4,6 @@ title: Felipe Vega
 ---
 <div class="wrapper">
       <header>
-        <p></p>
         <p class="view"><a href="https://github.com/munilvc" target="_blank">View my GitHub Profile</a></p>
         <p class="view"><a href="https://twitter.com/munilvc" target="_blank">Follow me on Twitter</a></p>
         <p class="view"><a href="https://www.linkedin.com/pub/felipe-vega/45/419/2a9" target="_blank">Contact me on Linkedin</a></p>
