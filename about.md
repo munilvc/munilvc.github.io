@@ -4,9 +4,17 @@ title: Felipe Vega
 ---
 <div class="wrapper">
       <header>
-        <p class="view"><a href="https://github.com/munilvc" target="_blank">View my GitHub Profile</a></p>
-        <p class="view"><a href="https://twitter.com/munilvc" target="_blank">Follow me on Twitter</a></p>
-        <p class="view"><a href="https://www.linkedin.com/pub/felipe-vega/45/419/2a9" target="_blank">Contact me on Linkedin</a></p>
+        <p class="view">
+	  <a href="https://twitter.com/munilvc" target="_blank">
+	    <img alt="Follow me on Twitter!" src="/public/social_logos/twitter.png" width="50px" title="Follow me on Twitter !">
+	  </a>
+	  <a href="https://github.com/munilvc" target="_blank">
+	    <img alt="Lets do some code on GitHub!" src="/public/social_logos/github.png" width="50px" title="Lets do some code on GitHub !">
+	  </a>
+          <a href="https://www.linkedin.com/pub/felipe-vega/45/419/2a9" target="_blank">
+	    <img alt="Contact me on Linkedin!" src="/public/social_logos/linkedin.png" width="50px" title="Contact me on Linkedin !">
+	  </a>
+	</p>
       </header>
       <section>
       <p>        
