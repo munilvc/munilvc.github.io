@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About me
+title: Felipe Vega
 ---
 <div class="wrapper">
       <header>
-        <h1>Felipe Vega</h1>
         <p></p>
         <p class="view"><a href="https://github.com/munilvc" target="_blank">View my GitHub Profile</a></p>
         <p class="view"><a href="https://twitter.com/munilvc" target="_blank">Follow me on Twitter</a></p>

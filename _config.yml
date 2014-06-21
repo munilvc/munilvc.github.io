@@ -10,7 +10,7 @@ title:            Learn, write and share!
 tagline:          
 description:      'My personal site to share lessons learned while working on Software and enjoying Life. <p>(by <a href="https://twitter.com/munilvc" target="_blank">@munilvc</a>)'
 url:              http://munilvc.github.io
-paginate:         2
+paginate:         1
 
 author:
   name:           'Felipe Vega'
