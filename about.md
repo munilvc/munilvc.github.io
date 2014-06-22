@@ -18,9 +18,11 @@ title: Felipe Vega
 	</p>
       </header>
       <section>
-      <p>        
-	  I am Felipe Vega, a software development enthusiast in Lima-Perú. This photo is from lake Titicaca in Puno-Perú, an amazing city where I grew up.
-      </p>
-      <p><img src="https://scontent-b-mia.xx.fbcdn.net/hphotos-ash2/t1.0-9/375653_10150903889436829_417285513_n.jpg" alt="fvega Puno"></p>
+      <p>I am Felipe Vega, a software development enthusiast in Lima-Perú. The idea of this site is to share lessons learned and personal interests while working on Software and enjoying Life.</p>
+      <br>
+      <div style="text-align: center">
+	<p>This photo is from lake Titicaca in Puno-Perú, an amazing city where I grew up.
+	<p><img src="https://scontent-b-mia.xx.fbcdn.net/hphotos-ash2/t1.0-9/375653_10150903889436829_417285513_n.jpg" alt="Lago Titicaca">
+      </div>
       </section>
 </div>
