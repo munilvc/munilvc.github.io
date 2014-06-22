@@ -2,9 +2,8 @@
 layout: page
 title: Felipe Vega
 ---
-<div class="wrapper">
-      <header>
-        <p class="view">
+<div>
+        <p>
 	  <a href="https://twitter.com/munilvc" target="_blank">
 	    <img style="float: left; margin: 0px 0px 10px 10px;" alt="Follow me on Twitter!" src="/public/social_logos/twitter.png" width="50px" title="Follow me on Twitter !"/>
 	  </a>
@@ -15,10 +14,10 @@ title: Felipe Vega
 	    <img style="float: left; margin: 0px 0px 10px 10px;" alt="Contact me on Linkedin!" src="/public/social_logos/linkedin.png" width="50px" title="Contact me on Linkedin !"/>
 	  </a>
 	</p>
-      </header>
-      <section>
-      <p>        
-	  I am Felipe Vega, a software engineer in Lima-Perú. This photo is from lake Titicaca in Puno-Perú, an amazing city where I grew up.
+</div>
+<div>
+	<p>        
+	  I am Felipe Vega, a software development enthusiast in Lima-Perú. This photo is from lake Titicaca in Puno-Perú, an amazing city where I grew up.
       </p>
       <p><img src="https://scontent-b-mia.xx.fbcdn.net/hphotos-ash2/t1.0-9/375653_10150903889436829_417285513_n.jpg" alt="fvega Puno"></p>
       </section>
