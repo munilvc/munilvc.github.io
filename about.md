@@ -19,7 +19,6 @@ title: Felipe Vega
       </header>
       <section>
       <p>I am Felipe Vega, a software development enthusiast in Lima-Perú. The idea of this site is to share lessons learned and personal interests while working on software and enjoying Life.</p>
-      <br>
       <hr>
       <p>One of my biggest hobbies is to take pictures from cities and landscapes. So I will post some of my pictures here while I decide what tool to use for this, if you can recommend me one please send me a tweet! :)
       <div style="text-align: center">
