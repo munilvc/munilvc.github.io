@@ -27,13 +27,13 @@ La figura tiene 2 posiciones, una en modo avión y la otra en modo robot.
 
 Por ahora algunas fotos en modo jet:
 
-<img style="text-align:center" alt="StarScream" src="https://lh4.googleusercontent.com/-GUdF0Znv4Lw/U6eGt7YkVsI/AAAAAAAAAG8/tJ77imv_1vw/w755-h566-no/StarScreamMP1.JPG" width="400px"/>
-<img style="text-align:center" alt="StarScream" src="https://lh6.googleusercontent.com/-vxIUxeReS7w/U6eGhQ20bkI/AAAAAAAAAFk/l4OhNXreoX4/w755-h566-no/DSCN4901.JPG" width="400px"/>
+<img style="text-align:center" alt="StarScream" src="https://lh4.googleusercontent.com/-GUdF0Znv4Lw/U6eGt7YkVsI/AAAAAAAAAG8/tJ77imv_1vw/w755-h566-no/StarScreamMP1.JPG" />
+<img style="text-align:center" alt="StarScream" src="https://lh6.googleusercontent.com/-vxIUxeReS7w/U6eGhQ20bkI/AAAAAAAAAFk/l4OhNXreoX4/w755-h566-no/DSCN4901.JPG" />
 <br style="clear: both;" />
 
 Aquí una foto con el VF-1S:
 
-<img style="text-align:center" alt="StarScream" src="https://lh4.googleusercontent.com/-PfZJ0oJjfK8/U6eGhj0ZOoI/AAAAAAAAAFs/2kQBKZXdv68/w755-h566-no/BOTH.JPG" width="400px"/>
+<img style="text-align:center" alt="StarScream" src="https://lh4.googleusercontent.com/-PfZJ0oJjfK8/U6eGhj0ZOoI/AAAAAAAAAFs/2kQBKZXdv68/w755-h566-no/BOTH.JPG" />
 <br style="clear: both;" />
 
 ¿Que les parece? Subiré mas fotos pronto!
