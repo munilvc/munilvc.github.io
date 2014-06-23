@@ -20,6 +20,7 @@ title: Felipe Vega
       <section>
       <p>I am Felipe Vega, a software development enthusiast in Lima-Perú. The idea of this site is to share lessons learned and personal interests while working on software and enjoying Life.</p>
       <br>
+      <hr>
       <p>One of my biggest hobbies is to take pictures from cities and landscapes. So I will post some of my pictures here while I decide what tool to use for this, if you can recommend me one please send me a tweet! :)
       <div style="text-align: center">
 	<p>This photo is from lake Titicaca in Puno-Perú, an amazing city where I grew up.
@@ -32,9 +33,9 @@ title: Felipe Vega
       </div>
       <br>
       <div style="text-align: center">
-	<p>Under Golden Gate bridge in San Francisco!.
+	<p>Under Golden Gate bridge in San Francisco!
 	<p><img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/1235129_10151564215291829_1379342629_n.jpg" alt="Golden Gate">
       </div>
-      
+     
       </section>
 </div>
