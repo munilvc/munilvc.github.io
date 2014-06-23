@@ -9,7 +9,7 @@ title: Felipe Vega
 	    <img style="float: left; margin: 0px 0px 10px 10px;" alt="Follow me on Twitter!" src="/public/social_logos/twitter.png" width="50px" title="Follow me on Twitter !"/>
 	  </a>
 	  <a href="https://github.com/munilvc" target="_blank">
-	    <img style="float: left; margin: 0px 0px 10px 10px;" alt="Lets do some code on GitHub!" src="/public/social_logos/github.png" width="50px" title="Lets see code on GitHub !"/>
+	    <img style="float: left; margin: 0px 0px 10px 10px;" alt="Lets do some code on GitHub!" src="/public/social_logos/github.jpg" width="50px" title="Lets see code on GitHub !"/>
 	  </a>
           <a href="https://www.linkedin.com/pub/felipe-vega/45/419/2a9" target="_blank">
 	    <img style="float: left; margin: 0px 0px 10px 10px;" alt="Contact me on Linkedin!" src="/public/social_logos/linkedin.png" width="50px" title="Contact me on Linkedin !"/>
