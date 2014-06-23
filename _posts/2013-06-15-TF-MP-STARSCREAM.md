@@ -3,7 +3,6 @@ layout: post
 title: Transformers Masterpiece StarScream
 ---
 
-<p>
 Buen día!
 
 Tengo que confesar que me gustó mucho el primer post sobre el VF-1S, así que aprovechando que estoy animado en la onda blog y que tengo algunas fotos a la mano, he decidido hacer de una vez el segundo post de "La Repisa" sobre el Masterpiece de StarScream...
