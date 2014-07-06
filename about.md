@@ -28,14 +28,29 @@ comments: true
       </div>
       <br>
       <div style="text-align: center">
+	<p>Under Golden Gate bridge in San Francisco!
+	<p><img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/1235129_10151564215291829_1379342629_n.jpg" alt="Golden Gate">
+      </div>
+      <br>
+      <div style="text-align: center">
 	<p>Paris, a sunset view of the Seine river from the "Pont d' Arcole" bridge.
 	<p><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/1601470_10152007620416829_1347089432403931684_n.jpg" alt="Paris">
       </div>
       <br>
       <div style="text-align: center">
-	<p>Under Golden Gate bridge in San Francisco!
-	<p><img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/1235129_10151564215291829_1379342629_n.jpg" alt="Golden Gate">
+	<p>Paris, Eiffel Tower.
+	<p><img src="https://lh5.googleusercontent.com/-PiosUJmOdUk/U7jcTt9FiTI/AAAAAAAAAJA/eXMD_NVyknM/w425-h566-no/DSCN0455.JPG" alt="Paris">
       </div>
-     
+      <br>
+      <div style="text-align: center">
+	<p>The top of Rome! @Vatican City!
+	<p><img src="https://lh3.googleusercontent.com/-A6qZowvJgCU/U7jX31TGrqI/AAAAAAAAAIg/KoNRS5K52jg/w755-h566-no/DSCN6493.JPG" alt="Vatican">
+      </div>
+      <br>
+      <div style="text-align: center">
+	<p>The BEAUTIFUL Berlin! - Berlin Dom and famous TV Tower on the right.
+	<p><img src="https://lh5.googleusercontent.com/-LzhlotKvwbY/U7jdOY6CuKI/AAAAAAAAAJU/il0YsMEV0ck/w755-h566-no/DSCN1262.JPG" alt="Berlin Dom">
+      </div>
+      
       </section>
 </div>
