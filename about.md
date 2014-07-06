@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Felipe Vega
+comments: true
 ---
 <div class="wrapper">
       <header>
