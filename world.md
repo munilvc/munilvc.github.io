@@ -5,6 +5,9 @@ title: Felipe around the World!
 <div class="wrapper">
       <section>
       <p>One of my biggest hobbies is to take pictures from cities and landscapes. So I will post some of my pictures here while I decide what tool to use for this, if you can recommend me one please drop me a comment or send me a tweet! :)
+      
+      <hr>
+      
       <div style="text-align: center">
 	<p>This photo is from lake Titicaca in Puno-Perú, an amazing city where I grew up.
 	<p><img src="https://scontent-b-mia.xx.fbcdn.net/hphotos-ash2/t1.0-9/375653_10150903889436829_417285513_n.jpg" alt="Lago Titicaca">
