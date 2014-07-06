@@ -78,8 +78,8 @@ comments: true
       
       <br>
       <div style="text-align: center">
-	<p>Helada puneña.
-	<p><img src="Melgar, Perú" alt="Helada Puneña">
+	<p>Helada puneña. Melgar, Perú
+	<p><img src="https://lh3.googleusercontent.com/-x-AxbUnh21Q/U7jiCa2ACrI/AAAAAAAAAKI/NsuHCtekFfs/w755-h566-no/LUISVEGA07.jpg" alt="Helada Puneña">
       </div>
       
       <br>
