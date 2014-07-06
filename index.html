@@ -5,15 +5,7 @@ title: All posts
 <div>
 {% for post in site.posts %}
   <ul> <span class="post-date">{{ post.date | date_to_string }}</span> &raquo; 
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-  </div>
-  
+  <a href="{{ post.url }}" > {{ post.title }} </a>
   </ul>
   
 {% endfor %}
