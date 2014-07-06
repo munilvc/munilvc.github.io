@@ -52,5 +52,40 @@ comments: true
 	<p><img src="https://lh5.googleusercontent.com/-LzhlotKvwbY/U7jdOY6CuKI/AAAAAAAAAJU/il0YsMEV0ck/w755-h566-no/DSCN1262.JPG" alt="Berlin Dom">
       </div>
       
+      <br>
+      <div style="text-align: center">
+	<p>Isla Suasi - Puno, Perú
+	<p><img src="https://lh5.googleusercontent.com/-Z6a_psFpZKA/U7jh4huxJWI/AAAAAAAAAJw/ZxX19GnOLFU/w755-h566-no/LUISVEGA02.JPG" alt="Suasi">
+      </div>
+      
+      <br>
+      <div style="text-align: center">
+	<p>Altiplano Puneño. Perú
+	<p><img src="https://lh6.googleusercontent.com/-LiyMbFFiF5A/U7jhWUMnahI/AAAAAAAAAJo/QH2HnmELAlw/w755-h566-no/LUISVEGA01.jpg" alt="Altiplano">
+      </div>
+      
+      <br>
+      <div style="text-align: center">
+	<p>Alpacas en el lago Titicaca.
+	<p><img src="https://lh6.googleusercontent.com/-UcLpe9T57aI/U7jh9X1_cFI/AAAAAAAAAKA/bRJUMyecPAo/w755-h566-no/LUISVEGA04.JPG" alt="Alpacas">
+      </div>
+      
+      <br>
+      <div style="text-align: center">
+	<p>Tinajani - Ayaviri, Perú.
+	<p><img src="https://lh4.googleusercontent.com/-zjhZMJBjv9U/U7jiGDajHFI/AAAAAAAAAKQ/E1Iwresz7nk/w979-h554-no/LUISVEGA06.jpg" alt="Tinajani">
+      </div>
+      
+      <br>
+      <div style="text-align: center">
+	<p>Helada puneña.
+	<p><img src="Melgar, Perú" alt="Helada Puneña">
+      </div>
+      
+      <br>
+      <div style="text-align: center">
+	<p>Isla Taquile en el Titicaca - Puno, Perú.
+	<p><img src="https://lh5.googleusercontent.com/-sPYZ7qkFQqc/U7jh7gXNfHI/AAAAAAAAAJ4/CAHFcZF8fsk/w755-h566-no/LUISVEGA03.JPG" alt="Taquile">
+      </div>
       </section>
 </div>
