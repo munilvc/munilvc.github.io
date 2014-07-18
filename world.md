@@ -10,17 +10,17 @@ title: Felipe around the World!
       
       <div style="text-align: center">
 	<p>This photo is from lake Titicaca in Puno-Perú, an amazing city where I grew up.
-	<p><img src="https://scontent-b-mia.xx.fbcdn.net/hphotos-ash2/t1.0-9/375653_10150903889436829_417285513_n.jpg" alt="Lago Titicaca">
+	<p><img src="https://lh5.googleusercontent.com/56mY8ITP6rR_-d91pWa2i5SvoueTcszUFs9fgoqNz3s=w789-h592-no" alt="Lago Titicaca">
       </div>
       <br>
       <div style="text-align: center">
 	<p>Under Golden Gate bridge in San Francisco!
-	<p><img src="https://fbcdn-sphotos-f-a.akamaihd.net/hphotos-ak-prn2/t1.0-9/1235129_10151564215291829_1379342629_n.jpg" alt="Golden Gate">
+	<p><img src="https://lh6.googleusercontent.com/-GG5u30iYwiI/U8jG6YUTJ5I/AAAAAAAAAKw/GCN2HqOrFL8/w789-h592-no/DSCN6404.JPG" alt="Golden Gate">
       </div>
       <br>
       <div style="text-align: center">
 	<p>Paris, a sunset view of the Seine river from the "Pont d' Arcole" bridge.
-	<p><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/1601470_10152007620416829_1347089432403931684_n.jpg" alt="Paris">
+	<p><img src="https://lh3.googleusercontent.com/-jV0DZLua8Po/U8jGzZNByUI/AAAAAAAAAKo/yYfi8p2o1Og/w979-h554-no/IMAG3880.jpg" alt="Paris">
       </div>
       <br>
       <div style="text-align: center">
