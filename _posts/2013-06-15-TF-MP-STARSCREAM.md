@@ -36,6 +36,9 @@ Aquí una foto con el VF-1S:
 <img style="text-align:center" alt="StarScream" src="https://lh4.googleusercontent.com/-PfZJ0oJjfK8/U6eGhj0ZOoI/AAAAAAAAAFs/2kQBKZXdv68/w755-h566-no/BOTH.JPG" />
 <br style="clear: both;" />
 
+Por cierto, pueden encontrarlo en internet como <a href="http://www.amazon.com/Transformers-Masterpiece-Starscream-G1-White/dp/B000XZMKYQ">Masterpiece Starscream G1</a>, y me parece haberlo visto también en Arenales o Polvos Azules si es que estan por Lima.
+
 ¿Que les parece? Subiré mas fotos pronto!
 
 FIN.
+
