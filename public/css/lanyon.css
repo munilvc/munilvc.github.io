@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .wrap {
   position: relative;
-  width: 100%;
+  width: 86%;
 }
 
 
@@ -286,7 +286,6 @@ a.sidebar-nav-item:focus {
   -webkit-transform: translateX(14rem);
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
-	  width:86%;
 }
 
 
