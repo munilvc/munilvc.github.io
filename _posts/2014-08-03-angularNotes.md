@@ -261,27 +261,3 @@ We use: `ng-include`:
 </div>
 {% endhighlight js %}
 
-{% highlight js %}
-// In a separate file “product-description.html”:
-<h4>Description</h4>
-<blockquote>{{ "{{ product.description "}}}}</blockquote>
-{% endhighlight js %}
-
-Example:
-{% highlight js %}
-//js code defining the directive:
-app.directive("productDescription", function(){
-  return {
-    restrict: 'E',   // E=Element, A=Attribute
-      templateUrl: "product-description.html"
-    };
-});
-
-//related html code when directive is of type "element":
-<div>
-  <product-description ng-show="tab.isSet(1)"></product-description>
-</div>
-
-// similar html code when directive is of type "attribute":
-<div product-specs ng-show="tab.isSet(2)" >
-{% nohighlight js %}
