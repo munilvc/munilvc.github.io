@@ -14,7 +14,7 @@ So not all of this is my stuff but it can help you as a refresher too, if you ar
 - Directives: HTML annotations that trigger js behavior. Many useful directives are provided by angularJS.
 - Modules: Where app components live. Help to organize and encapsulate code.
 - Controllers: Where we define app behavior by defining functions and values.
-- Expressions:  "{{...}}" stuff.
+- Expressions:  `{{...}}` stuff.
 
 ## Angular claims to be MVW:  
 - Model (ClientSide Model shared by Model and Whatever)
