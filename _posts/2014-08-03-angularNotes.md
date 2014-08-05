@@ -217,17 +217,22 @@ Other example of controller and directives:
 
 # Form Validations
 
-{% highlight js %}
-<form name=”reviewForm” …. novalidate> // novalidate: Turns off default validation by some browsers
-<input name=”author” ng-model=”reviewCtrl.revire.author” type=”email” required/> // required: Sets the form element as required, handled and defined by angular. Can validate URLs, emails, 
-{{ "{{ reviewForm.$valid " }}}} // evaluates to true or false on validations implemented by angular.
-{% endhighlight js %}
+{% highlight html %}
+// novalidate: Turns off default validation by some browsers
+<form name=”reviewForm” …. novalidate> 
 
-{% highlight js %}
+// required: Sets the form element as required, handled and defined by angular. Can validate URLs, emails,
+<input name=”author” ng-model=”reviewCtrl.revire.author” type=”email” required/>  
+
+// evaluates to true or false on validations implemented by angular.
+{{ "{{ reviewForm.$valid " }}}} 
+{% endhighlight html %}
+
+{% highlight html %}
 class="ng-pristine ng-invalid" // style in code when form loads
 class="ng-dirty ng-invalid" // style when typing and invalid
 class="ng-dirty ng-valid" // style when typing and valid
-{% endhighlight js %}
+{% endhighlight html %}
 
 {% highlight css %}
 //we can play with styles:
@@ -239,7 +244,7 @@ border-color: #78FA89;
 }
 {% endhighlight css %}
 
-{% highlight js %}
+{% highlight html %}
 ng-submit="reviewForm.$valid && reviewCtrl.addReview(product)" // Submit form only if form is valid.
-{% endhighlight js %}
+{% endhighlight html %}
 
