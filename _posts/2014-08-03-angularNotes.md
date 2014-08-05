@@ -229,7 +229,7 @@ class="ng-dirty ng-invalid" // style when typing and invalid
 class="ng-dirty ng-valid" // style when typing and valid
 {% endhighlight js %}
 
-{% highlight js %}
+{% highlight css %}
 //we can play with styles:
 .ng-invalid.ng-dirty{
 border-color:#FA787E;
@@ -237,114 +237,9 @@ border-color:#FA787E;
 .ng-valid.ng-dirty{
 border-color: #78FA89;
 }
-{% endhighlight js %}
+{% endhighlight css %}
 
 {% highlight js %}
 ng-submit="reviewForm.$valid && reviewCtrl.addReview(product)" // Submit form only if form is valid.
 {% endhighlight js %}
 
-# Custom Directives
-
-Why? Let you write “expressive” html, easier to read and to understand its behavior.
-
-We use: `ng-include`: 
-
-{% highlight js %}
-<div ng-show="tab.isSet(1)" ng-include="'product-description.html'">
-</div>
-{% endhighlight js %}
-
-{% highlight js %}
-// In a separate file “product-description.html”:
-<h4>Description</h4>
-<blockquote>{{ "{{ product.description "}}}}</blockquote>
-{% endhighlight js %}
-
-Example:
-{% highlight js %}
-//js code defining the directive:
-app.directive("productDescription", function(){
-  return {
-    restrict: 'E',   // E=Element, A=Attribute
-      templateUrl: "product-description.html"
-    };
-});
-
-//related html code when directive is of type "element":
-<div>
-  <product-description ng-show="tab.isSet(1)"></product-description>
-</div>
-
-// similar html code when directive is of type "attribute":
-<div product-specs ng-show="tab.isSet(2)" >
-{% nohighlight js %}
-
-# Defining a controller in the directive:
-
-{% highlight js %}
-...
-app.directive("productTabs", function(){
-  return {
-    restrict:'E',
-    templateUrl: "product-tabs.html",
-    controller: function(){
-      this.tab = 1;
-
-      this.isSet = function(checkTab) {
-	return this.tab === checkTab;
-      };
-
-      this.setTab = function(setTab) {
-	this.tab = setTab;
-      };
-    },
-    controllerAs:'tab'
-  };
-});
-...
-  
-// product-tabs.html:
-...
-<ul class="nav nav-pills">
-  <li ng-class="{ active:tab.isSet(1) }">
-    <a href ng-click="tab.setTab(1)">Description</a>
-  </li>
-  <li ng-class="{ active:tab.isSet(2) }">
-    <a href ng-click="tab.setTab(2)">Specs</a>
-  </li>
-</ul>  
-...
-
-// Now to use in index.html
-<product-tabs></product-tabs>
-
-{% nohighlight js %}
-
-# Modules and dependencies:
-
-{% highlight js %}
-// Add store-directives as dependency of getStore
-
-(function() {
-  var app = angular.module('gemStore', ['store-directives']); ->
-  ...
-})();
-
-(function() {
-  var app = angular.module('store-directives', []);  
-  ...
-})();
-{% nohighlight js %}
-
-# Angular Built in services!
-
-{% highlight js %}
-// Calling a REST Service
-app.controller('StoreController', ['$http', function($http){
-  var store = this;
-  store.products = [];
-  $http.get('/store-products.json').success(function(data){
-    store.products = data;
-  });
-}]);
-{% nohighlight js %}
