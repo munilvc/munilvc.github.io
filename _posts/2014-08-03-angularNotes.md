@@ -98,17 +98,273 @@ Related JS (Whatever):
 
 <hr>
 
-# Filters: 
+# Angular Filters 
 
 Use a pipe ‘|’ to say “output ‘product.price’ into the ‘currency’ filter”.
 
 {% highlight js %}
-{{ "{{ product.price | currency " }}}} -> Currency
-{{ "{{ '1388123412323' | date:'MM/dd/yyyy @ h:mma' " }}}} -> Date
-this.review.createdOn = Date.now(); -> If we use this in controller
-{{ "{{ review.createdOn | date " }}}} -> Aug 3, 2014
-{{ "{{ 'anyString' | uppercase " }}}} -> Uppercase, lowercase
-{{ "{{ 'My Description' | limitTo:8 "}}}} ->Number of characters
-<li ng-repeat="product in store.products | limitTo:3"> ->Limit iterations
-<li ng-repeat="product in store.products | orderBy:'-price'"> ->Order by, ‘-’ means desc, none means asc.
+{{ "{{ product.price | currency " }}}} // Currency
+{{ "{{ '1388123412323' | date:'MM/dd/yyyy @ h:mma' " }}}} // Date
+this.review.createdOn = Date.now(); // If we use this in controller
+{{ "{{ review.createdOn | date " }}}} // Date as Aug 3, 2014
+{{ "{{ 'anyString' | uppercase " }}}} // Uppercase, lowercase
+{{ "{{ 'My Description' | limitTo:8 "}}}} // Number of characters
+<li ng-repeat="product in store.products | limitTo:3"> //Limit iterations
+<li ng-repeat="product in store.products | orderBy:'-price'"> // Order by, minus(-) means desc, none means asc.
 {% endhighlight %}
+
+
+-----------
+
+# Working with images
+
+{% highlight js %}
+<img ng-src="{{ "{{product.images[0].full " }}}}"/>
+
+<li class="small-image pull-left thumbnail" ng-repeat="image in product.images"> // Iterate/Repeat over an array of images.
+
+<div class="gallery" ng-show="product.images.length"> // Show only if the array is not empty.
+{% endhighlight js %}
+
+
+# Working with a panel controller 
+
+To extract logic to javascript and not inside html.
+
+{% highlight js %}
+// A new controller...
+...
+app.controller('TabController', function(){
+  this.tab=1;
+  this.setTab = function(setTabValue){
+      this.tab = setTabValue;
+  };
+	  
+  this.isSet = function(tabValue){
+      return this.tab == tabValue;
+  };
+});
+...
+
+// Respective directives in html code
+...
+<section class="tab" ng-controller="TabController as tab">
+        <ul class="nav nav-pills">
+          <li ng-class="{active: tab.isSet(1)}">
+            <a href ng-click="tab.setTab(1)">Description</a></li>
+<div ng-show="tab.isSet(2)">
+          <h4>Specs</h4>
+          <blockquote>{{ "{{ "Shine:" + product.shine " }}}}</blockquote>
+        </div>
+...
+{% endhighlight js %}
+
+Other example of controller and directives:
+
+{% highlight js %}
+// Now for setting a default
+...
+  app.controller('GalleryController', function(){
+    this.current = 0;
+    this.setCurrent = function(newGallery){
+      this.current = newGallery || 0;
+    };
+  });
+…
+
+// Respective directives
+// Note we use properties from different controllers - where scope is intercepted:
+ 
+  <body class="list-group" ng-controller="StoreController as store">
+    <header>
+      <h1 class="text-center">Flatlander Crafted Gems</h1>
+      <h2 class="text-center">– an Angular store –</h2>
+    </header>
+    <div class="list-group-item" ng-repeat="product in store.products">
+      <h3>
+        {{ "{{ product.name "}}}}
+        <em class="pull-right">{{ "{{ product.price | currency " }}}}</em>
+      </h3>
+
+      <!-- Image Gallery  -->
+      <div class='gallery' ng-show="product.images.length" ng-controller='GalleryController as gallery'>
+        <img ng-src="{{ "{{product.images[gallery.current] " }}}}" />
+...
+{% endhighlight js %}
+
+
+# Working with a Form
+
+{% highlight js %}
+// Adding a review to a list of reviews - new controller!
+...
+ app.controller('ReviewController', function(){
+    this.review = {};
+    this.addReview = function(productReviewed) {
+    	productReviewed.reviews.push(this.review);  // Add an element to the array
+      this.review = {};
+    };
+  });
+...
+
+// The directives and html related.  Note the preview and its relation with ng-model.  (double directional binding)
+
+<!--  Review Form -->
+            <form name="reviewForm" ng-controller="ReviewController as reviewCtrl" ng-submit="reviewCtrl.addReview(product)">
+...
+              <!--  Live Preview -->
+              <blockquote>
+                <strong>{{ "{{reviewCtrl.review.stars}} Stars</strong>
+   ...
+
+              <!--  Review Form -->
+                <select ng-model="reviewCtrl.review.stars" class="form-control" ng-options="stars for stars in [5,4,3,2,1]" title="Stars">
+                  <option value="">Rate the Product</option>
+                </select>
+...      
+          <input type="submit" class="btn btn-primary pull-right" value="Submit Review" />
+
+            </form>
+...
+{% endhighlight js %}
+
+# Form Validations
+
+{% highlight js %}
+<form name=”reviewForm” …. novalidate> // novalidate: Turns off default validation by some browsers
+<input name=”author” ng-model=”reviewCtrl.revire.author” type=”email” required/> // required: Sets the form element as required, handled and defined by angular. Can validate URLs, emails, 
+{{ "{{ reviewForm.$valid " }}}} // evaluates to true or false on validations implemented by angular.
+{% endhighlight js %}
+
+{% highlight js %}
+class="ng-pristine ng-invalid" // style in code when form loads
+class="ng-dirty ng-invalid" // style when typing and invalid
+class="ng-dirty ng-valid" // style when typing and valid
+{% endhighlight js %}
+
+{% highlight js %}
+//we can play with styles:
+.ng-invalid.ng-dirty{
+border-color:#FA787E;
+}
+.ng-valid.ng-dirty{
+border-color: #78FA89;
+}
+{% endhighlight js %}
+
+{% highlight js %}
+ng-submit="reviewForm.$valid && reviewCtrl.addReview(product)" // Submit form only if form is valid.
+{% endhighlight js %}
+
+# Custom Directives
+
+Why? Let you write “expressive” html, easier to read and to understand its behavior.
+
+We use: `ng-include`: 
+
+{% highlight js %}
+<div ng-show="tab.isSet(1)" ng-include="'product-description.html'">
+</div>
+{% endhighlight js %}
+
+{% highlight js %}
+// In a separate file “product-description.html”:
+<h4>Description</h4>
+<blockquote>{{ "{{ product.description "}}}}</blockquote>
+{% endhighlight js %}
+
+Example:
+{% highlight js %}
+//js code defining the directive:
+app.directive("productDescription", function(){
+    return {
+      restrict: 'E',   // E=Element, A=Attribute
+      templateUrl: "product-description.html"
+    };
+  });
+
+//related html code when directive is of type "element":
+<div>
+  <product-description ng-show="tab.isSet(1)"></product-description>
+</div>
+
+// similar html code when directive is of type "attribute":
+  <div product-specs ng-show="tab.isSet(2)" >
+{% nohighlight js %}
+
+# Defining a controller in the directive:
+
+{% highlight js %}
+...
+app.directive("productTabs", function(){
+    return {
+      restrict:'E',
+      templateUrl: "product-tabs.html",
+      controller: function(){
+    		    this.tab = 1;
+
+            this.isSet = function(checkTab) {
+              return this.tab === checkTab;
+            };
+
+            this.setTab = function(setTab) {
+              this.tab = setTab;
+            };
+    	},
+      controllerAs:'tab'
+    };
+  });
+...
+  
+// product-tabs.html:
+...
+          <ul class="nav nav-pills">
+            <li ng-class="{ active:tab.isSet(1) }">
+              <a href ng-click="tab.setTab(1)">Description</a>
+            </li>
+            <li ng-class="{ active:tab.isSet(2) }">
+              <a href ng-click="tab.setTab(2)">Specs</a>
+            </li>
+          </ul>  
+...
+
+// Now to use in index.html
+
+<product-tabs></product-tabs>
+
+{% nohighlight js %}
+
+
+# Modules and dependencies:
+
+{% highlight js %}
+// Add store-directives as dependency of getStore
+
+(function() {
+  var app = angular.module('gemStore', ['store-directives']); ->
+  ...
+})();
+
+(function() {
+  var app = angular.module('store-directives', []);  
+  ...
+})();
+{% nohighlight js %}
+
+
+# Angular Built in services!
+
+{% highlight js %}
+// Calling a REST Service
+
+  app.controller('StoreController', ['$http', function($http){
+    var store = this;
+    store.products = [];
+    $http.get('/store-products.json').success(function(data){
+    	store.products = data;
+    });
+  }]);
+{% nohighlight js %}
+
+
+
