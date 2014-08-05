@@ -265,8 +265,4 @@ We use: `ng-include`:
 <blockquote>{{ "{{ product.description "}}}}</blockquote>
 {% endhighlight js %}
 
-{% highlight js %}
-// Example: Defining the directive:
-
-
-{% nohighlight js %}
+Example: Defining the directive:
