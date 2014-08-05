@@ -257,7 +257,12 @@ Why? Let you write “expressive” html, easier to read and to understand its b
 We use: `ng-include`: 
 
 {% highlight js %}
+// In the html file
 <div ng-show="tab.isSet(1)" ng-include="'product-description.html'">
 </div>
+
+// In a separate file “product-description.html”:
+<h4>Description</h4>
+<blockquote>{{ "{{ product.description "}}}}</blockquote>
 {% endhighlight js %}
 
