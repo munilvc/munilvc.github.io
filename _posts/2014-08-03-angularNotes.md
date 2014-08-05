@@ -63,7 +63,7 @@ Note: A controller is attached to an app.
 
 {% highlight js %}
 <div class="product row" ng-repeat="product in store.products">
-      <h3> {{ "{{ product.price " }}}} </h3>
+  <h3> {{ "{{ product.price " }}}} </h3>
 </div>
 {% endhighlight %}
  
@@ -118,9 +118,9 @@ this.review.createdOn = Date.now(); // If we use this in controller
 {% highlight js %}
 <img ng-src="{{ "{{product.images[0].full " }}}}"/>
 
-<li class="small-image pull-left thumbnail" ng-repeat="image in product.images"> // Iterate/Repeat over an array of images.
+<li ng-repeat="image in product.images"> // Iterate/Repeat over an array of images.
 
-<div class="gallery" ng-show="product.images.length"> // Show only if the array is not empty.
+<div ng-show="product.images.length"> // Show only if the array is not empty.
 {% endhighlight js %}
 
 # Working with a panel controller 
@@ -144,13 +144,15 @@ app.controller('TabController', function(){
 
 // Respective directives in html code
 ...
-<section class="tab" ng-controller="TabController as tab">
-        <ul class="nav nav-pills">
-          <li ng-class="{active: tab.isSet(1)}">
-            <a href ng-click="tab.setTab(1)">Description</a></li>
+<section ng-controller="TabController as tab">
+  <ul>
+    <li ng-class="{active: tab.isSet(1)}">
+      <a href ng-click="tab.setTab(1)"> Description
+      </a>
+    </li>
 <div ng-show="tab.isSet(2)">
-          <h4>Specs</h4>
-          <blockquote>{{ "{{ product.shine " }}}}</blockquote>
+  <h4>Specs</h4>
+  <blockquote>{{ "{{ product.shine " }}}}</blockquote>
 </div>
 ...
 {% endhighlight js %}
@@ -166,24 +168,49 @@ Other example of controller and directives:
       this.current = newGallery || 0;
     };
   });
-…
+...
 
 // Respective directives
-// Note we use properties from different controllers - where scope is intercepted:
- 
-  <body class="list-group" ng-controller="StoreController as store">
-    <header>
-      <h1 class="text-center">Flatlander Crafted Gems</h1>
-      <h2 class="text-center">– an Angular store –</h2>
-    </header>
-    <div class="list-group-item" ng-repeat="product in store.products">
-      <h3>
-        {{ "{{ product.name "}}}}
-        <em class="pull-right">{{ "{{ product.price | currency " }}}}</em>
-      </h3>
+// Note we use properties from different controllers
+... 
+<body ng-controller="StoreController as store">
+  <div ng-repeat="product in store.products">
+    <h3>
+      {{ "{{ product.name "}}}}
+      ({{ "{{ product.price | currency " }}}})
+    </h3>
 
-      <!-- Image Gallery  -->
-      <div class='gallery' ng-show="product.images.length" ng-controller='GalleryController as gallery'>
-        <img ng-src="{{ "{{product.images[gallery.current] " }}}}" />
+<!-- Image Gallery  -->
+  <div class='gallery' ng-show="product.images.length" ng-controller='GalleryController as gallery'>
+   <img ng-src="{{ "{{product.images[gallery.current] " }}}}" />
 ...
+{% endhighlight js %}
+
+# Working with a Form
+
+{% highlight js %}
+// Adding a review to a list of reviews - new controller!
+...
+ app.controller('ReviewController', function(){
+    this.review = {};
+    this.addReview = function(productReviewed) {
+    	productReviewed.reviews.push(this.review);  // Add an element to the array
+      this.review = {};
+    };
+  });
+...
+
+// The directives and html related.  Note the preview and its relation with ng-model.  (double directional binding)
+
+<form name="reviewForm" ng-controller="ReviewController as reviewCtrl" ng-submit="reviewCtrl.addReview(product)">
+...
+  <strong>{{ "{{reviewCtrl.review.stars " }}}} Stars</strong>
+...
+  <select ng-model="reviewCtrl.review.stars" ng-options="stars for stars in [5,4,3,2,1]" title="Stars">
+    <option value="">Rate the Product</option>
+  </select>
+...      
+  <input type="submit" value="Submit Review" />
+</form>
+
 {% endhighlight js %}
