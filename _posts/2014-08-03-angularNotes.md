@@ -253,7 +253,6 @@ ng-submit="reviewForm.$valid && reviewCtrl.addReview(product)"
 # Custom Directives
 
 Why? Let you write “expressive” html, easier to read and to understand its behavior.
-
 We use: `ng-include`: 
 
 {% highlight js %}
@@ -266,10 +265,8 @@ We use: `ng-include`:
 <blockquote>{{ "{{ product.description "}}}}</blockquote>
 {% endhighlight js %}
 
-
 {% highlight js %}
-// Example:
-// js code defining the directive:
+// Example: Defining the directive:
 app.directive("productDescription", function(){
   return {
     restrict: 'E',   // E=Element, A=Attribute
@@ -277,5 +274,12 @@ app.directive("productDescription", function(){
     };
 });
 
+// related html code when directive is of type "element":
+<div>
+  <product-description ng-show="tab.isSet(1)"></product-description>
+</div>
+
+// similar html code when directive is of type "attribute":
+<div product-specs ng-show="tab.isSet(2)" >
 
 {% nohighlight js %}
