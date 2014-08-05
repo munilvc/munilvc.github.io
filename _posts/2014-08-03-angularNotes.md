@@ -71,9 +71,9 @@ Related JS (Whatever):
 
 {% highlight js %}
   var products = [
-    { name: 'Azurite', price: 2.95 },
-    { name: 'Bloodstone', price: 5.95 },
-    { name: 'Zircon', price: 3.95 },
+    { name: 'Azurite', price: 1.34 },
+    { name: 'Bloodstone', price: 2.67 },
+    { name: 'Zircon', price: 2.38 },
   ];
 {% endhighlight %}
   
@@ -122,6 +122,18 @@ this.review.createdOn = Date.now(); // If we use this in controller
 
 <div ng-show="product.images.length"> // Show only if the array is not empty.
 {% endhighlight js %}
+
+{% highlight css %}
+//json array of images
+images: [
+  "images/gem-01.gif",
+  "images/gem-03.gif",
+  "images/gem-04.gif"
+]
+//empty array
+images: [ ]
+{% endhighlight css %}    
+
 
 # Working with a panel controller 
 
@@ -351,4 +363,9 @@ app.controller('StoreController', ['$http', function($http){
     store.products = data;
   });
 }]);
+
+// It also provides logger, etc...
 {% endhighlight js %}
+
+
+Final note not related to Angular: It has been really painful to write this post with Jekyll since the Angular {{...}} syntax requires especial handling to display the "{{" :s
