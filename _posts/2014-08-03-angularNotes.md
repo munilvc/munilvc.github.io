@@ -102,13 +102,3 @@ Related JS (Whatever):
 
 Use a pipe ‘|’ to say “output ‘product.price’ into the ‘currency’ filter”.
 
-{% highlight js %}
-{{product.price | currency }} -> Currency
-{{'1388123412323' | date:'MM/dd/yyyy @ h:mma'}} -> Date
-this.review.createdOn = Date.now(); -> If we use this in controller
-{{review.createdOn | date}} -> Aug 3, 2014
-{{'octagon gem' | uppercase}} -> Uppercase, lowercase
-{{'My Description' | limitTo:8}} ->Number of characters
-<li ng-repeat="product in store.products | limitTo:3"> ->Limit iterations
-<li ng-repeat="product in store.products | orderBy:'-price'"> ->Order by, ‘-’ means desc, none means asc.
-{% endhighlight %}
