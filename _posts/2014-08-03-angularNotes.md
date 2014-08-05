@@ -25,7 +25,7 @@ So not all of this is my stuff but it can help you as a refresher too, if you ar
 
 <hr>
 
-Directive: `ng-app` - Attach the application module to the page.
+**Directive**: `ng-app` - Attach the application module to the page.
 
 {% highlight js %}
 <html ng-app="gemStore">
@@ -40,7 +40,7 @@ var app = angular.module('gemStore', []);
 
 <hr>
 
-Directive: `ng-controller` - Attach a controller function to the body element (since it is inside the 
+**Directive**: `ng-controller` - Attach a controller function to the body element (since it is inside the 
 <body> tag, the scope is within the <body>. For example it could also be a div).
 
 {% highlight js %}
@@ -59,15 +59,12 @@ Note: A controller is attached to an app.
 
 <hr>
 
-Directive: `ng-repeat` - Loop, repeats the element for each item in the array.
+**Directive**: `ng-repeat` - Loop, repeats the element for each item in the array.
 
 {% highlight js %}
 <div class="product row" ng-repeat="product in store.products">
-      <h3>
-        {{product.name}}
-        <em class="pull-right">${{product.price}}</em>
-      </h3>
- </div>
+      <h3> {{ "{{ product.price " }}}} </h3>
+</div>
 {% endhighlight %}
  
 Related JS (Whatever):
@@ -82,7 +79,7 @@ Related JS (Whatever):
   
 <hr>
 
-Directive: `ng-show` / `ng-hide` - Show or display the element based in the boolean represented by the property value.
+**Directive**: `ng-show` / `ng-hide` - Show or display the element based in the boolean represented by the property value.
 
 {% highlight js %}
 <div class="product row" ng-hide='store.product.soldOut'>
