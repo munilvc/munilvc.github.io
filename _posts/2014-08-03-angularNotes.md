@@ -70,7 +70,7 @@ Note: A controller is attached to an app.
 Related JS (Whatever):
 
 {% highlight js %}
-  var gems = [
+  var products = [
     { name: 'Azurite', price: 2.95 },
     { name: 'Bloodstone', price: 5.95 },
     { name: 'Zircon', price: 3.95 },
@@ -88,7 +88,7 @@ Related JS (Whatever):
 Related JS (Whatever):
 
 {% highlight js %}
- var gem = {
+ var product = {
     name: 'Azurite',
     price: 110.50,
     canPurchase: false,
@@ -180,9 +180,9 @@ Other example of controller and directives:
       ({{ "{{ product.price | currency " }}}})
     </h3>
 
-<!-- Image Gallery  -->
-  <div class='gallery' ng-show="product.images.length" ng-controller='GalleryController as gallery'>
-   <img ng-src="{{ "{{product.images[gallery.current] " }}}}" />
+// Image Gallery
+<div class='gallery' ng-show="product.images.length" ng-controller='GalleryController as gallery'>
+<img ng-src="{{ "{{product.images[gallery.current] " }}}}" />
 ...
 {% endhighlight js %}
 
@@ -214,3 +214,137 @@ Other example of controller and directives:
 </form>
 
 {% endhighlight js %}
+
+# Form Validations
+
+{% highlight js %}
+<form name=”reviewForm” …. novalidate> // novalidate: Turns off default validation by some browsers
+<input name=”author” ng-model=”reviewCtrl.revire.author” type=”email” required/> // required: Sets the form element as required, handled and defined by angular. Can validate URLs, emails, 
+{{ "{{ reviewForm.$valid " }}}} // evaluates to true or false on validations implemented by angular.
+{% endhighlight js %}
+
+{% highlight js %}
+class="ng-pristine ng-invalid" // style in code when form loads
+class="ng-dirty ng-invalid" // style when typing and invalid
+class="ng-dirty ng-valid" // style when typing and valid
+{% endhighlight js %}
+
+{% highlight js %}
+//we can play with styles:
+.ng-invalid.ng-dirty{
+border-color:#FA787E;
+}
+.ng-valid.ng-dirty{
+border-color: #78FA89;
+}
+{% endhighlight js %}
+
+{% highlight js %}
+ng-submit="reviewForm.$valid && reviewCtrl.addReview(product)" // Submit form only if form is valid.
+{% endhighlight js %}
+
+# Custom Directives
+
+Why? Let you write “expressive” html, easier to read and to understand its behavior.
+
+We use: `ng-include`: 
+
+{% highlight js %}
+<div ng-show="tab.isSet(1)" ng-include="'product-description.html'">
+</div>
+{% endhighlight js %}
+
+{% highlight js %}
+// In a separate file “product-description.html”:
+<h4>Description</h4>
+<blockquote>{{ "{{ product.description "}}}}</blockquote>
+{% endhighlight js %}
+
+Example:
+{% highlight js %}
+//js code defining the directive:
+app.directive("productDescription", function(){
+  return {
+    restrict: 'E',   // E=Element, A=Attribute
+      templateUrl: "product-description.html"
+    };
+});
+
+//related html code when directive is of type "element":
+<div>
+  <product-description ng-show="tab.isSet(1)"></product-description>
+</div>
+
+// similar html code when directive is of type "attribute":
+<div product-specs ng-show="tab.isSet(2)" >
+{% nohighlight js %}
+
+# Defining a controller in the directive:
+
+{% highlight js %}
+...
+app.directive("productTabs", function(){
+  return {
+    restrict:'E',
+    templateUrl: "product-tabs.html",
+    controller: function(){
+      this.tab = 1;
+
+      this.isSet = function(checkTab) {
+	return this.tab === checkTab;
+      };
+
+      this.setTab = function(setTab) {
+	this.tab = setTab;
+      };
+    },
+    controllerAs:'tab'
+  };
+});
+...
+  
+// product-tabs.html:
+...
+<ul class="nav nav-pills">
+  <li ng-class="{ active:tab.isSet(1) }">
+    <a href ng-click="tab.setTab(1)">Description</a>
+  </li>
+  <li ng-class="{ active:tab.isSet(2) }">
+    <a href ng-click="tab.setTab(2)">Specs</a>
+  </li>
+</ul>  
+...
+
+// Now to use in index.html
+<product-tabs></product-tabs>
+
+{% nohighlight js %}
+
+# Modules and dependencies:
+
+{% highlight js %}
+// Add store-directives as dependency of getStore
+
+(function() {
+  var app = angular.module('gemStore', ['store-directives']); ->
+  ...
+})();
+
+(function() {
+  var app = angular.module('store-directives', []);  
+  ...
+})();
+{% nohighlight js %}
+
+# Angular Built in services!
+
+{% highlight js %}
+// Calling a REST Service
+app.controller('StoreController', ['$http', function($http){
+  var store = this;
+  store.products = [];
+  $http.get('/store-products.json').success(function(data){
+    store.products = data;
+  });
+}]);
+{% nohighlight js %}
