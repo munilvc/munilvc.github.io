@@ -150,7 +150,40 @@ app.controller('TabController', function(){
             <a href ng-click="tab.setTab(1)">Description</a></li>
 <div ng-show="tab.isSet(2)">
           <h4>Specs</h4>
-          <blockquote>{{ "{{ ""Shine:"" + product.shine " }}}}</blockquote>
-        </div>
+          <blockquote>{{ "{{ product.shine " }}}}</blockquote>
+</div>
+...
+{% endhighlight js %}
+
+Other example of controller and directives:
+
+{% highlight js %}
+// Now for setting a default
+...
+  app.controller('GalleryController', function(){
+    this.current = 0;
+    this.setCurrent = function(newGallery){
+      this.current = newGallery || 0;
+    };
+  });
+…
+
+// Respective directives
+// Note we use properties from different controllers - where scope is intercepted:
+ 
+  <body class="list-group" ng-controller="StoreController as store">
+    <header>
+      <h1 class="text-center">Flatlander Crafted Gems</h1>
+      <h2 class="text-center">– an Angular store –</h2>
+    </header>
+    <div class="list-group-item" ng-repeat="product in store.products">
+      <h3>
+        {{ "{{ product.name "}}}}
+        <em class="pull-right">{{ "{{ product.price | currency " }}}}</em>
+      </h3>
+
+      <!-- Image Gallery  -->
+      <div class='gallery' ng-show="product.images.length" ng-controller='GalleryController as gallery'>
+        <img ng-src="{{ "{{product.images[gallery.current] " }}}}" />
 ...
 {% endhighlight js %}
