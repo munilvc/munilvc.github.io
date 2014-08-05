@@ -23,26 +23,34 @@ So not all of this is my stuff but it can help you as a refresher too, if you ar
 
 ## Directives and "whatever"
 
-Directive: 
-`ng-app` - Attach the application module to the page.
+Directive: `ng-app` - Attach the application module to the page.
 
+{% highlight js %}
 <html ng-app="gemStore">
+{% endhighlight %}
 
 Whatever:
+
+{% highlight js %}
 var app = angular.module('gemStore', []);
+{% endhighlight %}
 
 <hr>
 
-Directive: 
-`ng-controller` - Attach a controller function to the body element (since it is inside the 
+Directive: `ng-controller` - Attach a controller function to the body element (since it is inside the 
 <body> tag, the scope is within the <body>. For example it could also be a div).
 
+{% highlight js %}
 <body ng-controller="StoreController as store">
+{% endhighlight %}
 
 Whatever:
+
+{% highlight js %}
 app.controller('StoreController', function(){
   this.products=gems; //Put data into a “model”
 });
+{% endhighlight %}
 
 Note: A controller is attached to an app.
 
