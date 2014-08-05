@@ -266,9 +266,10 @@ We use: `ng-include`:
 <blockquote>{{ "{{ product.description "}}}}</blockquote>
 {% endhighlight js %}
 
-Example:
+
 {% highlight js %}
-//js code defining the directive:
+// Example:
+// js code defining the directive:
 app.directive("productDescription", function(){
   return {
     restrict: 'E',   // E=Element, A=Attribute
@@ -276,11 +277,5 @@ app.directive("productDescription", function(){
     };
 });
 
-//related html code when directive is of type "element":
-<div>
-  <product-description ng-show="tab.isSet(1)"></product-description>
-</div>
 
-// similar html code when directive is of type "attribute":
-<div product-specs ng-show="tab.isSet(2)" >
 {% nohighlight js %}
