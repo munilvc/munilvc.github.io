@@ -113,9 +113,6 @@ this.review.createdOn = Date.now(); // If we use this in controller
 <li ng-repeat="product in store.products | orderBy:'-price'"> // Order by, minus(-) means desc, none means asc.
 {% endhighlight %}
 
-
------------
-
 # Working with images
 
 {% highlight js %}
