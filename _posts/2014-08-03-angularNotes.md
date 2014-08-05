@@ -150,7 +150,7 @@ app.controller('TabController', function(){
             <a href ng-click="tab.setTab(1)">Description</a></li>
 <div ng-show="tab.isSet(2)">
           <h4>Specs</h4>
-          <blockquote>{{ "{{ "Shine:" + product.shine " }}}}</blockquote>
+          <blockquote>{{ "{{ ""Shine:"" + product.shine " }}}}</blockquote>
         </div>
 ...
 {% endhighlight js %}
