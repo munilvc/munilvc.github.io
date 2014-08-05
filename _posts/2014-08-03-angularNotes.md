@@ -21,4 +21,19 @@ So not all of this is my stuff but it can help you as a refresher too, if you ar
 - View (Where we use HTML, Directives, Modules, Expressions) 
 - Whatever (Where we define Controllers, Modules, Directives)
 
+# Directives and "whatever"
 
+Directive: `ng-app` - Attach the application module to the page.
+
+{% highlight js %}
+<html ng-app="gemStore">
+{{ test }}
+{% endhighlight %}
+
+Whatever:
+
+{% highlight js %}
+var app = angular.module('gemStore', []);
+{% endhighlight %}
+
+<hr>
