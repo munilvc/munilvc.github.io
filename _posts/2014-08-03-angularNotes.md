@@ -367,4 +367,4 @@ app.controller('StoreController', ['$http', function($http){
 // It also provides logger, etc...
 {% endhighlight js %}
 
-Final note not related to Angular:
+Final note not related to Angular: It has been really painful to write this post with Jekyll since the Angular {{ "{{ ... "}}}} syntax requires especial handling to display the  :s
