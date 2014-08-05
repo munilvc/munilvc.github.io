@@ -219,7 +219,7 @@ Other example of controller and directives:
 
 {% highlight html %}
 // novalidate: Turns off default validation by some browsers
-<form name=”reviewForm” …. novalidate> 
+<form name=”reviewForm” novalidate> 
 
 // required: Sets the form element as required, handled and defined by angular. Can validate URLs, emails,
 <input name=”author” ng-model=”reviewCtrl.revire.author” type=”email” required/>  
@@ -229,13 +229,14 @@ Other example of controller and directives:
 {% endhighlight html %}
 
 {% highlight html %}
+// Styles used by Angular
 class="ng-pristine ng-invalid" // style in code when form loads
 class="ng-dirty ng-invalid" // style when typing and invalid
 class="ng-dirty ng-valid" // style when typing and valid
 {% endhighlight html %}
 
 {% highlight css %}
-//we can play with styles:
+// knowing previous Angular styles let us play with css:
 .ng-invalid.ng-dirty{
 border-color:#FA787E;
 }
@@ -245,6 +246,42 @@ border-color: #78FA89;
 {% endhighlight css %}
 
 {% highlight html %}
-ng-submit="reviewForm.$valid && reviewCtrl.addReview(product)" // Submit form only if form is valid.
+// Submit form only if form is valid.
+ng-submit="reviewForm.$valid && reviewCtrl.addReview(product)" 
 {% endhighlight html %}
 
+# Custom Directives
+
+Why? Let you write “expressive” html, easier to read and to understand its behavior.
+
+We use: `ng-include`: 
+
+{% highlight js %}
+<div ng-show="tab.isSet(1)" ng-include="'product-description.html'">
+</div>
+{% endhighlight js %}
+
+{% highlight js %}
+// In a separate file “product-description.html”:
+<h4>Description</h4>
+<blockquote>{{ "{{ product.description "}}}}</blockquote>
+{% endhighlight js %}
+
+Example:
+{% highlight js %}
+//js code defining the directive:
+app.directive("productDescription", function(){
+  return {
+    restrict: 'E',   // E=Element, A=Attribute
+      templateUrl: "product-description.html"
+    };
+});
+
+//related html code when directive is of type "element":
+<div>
+  <product-description ng-show="tab.isSet(1)"></product-description>
+</div>
+
+// similar html code when directive is of type "attribute":
+<div product-specs ng-show="tab.isSet(2)" >
+{% nohighlight js %}
