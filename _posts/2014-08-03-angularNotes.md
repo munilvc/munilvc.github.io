@@ -122,3 +122,35 @@ this.review.createdOn = Date.now(); // If we use this in controller
 
 <div class="gallery" ng-show="product.images.length"> // Show only if the array is not empty.
 {% endhighlight js %}
+
+# Working with a panel controller 
+
+To extract logic to javascript and not inside html.
+
+{% highlight js %}
+// A new controller...
+...
+app.controller('TabController', function(){
+  this.tab=1;
+  this.setTab = function(setTabValue){
+      this.tab = setTabValue;
+  };
+	  
+  this.isSet = function(tabValue){
+      return this.tab == tabValue;
+  };
+});
+...
+
+// Respective directives in html code
+...
+<section class="tab" ng-controller="TabController as tab">
+        <ul class="nav nav-pills">
+          <li ng-class="{active: tab.isSet(1)}">
+            <a href ng-click="tab.setTab(1)">Description</a></li>
+<div ng-show="tab.isSet(2)">
+          <h4>Specs</h4>
+          <blockquote>{{ "{{ "Shine:" + product.shine " }}}}</blockquote>
+        </div>
+...
+{% endhighlight js %}
