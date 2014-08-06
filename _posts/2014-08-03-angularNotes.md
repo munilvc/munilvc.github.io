@@ -27,14 +27,14 @@ So not all of this is my stuff but it can help you as a refresher too, if you ar
 
 **Directive**: `ng-app` - Attach the application module to the page.
 
-{% highlight js %}
+{% highlight js linenos %}
 <html ng-app="gemStore">
 
 {% endhighlight %}
 
 Related JS (Whatever):
 
-{% highlight js %}
+{% highlight js linenos %}
 var app = angular.module('gemStore', []);
 {% endhighlight %}
 
@@ -43,13 +43,13 @@ var app = angular.module('gemStore', []);
 **Directive**: `ng-controller` - Attach a controller function to the body element (since it is inside the 
 <body> tag, the scope is within the <body>. For example it could also be a div).
 
-{% highlight js %}
+{% highlight js linenos %}
 <body ng-controller="StoreController as store">
 {% endhighlight %}
 
 Related JS (Whatever):
 
-{% highlight js %}
+{% highlight js linenos %}
 app.controller('StoreController', function(){
   this.products=gems; //Put data into a “model”
 });
@@ -61,7 +61,7 @@ Note: A controller is attached to an app.
 
 **Directive**: `ng-repeat` - Loop, repeats the element for each item in the array.
 
-{% highlight js %}
+{% highlight js linenos %}
 <div class="product row" ng-repeat="product in store.products">
   <h3> {{ "{{ product.price " }}}} </h3>
 </div>
@@ -69,7 +69,7 @@ Note: A controller is attached to an app.
  
 Related JS (Whatever):
 
-{% highlight js %}
+{% highlight js linenos %}
   var products = [
     { name: 'Azurite', price: 1.34 },
     { name: 'Bloodstone', price: 2.67 },
@@ -81,13 +81,13 @@ Related JS (Whatever):
 
 **Directive**: `ng-show` / `ng-hide` - Show or display the element based in the boolean represented by the property value.
 
-{% highlight js %}
+{% highlight js linenos %}
 <div class="product row" ng-hide='store.product.soldOut'>
 {% endhighlight %}
 
 Related JS (Whatever):
 
-{% highlight js %}
+{% highlight js linenos %}
  var product = {
     name: 'Azurite',
     price: 110.50,
@@ -102,7 +102,7 @@ Related JS (Whatever):
 
 Use a pipe ‘|’ to say “output ‘product.price’ into the ‘currency’ filter”.
 
-{% highlight js %}
+{% highlight js linenos %}
 {{ "{{ product.price | currency " }}}} // Currency
 {{ "{{ '1388123412323' | date:'MM/dd/yyyy @ h:mma' " }}}} // Date
 this.review.createdOn = Date.now(); // If we use this in controller
@@ -115,15 +115,15 @@ this.review.createdOn = Date.now(); // If we use this in controller
 
 # Working with images
 
-{% highlight js %}
+{% highlight js linenos %}
 <img ng-src="{{ "{{product.images[0].full " }}}}"/>
 
 <li ng-repeat="image in product.images"> // Iterate/Repeat over an array of images.
 
 <div ng-show="product.images.length"> // Show only if the array is not empty.
-{% endhighlight js %}
+{% endhighlight %}
 
-{% highlight css %}
+{% highlight css linenos %}
 //json array of images
 images: [
   "images/gem-01.gif",
@@ -132,14 +132,14 @@ images: [
 ]
 //empty array
 images: [ ]
-{% endhighlight css %}    
+{% endhighlight %}    
 
 
 # Working with a panel controller 
 
 To extract logic to javascript and not inside html.
 
-{% highlight js %}
+{% highlight js linenos%}
 // A new controller...
 ...
 app.controller('TabController', function(){
@@ -167,11 +167,11 @@ app.controller('TabController', function(){
   <blockquote>{{ "{{ product.shine " }}}}</blockquote>
 </div>
 ...
-{% endhighlight js %}
+{% endhighlight %}
 
 Other example of controller and directives:
 
-{% highlight js %}
+{% highlight js linenos %}
 // Now for setting a default
 ...
   app.controller('GalleryController', function(){
@@ -196,11 +196,11 @@ Other example of controller and directives:
 <div class='gallery' ng-show="product.images.length" ng-controller='GalleryController as gallery'>
 <img ng-src="{{ "{{product.images[gallery.current] " }}}}" />
 ...
-{% endhighlight js %}
+{% endhighlight %}
 
 # Working with a Form
 
-{% highlight js %}
+{% highlight js linenos%}
 // Adding a review to a list of reviews - new controller!
 ...
  app.controller('ReviewController', function(){
@@ -225,11 +225,11 @@ Other example of controller and directives:
   <input type="submit" value="Submit Review" />
 </form>
 
-{% endhighlight js %}
+{% endhighlight %}
 
 # Form Validations
 
-{% highlight html %}
+{% highlight html linenos %}
 // novalidate: Turns off default validation by some browsers
 <form name=”reviewForm” novalidate> 
 
@@ -238,16 +238,16 @@ Other example of controller and directives:
 
 // evaluates to true or false on validations implemented by angular.
 {{ "{{ reviewForm.$valid " }}}} 
-{% endhighlight html %}
+{% endhighlight %}
 
-{% highlight html %}
+{% highlight html linenos%}
 // Styles used by Angular
 class="ng-pristine ng-invalid" // style in code when form loads
 class="ng-dirty ng-invalid" // style when typing and invalid
 class="ng-dirty ng-valid" // style when typing and valid
-{% endhighlight html %}
+{% endhighlight %}
 
-{% highlight css %}
+{% highlight css linenos%}
 // knowing previous Angular styles let us play with css:
 .ng-invalid.ng-dirty{
 border-color:#FA787E;
@@ -255,19 +255,19 @@ border-color:#FA787E;
 .ng-valid.ng-dirty{
 border-color: #78FA89;
 }
-{% endhighlight css %}
+{% endhighlight %}
 
-{% highlight html %}
+{% highlight html linenos %}
 // Submit form only if form is valid.
 ng-submit="reviewForm.$valid && reviewCtrl.addReview(product)" 
-{% endhighlight html %}
+{% endhighlight %}
 
 # Custom Directives
 
 Why? Let you write “expressive” html, easier to read and to understand its behavior.
 We use: `ng-include`: 
 
-{% highlight js %}
+{% highlight js linenos %}
 // In the html file
 <div ng-show="tab.isSet(1)" ng-include="'product-description.html'">
 </div>
@@ -275,10 +275,10 @@ We use: `ng-include`:
 // In a separate file “product-description.html”:
 <h4>Description</h4>
 <blockquote>{{ "{{ product.description "}}}}</blockquote>
-{% endhighlight js %}
+{% endhighlight %}
 
 Example: Defining the directive
-{% highlight js %}
+{% highlight js linenos %}
 app.directive("productDescription", function(){
   return {
     restrict: 'E',   // E=Element, A=Attribute
@@ -293,11 +293,11 @@ app.directive("productDescription", function(){
 
 // similar html code when directive is of type "attribute":
 <div product-specs ng-show="tab.isSet(2)" >
-{% endhighlight js %}
+{% endhighlight %}
 
 # Defining a controller in the directive:
 
-{% highlight js %}
+{% highlight js linenos%}
 ...
 app.directive("productTabs", function(){
   return {
@@ -334,11 +334,11 @@ app.directive("productTabs", function(){
 // Now to use in index.html
 <product-tabs></product-tabs>
 
-{% endhighlight js %}
+{% endhighlight %}
 
 # Modules and dependencies:
 
-{% highlight js %}
+{% highlight js linenos%}
 // Add store-directives as dependency of getStore
 
 (function() {
@@ -350,11 +350,11 @@ app.directive("productTabs", function(){
   var app = angular.module('store-directives', []);  
   ...
 })();
-{% endhighlight js %}
+{% endhighlight %}
 
 # Angular Built in services!
 
-{% highlight js %}
+{% highlight js linenos %}
 // Calling a REST Service
 app.controller('StoreController', ['$http', function($http){
   var store = this;
@@ -365,6 +365,6 @@ app.controller('StoreController', ['$http', function($http){
 }]);
 
 // It also provides logger, etc...
-{% endhighlight js %}
+{% endhighlight %}
 
 Final note not related to Angular: It has been really painful to write this post with Jekyll since the Angular {{ "{{ ... "}}}} syntax requires especial handling to be displayed :s
