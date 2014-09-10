@@ -3,6 +3,13 @@ layout: post
 title: Example content
 ---
 
+[Testing Viglink]
+
+<a href="http://bit.ly/1lW4I01" target="_blank">The First Years Breastflow Mipump Single Electric Breast Pump</a>
+
+<a href="http://bit.ly/1otstrQ" target="_blank">Hot Wheels 9-Car Gift Pack (Styles May Vary)</a>
+
+
 [munilvc: This is not my post. I will just keep this file to use an example until I get familiar with syntax]
 
 <div class="message">
