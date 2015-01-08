@@ -4,8 +4,5 @@ title: Presentations
 ---
 <div>
 <ul>
-{% for presentation in site.presentations %}
-  <li><b>{{ presentation.date | date_to_string }} : </b> <a href="{{ presentation.url }}" > {{ presentation.title }} </a></li>
-{% endfor %}
-</ul>
+  <li><b>01 Jan 2015 : </b> <a href="_presentations/2015-01-07-Scala101.html" target="_blank" > Scala101 </a></li> </ul>
 </div>
