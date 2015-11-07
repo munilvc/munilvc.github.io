@@ -1,6 +1,6 @@
 ---
 layout: post
-Proyecto base de Spring 4: MVC + Security
+title: Proyecto base de Spring 4: MVC + Security
 comments: true
 ---
 
