@@ -18,21 +18,77 @@ Proyecto: https://github.com/munilvc/MySpringWebSecurityApp
 ### Algunas notas sobre lo que veran en el código:
 
 #### SpringMVC
-1. Configurar Spring MVC es ahora mas facil que nunca, como no queremos XML, todo lo que necesitamos es una clase que extienda AbstractAnnotationConfigDispatcherServletInitializer, y en esta configuramos las clases @Configuration que representan a nuestros application contexts y uno de estos tiene que extender WebMvcConfigurerAdapter y tambien llevar @EnableWebMvc. Con esto estamos!  Dentro de esta clase configuration, podemos declarar las cosas que normalmente haciamos en XML como el ViewResolver y ResourceHandler.
+
+1. Configurar Spring MVC es ahora mas facil que nunca, como no queremos XML, todo lo que necesitamos es una clase que extienda AbstractAnnotationConfigDispatcherServletInitializer, y en esta configuramos las clases @Configuration que representan a nuestros application contexts. 
 
 ```java
+
+public class MvcInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
+
+    @Override
+    protected Class<?>[] getServletConfigClasses() {
+        return new Class[] { WebApplicationContextConfig.class };
+    }
+    ...
+
+```
+
+2. Y luego en un application context tenemos que extender WebMvcConfigurerAdapter y tambien declarar @EnableWebMvc. Con esto estamos!  Dentro de esta clase configuration, podemos declarar las cosas que normalmente haciamos en XML como el ViewResolver y ResourceHandler.
+
+```java
+
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = { "org.munilvc.myspringwebsecurityapp" })
 public class WebApplicationContextConfig extends WebMvcConfigurerAdapter {
+
+    @Bean(name = "viewResolver")
+    public InternalResourceViewResolver getViewResolver() {
+        InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
+        viewResolver.setPrefix("/WEB-INF/views/");
+        viewResolver.setSuffix(".jsp");
+        return viewResolver;
+    }
+    ...
+    
 ```
 
-Si queremos crear @Controllers especificos los creamos en otro paquete si queremos y usamos @ComponentScan desde la clase configuration para que la aplicación sepa donde buscar los controllers. Recontra simple!
+Si queremos crear @Controllers especificos los creamos en otro paquete si queremos y usamos @ComponentScan desde la clase @Configuration para que la aplicación sepa donde buscar los controllers. Recontra simple!
+
 
 #### SpringSecurity
+
 1. SpringSecurity funciona mediante filtros.
-2. Con SpringSecurity 4, gracias a que ahora soporta JavaConfig, solo necesitamos agregar una clase que implemente WebApplicationInitializer (en el ejemplo uso una implementacion abstract de Spring) y agregar la anotacion @EnableWebSecurity en una clase @Configuration que implemente WebSecurityConfigurer (en el ejemplo uso un Adapter de spring).  Esto se encarga, entre otras cosas, de lo que haciamos antes en el web.xml, configurando el filtro DelegatingFilterProxy hacia "springSecurityFilterChain" de Spring, y lo que hace es delegar la responsabilidad de seguridad a un filtro de Spring en el spring-context (Del servlet-context al spring-context).
-3. Para customizar la seguridad, ya solo tenemos que hacerle @override a los metodos configure() de la clase @Configuration
+2. Con SpringSecurity 4, gracias a que ahora soporta JavaConfig, solo necesitamos agregar una clase que implemente WebApplicationInitializer (en el ejemplo uso una implementacion abstract de Spring).
+ 
+```java
+
+public class SecurityInitializer extends AbstractSecurityWebApplicationInitializer {
+    ...
+    
+```
+
+3. Luego agregar la anotacion @EnableWebSecurity en una clase @Configuration que implemente WebSecurityConfigurer (en el ejemplo uso un Adapter de spring).  Esto se encarga, entre otras cosas, de lo que haciamos antes en el web.xml, configurando el filtro DelegatingFilterProxy hacia "springSecurityFilterChain" de Spring, y lo que hace es delegar la responsabilidad de seguridad a un filtro de Spring en el spring-context (Del servlet-context al spring-context).
+
+```java
+
+@Configuration
+@EnableWebSecurity
+public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
+
+    @Override
+    protected void configure(HttpSecurity http) throws Exception {
+        http.authorizeRequests()
+            .antMatchers("/resources/**").permitAll()
+            .anyRequest().authenticated()
+            .and().formLogin().loginPage("/login").permitAll()
+            .and().logout().permitAll();
+    }
+  ...
+
+```
+
+3. Para customizar la seguridad, ya solo tenemos que hacerle @Override a los metodos configure() de la clase @Configuration
 
 #### Otros
 1. Spring4, sigue siendo bastante Convention over Configuration friendly.
