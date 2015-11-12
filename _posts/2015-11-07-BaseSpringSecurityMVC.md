@@ -21,9 +21,8 @@ Hace ya varios meses que quería publicar algo sobre Spring Security, pues basad
 #### SpringMVC
 
 1. Configurar Spring MVC es ahora mas facil que nunca, como no queremos XML, todo lo que necesitamos es una clase que extienda AbstractAnnotationConfigDispatcherServletInitializer, y en esta configuramos las clases @Configuration que representan a nuestros application contexts.
-    
-    ```java
-    
+
+    {% highlight java linenos %}    
     public class MvcInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
     
         @Override
@@ -31,12 +30,11 @@ Hace ya varios meses que quería publicar algo sobre Spring Security, pues basad
             return new Class[] { WebApplicationContextConfig.class };
         }
         ...
-    ```
+    {% endhighlight %}
     
 2. Y luego en un application context tenemos que extender WebMvcConfigurerAdapter y tambien declarar @EnableWebMvc. Con esto estamos!  Dentro de esta clase configuration, podemos declarar las cosas que normalmente haciamos en XML como el ViewResolver y ResourceHandler.
     
-    ```java
-    
+    {% highlight java linenos %}
     @Configuration
     @EnableWebMvc
     @ComponentScan(basePackages = { "org.munilvc.myspringwebsecurityapp" })
@@ -50,8 +48,7 @@ Hace ya varios meses que quería publicar algo sobre Spring Security, pues basad
             return viewResolver;
         }
         ...
-        
-    ```
+    {% endhighlight %}
     
 3. Si queremos crear @Controllers especificos los creamos en otro paquete si queremos y usamos @ComponentScan desde la clase @Configuration para que la aplicación sepa donde buscar los controllers. Recontra simple!
 
@@ -61,12 +58,10 @@ Hace ya varios meses que quería publicar algo sobre Spring Security, pues basad
 1. SpringSecurity funciona mediante filtros.
 2. Con SpringSecurity 4, gracias a que ahora soporta JavaConfig, solo necesitamos agregar una clase que implemente WebApplicationInitializer (en el ejemplo uso una implementacion abstract de Spring).
     
-    ```java
-    
+    {% highlight java linenos %}
     public class SecurityInitializer extends AbstractSecurityWebApplicationInitializer {
         ...
-        
-    ```
+    {% endhighlight %}
     
 3. Luego agregar la anotacion @EnableWebSecurity en una clase @Configuration que implemente WebSecurityConfigurer (en el ejemplo uso un Adapter de spring).  Esto se encarga, entre otras cosas, de lo que haciamos antes en el web.xml, configurando el filtro DelegatingFilterProxy hacia "springSecurityFilterChain" de Spring, y lo que hace es delegar la responsabilidad de seguridad a un filtro de Spring en el spring-context (Del servlet-context al spring-context).
 
