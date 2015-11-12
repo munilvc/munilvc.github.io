@@ -15,9 +15,36 @@ Proyecto: https://github.com/munilvc/MySpringWebSecurityApp
 * Java Config (Adiós xml - para containers que soporten Servlets 3 - desde Tomcat7)
 * Maven
 
-### Algunas notas:
-1. Maven pom.xml “a la antigua”, no usé spring boot porque quería configurarlo todo a manera de refrescar la memoria.
-2. Como verán no tiene nada de xml (aparte del pom), esto gracias a Java Config.
+### Algunas notas sobre lo que veran en el código:
+
+#### SpringMVC
+1. Configurar Spring MVC es ahora mas facil que nunca, como no queremos XML, todo lo que necesitamos es una clase que extienda AbstractAnnotationConfigDispatcherServletInitializer, y en esta configuramos las clases @Configuration que representan a nuestros application contexts y uno de estos tiene que extender WebMvcConfigurerAdapter y tambien llevar @EnableWebMvc. Con esto estamos!  Dentro de esta clase configuration, podemos declarar las cosas que normalmente haciamos en XML como el ViewResolver y ResourceHandler.
+
+{% highlight %}  
+@Configuration
+@EnableWebMvc
+@ComponentScan(basePackages = { "org.munilvc.myspringwebsecurityapp" })
+public class WebApplicationContextConfig extends WebMvcConfigurerAdapter {
+{% endhighlight %}
+
+```java
+@Configuration
+@EnableWebMvc
+@ComponentScan(basePackages = { "org.munilvc.myspringwebsecurityapp" })
+public class WebApplicationContextConfig extends WebMvcConfigurerAdapter {
+```
+
+Si queremos crear @Controllers especificos los creamos en otro paquete si queremos y usamos @ComponentScan desde la clase configuration para que la aplicación sepa donde buscar los controllers. Recontra simple!
+
+#### SpringSecurity
+1. SpringSecurity funciona mediante filtros.
+2. Con SpringSecurity 4, gracias a que ahora soporta JavaConfig, solo necesitamos agregar una clase que implemente WebApplicationInitializer (en el ejemplo uso una implementacion abstract de Spring) y agregar la anotacion @EnableWebSecurity en una clase @Configuration que implemente WebSecurityConfigurer (en el ejemplo uso un Adapter de spring).  Esto se encarga, entre otras cosas, de lo que haciamos antes en el web.xml, configurando el filtro DelegatingFilterProxy hacia "springSecurityFilterChain" de Spring, y lo que hace es delegar la responsabilidad de seguridad a un filtro de Spring en el spring-context (Del servlet-context al spring-context).
+3. Para customizar la seguridad, ya solo tenemos que hacerle @override a los metodos configure() de la clase @Configuration
+
+#### Otros
+1. Spring4, sigue siendo bastante Convention over Configuration friendly.
+2. Maven pom.xml “a la antigua”, no usé spring boot porque quería configurarlo todo a manera de refrescar la memoria.
+3. Como verán no tiene nada de xml (aparte del pom), esto gracias a Java Config, por fin!
 
 ### Referencias Bibliográficas:
 * <a href="http://spring.io/" target="_blank">Documentación oficial</a>
