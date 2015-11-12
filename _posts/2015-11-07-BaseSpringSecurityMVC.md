@@ -69,13 +69,11 @@ Hace ya varios meses que quería publicar algo sobre Spring Security, pues basad
     ```
     
 3. Luego agregar la anotacion @EnableWebSecurity en una clase @Configuration que implemente WebSecurityConfigurer (en el ejemplo uso un Adapter de spring).  Esto se encarga, entre otras cosas, de lo que haciamos antes en el web.xml, configurando el filtro DelegatingFilterProxy hacia "springSecurityFilterChain" de Spring, y lo que hace es delegar la responsabilidad de seguridad a un filtro de Spring en el spring-context (Del servlet-context al spring-context).
-    
+
     {% highlight js linenos %}
-    
     @Configuration
     @EnableWebSecurity
     public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
-    
         @Override
         protected void configure(HttpSecurity http) throws Exception {
             http.authorizeRequests()
@@ -85,9 +83,8 @@ Hace ya varios meses que quería publicar algo sobre Spring Security, pues basad
                 .and().logout().permitAll();
         }
       ...
-    
     {% endhighlight %}
-    
+
 4. Para customizar la seguridad, ya solo tenemos que hacerle @Override a los metodos configure() de la clase @Configuration.
 
 #### Otros
