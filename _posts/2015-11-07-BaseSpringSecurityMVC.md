@@ -6,8 +6,8 @@ comments: true
 
 Hace ya varios meses que quería publicar algo sobre Spring Security, pues basado en mi experiencia, los proyectos más importantes en los que he participado en Perú como en USA lo usan para la seguridad en sus aplicaciones, además que es un módulo que tiene una amplia acogida por la comunidad Spring!
 
-Proyecto: https://github.com/munilvc/MySpringWebSecurityApp
-Descripción: Es una aplicacion simple que muestra como hacer login y logout con SpringMVC y SpringSecurity, sin usar XML, y con algo de Bootstrap para hacerla responsive. 
+* Proyecto: https://github.com/munilvc/MySpringWebSecurityApp
+* Descripción: Es una aplicacion simple que muestra como hacer login y logout con SpringMVC y SpringSecurity, sin usar XML, y con algo de Bootstrap para hacerla responsive. 
 
 ### Herramientas: 
 * Spring MVC 4
