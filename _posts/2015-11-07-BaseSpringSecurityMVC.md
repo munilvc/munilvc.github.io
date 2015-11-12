@@ -20,19 +20,7 @@ Proyecto: https://github.com/munilvc/MySpringWebSecurityApp
 #### SpringMVC
 1. Configurar Spring MVC es ahora mas facil que nunca, como no queremos XML, todo lo que necesitamos es una clase que extienda AbstractAnnotationConfigDispatcherServletInitializer, y en esta configuramos las clases @Configuration que representan a nuestros application contexts y uno de estos tiene que extender WebMvcConfigurerAdapter y tambien llevar @EnableWebMvc. Con esto estamos!  Dentro de esta clase configuration, podemos declarar las cosas que normalmente haciamos en XML como el ViewResolver y ResourceHandler.
 
-{% highlight %}  
-@Configuration
-@EnableWebMvc
-@ComponentScan(basePackages = { "org.munilvc.myspringwebsecurityapp" })
-public class WebApplicationContextConfig extends WebMvcConfigurerAdapter {
-{% endhighlight %}
 
-```java
-@Configuration
-@EnableWebMvc
-@ComponentScan(basePackages = { "org.munilvc.myspringwebsecurityapp" })
-public class WebApplicationContextConfig extends WebMvcConfigurerAdapter {
-```
 
 Si queremos crear @Controllers especificos los creamos en otro paquete si queremos y usamos @ComponentScan desde la clase configuration para que la aplicación sepa donde buscar los controllers. Recontra simple!
 
