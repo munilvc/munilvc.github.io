@@ -52,6 +52,29 @@ Hace ya varios meses que quería publicar algo sobre Spring Security, pues basad
     
 * Si queremos crear @Controllers especificos los creamos en otro paquete si queremos y usamos @ComponentScan desde la clase @Configuration para que la aplicación sepa donde buscar los controllers. Recontra simple!
 
+* Nota - XML: para usar xml lo que se hace es declarar un "FrontController", se declara un servlet (de una clase spring DispatcherServlet) junto un path base de accion para este servlet en el archivo web.xml.  Esto hace que el request si viene de este path se redireccione a Spring y este levanta un contexto propio basado en un archivo con el nombre del servlet + "-servlet.xml", dentro de este archivo se configuran las cosas como view resolver, scanners para anotaciones, etc.  Tambien podemos configurar archivos de contexto adicionales usando un listener (ContextLoaderListener de Srping) y el tag context-Param.
+
+    {% highlight xml linenos %}
+    <servlet>
+		<servlet-name>MuniApp</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>MuniApp</servlet-name>
+		<!-- / means that it will handle all requests comming to the application. Apps default servlet. -->
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+	
+	<!-- Listener and context-param, used to create addional context files. -->
+	<listener>
+		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+	</listener>
+	<context-param>
+		<param-name>contextConfigLocation</param-name>
+		<param-value>/WEB-INF/muniapp-application-context.xml</param-value>
+	</context-param>
+    {% endhighlight %}
 
 #### SpringSecurity
 
