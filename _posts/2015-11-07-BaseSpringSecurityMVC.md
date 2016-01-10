@@ -52,7 +52,7 @@ Hace ya varios meses que quería publicar algo sobre Spring Security, pues basad
     
 * Si queremos crear @Controllers especificos los creamos en otro paquete si queremos y usamos @ComponentScan desde la clase @Configuration para que la aplicación sepa donde buscar los controllers. Recontra simple!
 
-* Nota - XML: para usar xml lo que se hace es declarar un "FrontController", se declara un servlet (de una clase spring DispatcherServlet) junto un path base de accion para este servlet en el archivo web.xml.  Esto hace que el request si viene de este path se redireccione a Spring y este levanta un contexto propio basado en un archivo con el nombre del servlet + "-servlet.xml", dentro de este archivo se configuran las cosas como view resolver, scanners para anotaciones, etc.  Tambien podemos configurar archivos de contexto adicionales usando un listener (ContextLoaderListener de Srping) y el tag context-Param.
+* Nota - Spring MVC con XML (Solo como referencia ya que no es necesario y no esta en el codigo del reporitorio): Para usar xml lo que se hace es declarar un "FrontController", se declara un servlet (de una clase spring DispatcherServlet) junto un path base de accion para este servlet en el archivo web.xml.  Esto hace que el request si viene de este path se redireccione a Spring y este levanta un contexto propio basado en un archivo con el nombre del servlet + "-servlet.xml", dentro de este archivo se configuran las cosas como view resolver, scanners para anotaciones, etc.  Tambien podemos configurar archivos de contexto adicionales usando un listener (ContextLoaderListener de Srping) y el tag context-Param.
 
     {% highlight xml linenos %}
     <servlet>
