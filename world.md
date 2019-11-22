@@ -78,7 +78,7 @@ title: Felipe around the World!
 	<p><img src="https://lh5.googleusercontent.com/-sPYZ7qkFQqc/U7jh7gXNfHI/AAAAAAAAAJ4/CAHFcZF8fsk/w755-h566-no/LUISVEGA03.JPG" alt="Taquile">
       </div>
       </section>
-      
+      </div>
       <hr>
       
       <div id="disqus_thread"></div>
