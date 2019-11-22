@@ -14,6 +14,11 @@ title: Felipe around the World!
       </div>
       <br>
       <div style="text-align: center">
+	<p>This photo is from lake Titicaca in Puno-Perú, an amazing city where I grew up.
+	<p><img src="https://lh5.googleusercontent.com/56mY8ITP6rR_-d91pWa2i5SvoueTcszUFs9fgoqNz3s=w789-h592-no" alt="Lago Titicaca">
+      </div>
+      <br>
+      <div style="text-align: center">
 	<p>Under Golden Gate bridge in San Francisco!
 	<p><img src="https://lh6.googleusercontent.com/-GG5u30iYwiI/U8jG6YUTJ5I/AAAAAAAAAKw/GCN2HqOrFL8/w789-h592-no/DSCN6404.JPG" alt="Golden Gate">
       </div>
