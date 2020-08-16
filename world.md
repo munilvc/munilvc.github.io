@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: defaultNonResponsive
 title: Felipe around the World!
 ---
 <div class="wrapper">
-      <section>
+
             <p>One of my biggest hobbies is to take pictures from cities and landscapes. So I will post some of my
                   pictures here while I decide what tool to use for this, if you can recommend me one please drop me a
                   comment or send me a tweet! :)
@@ -79,7 +79,7 @@ title: Felipe around the World!
                   <img src="https://lh5.googleusercontent.com/-sPYZ7qkFQqc/U7jh7gXNfHI/AAAAAAAAAJ4/CAHFcZF8fsk/w755-h566-no/LUISVEGA03.JPG"
                         alt="Taquile">
             </div>
-      </section>
+
 
       <hr>
       <div id="disqus_thread"></div>
