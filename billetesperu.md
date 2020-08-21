@@ -9,6 +9,14 @@ title: Billetes del Perú!
             <div style="text-align: center">
                   MIguel Grau en las monedas y billetes de .
                   <img src="https://lh3.googleusercontent.com/ZjaxUzFVmEiUU9aNqiVjWRCIv1TxyLLGWyWVENmwqAAvop_KSNx3BnbCrL0GxDsVEbxiZeQQTYb1lSNfEAA24Irs1wSuI9wjV1o5FV5IFltDgbT5F54EiZIL_JKslDzjkRleK6im4Jl76Zn5lwdqf1OA-mgEcO8E0Ak1TAWPEyBFWgYZm1mqeQcOXc_9-LmVLs0Z5Z9YWyXeOk__10cfbvZrddCPFDrBdye2isP-o2h15I6Bm9KpOJ5HQfr_0QLeqqQYxjXKnYFpT00np77G5XoVG0nkHnJ3eCUn9Uod4-j_mr5Fnv712Fe9C41OdYFiXL9ASJ4w9noHV9tz-C0RF9xM7lXWVfUiHdeR5QuSp_Sr_4m8IRAarTS7UcOx3c2rqMFzu3CQQ-nKbvvoDu2Vsqu-jy1fqlBLaRjUqR1u4mp52uXS-1rdSxvrUCHxOE2nltr0a3c-sSyQRLxRrEnMIvLg1G3VmX3FdXrFOLoWc_A1f6J1CIMQ7kyPTLky-xUsuz5fvDdXgsDr2L4FjGRNclo_WmqGmIaH2iF82V762MMIMSIh41VcymJ_kh8kCRpKdRSnn-dhSp3wkOOBznBUmgKXXsUj6Z4jm-Icxu_aKZUNRFLa8JO8FPnAONzIMBl_OK1_eOCQh5RQnkUA8QVqM-XPR6ZFHEmtVfKTUkp-ZzS5hroPrThoRP5lf663d5M=w2450-h1942-no?authuser=0" alt="Intro">
+<br>
+con authuser
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dBtxtGz-v_AyOufaS1ivyxZBInkDwWfPlcjaW-EBHWpq_4zSUmlNTjrU1172lFaQORK4XgLrwK5NUp89BGJYCcyGl-yCVHf3PUsVBdv7z25XjMhhriboU9YoMkoTS6jNj_LOFDu34En_IRQtEjjQ4K1A=w3360-h1634" alt="Intro">
+
+sin authuser
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dBtxtGz-v_AyOufaS1ivyxZBInkDwWfPlcjaW-EBHWpq_4zSUmlNTjrU1172lFaQORK4XgLrwK5NUp89BGJYCcyGl-yCVHf3PUsVBdv7z25XjMhhriboU9YoMkoTS6jNj_LOFDu34En_IRQtEjjQ4K1A=w3360-h1634-no?authuser=0" alt="Intro">
+
+
             </div>
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
