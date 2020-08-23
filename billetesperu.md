@@ -4,7 +4,7 @@ title: Billetes del Perú!
 ---
 <div class="wrapper">
       <hr>
-      En esta sección dedicada a la numismática, esta vez mostrando un poco de historia a través de los billetes que ha tenido el Perú. (fotos propias)
+      Esta sección está dedicada a la numismática, esta vez mostrando un poco de historia a través de los billetes que ha tenido el Perú. (fotos propias)
       <br>
       <br>
       <a href="#pacifico">Guerra del Pacífico (1873 - 1881)</a><br>
