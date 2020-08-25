@@ -9,7 +9,7 @@ title: Billetes del Perú!
       <br>
       <a href="#pacifico">Guerra del Pacífico (1873 - 1881)</a><br>
       <a href="#ferrocarril">Serie Ferrocarril (40s)</a><br>
-      <a href="#solesdeoro1">Soles de Oro (60s/70s)</a>
+      <a href="#solesdeoro1">Soles de Oro (60s/70s)</a><br>
       <a href="#solesdeoro2">Soles de Oro (70s/80s)</a>
       <hr>
       <div id="pacifico"><h2> Guerra Pacífico </h2></div>
