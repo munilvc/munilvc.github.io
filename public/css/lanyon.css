@@ -525,3 +525,17 @@ a.pagination-item:hover {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* linemenu */
+.linemenu-nav-item {
+  display: inline;
+  /*padding: .5rem 1rem;*/
+  border-top: 1px solid rgba(255,255,255,.1);
+}
+.linemenu-nav-item.active,
+a.linemenu-nav-item:hover,
+a.linemenu-nav-item:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
+}
