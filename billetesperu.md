@@ -8,7 +8,9 @@ title: Billetes del Perú!
       <br>
       <br>
       <a href="#pacifico">Guerra del Pacífico (1873 - 1881)</a><br>
-      <a href="#ferrocarril">Serie Ferrocarril (40s)</a>
+      <a href="#ferrocarril">Serie Ferrocarril (40s)</a><br>
+      <a href="#solesdeoro1">Soles de Oro (60s/70s)</a>
+      <a href="#solesdeoro2">Soles de Oro (70s/80s)</a>
       <hr>
       <div id="pacifico"><h2> Guerra Pacífico </h2></div>
       <div style="text-align: left">
@@ -80,8 +82,91 @@ title: Billetes del Perú!
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3eKPgIjqawKV6jhHlRGN0N1ns281L1jW2VXSlH_cVgtku4gFtvl78dD6QAChxfkVP7xNWGjBxH-TDFFi33orNseXX7E7095j8qy1C4iZk4ZqlyZULm6ew9EP2olGayGGGycZ9_YlbNKXBH7enLAzadPQA=w3360-h1490-no?authuser=0">
       </div>
       <div style="text-align: left">
-            5 Soles de Oro - 1946 - Reverso
+            500 Soles de Oro - 1946 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cCSsSXdkYqtfbS6NJZLXynTnHXtF2_sT_cNcCzyBFDnfyxhlLCMwUjL36OrsCEnM-D4OyBI2nWTHsWETVunYGvqKG-Qr1UKBvnZy98gIQlQI27h5JK14lfLZDYSWwdNf7aAY6KEjILp10vL4vUN7Qbqg=w3360-h1516-no?authuser=0">
+      </div>
+      <br>
+      <div id="solesdeoro1"><h2> Soles de Oro (60s/70s) </h2></div>
+      <div style="text-align: left">
+            5 Soles de Oro - 1968
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3da9VxfzMHkEL2ewLnuivzmgTE4gSGHQg55YZ_UiiKMd6fjumCukyhF76wFe82VI_vioNOChwoAi4-DlgztuLUqyk2IBzg1Vp2RnlMJAdQXDB2LzLintBtSbOkZGYWSJ3sBm90hcnceomTSrKS4NPs3wA=w3360-h1482-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            5 Soles de Oro - 1968 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3e14HnvLE1sUq0tIusOMtCOCXPidc9Xd275eztpM_T_y6k1d_0Z4LsfJmaT1FhEDy0UdHly4gK4tYddMc7jLBkd3kONyj9WFjHnI7zE8XqJYm1PNUt6aGKrHAIm0gccs_Np_IRKG2IT6WhTmse4Pgb6QA=w3360-h1470-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            10 Soles de Oro - 1968
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fX3nLdjm4fMwPNgnsVPX2vU7jNfQRAQ2CvFvJGWZXY1LofDegNALEwXsR70XzlexakFQ7JG0aBWS6LTp_-2e3MdI-klZZ9f-oc8Vez5GHNxQiOuBavi4qNwBuNFMkQIxJ533C9-eLaZpFU6ykiykbkug=w3360-h1484-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            10 Soles de Oro - 1968 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fY5ql7IWlAjzsjWLdC-I31WwS6wdXdnZZhToM66bIKq7oWamCxQL9GKeDWLsH2jr2Q2UAVnl8IuHVHyBXrESRsZZ2e6bCopU9-8pa0HYjd5EeZEcbxGk1NSsPnBdLj6jxaUCYfUE2r1VkqPq_HGyYPbQ=w3360-h1452-no?authuser=0">
+      </div>
+      <br>
+       <div style="text-align: left">
+            50 Soles de Oro - 1977
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cF5Oi1kAOy5zjuOk8OdijjyErDO_nsG3y0DMDNUy9xjSCBxo0Ba5g_CMQWigquCTKj4GvsQx0SvvqNziBz01aK7KRNEsyQkj8_fE_hePtz7w2pemG_PK4ro4rF112PiuFdvOYNiY_jze1MH3AcWnkbTw=w3360-h1462-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            50 Soles de Oro - 1977 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d5l1Nc9G7HC7fXL5Eghsy932VfN3feaaZwJDnQjNmc43XibKvsb6zkESOWijS33PrQJc3tqry3LeFs7smkbg3BuojleJ2mlxva98fHqm2rlNJqaLxbp5KYJsflVQqqzwRPq_io1n-shdBkdMQ7o-ZJPQ=w3360-h1484-no?authuser=0">
+      </div>
+      <br>
+       <div style="text-align: left">
+            100 Soles de Oro - 1975
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dcFTSq-gp2IgQNm80RobvKmo8PRlD-sf8ZsdznhUv4MNhwgeoSD0O6_Qf02LLOObU-u_17WgFbFHqwKFpURGQG6uFWRVMTUVYp-dE3tB18g6iiaV00VwUsD3jxTxonGOXuZTlCFAIacWGAVEAV8GzoEg=w3360-h1498-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            100 Soles de Oro - 1975 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3ccgGxjGOJtjo70hRfJCeVTx-km55DwF6kPbL9opamjQDopeDpCEMTZFTJj3OHx5t1hTatY5hg-um8icDMcN0qFUdkgK6lyQnjffm23BNbCRMRKzDCgkuXjQT06xpGdJHl5TCiuEkHULM54z_lXhirbGw=w3360-h1510-no?authuser=0">
+      </div>
+      <br>
+       <div style="text-align: left">
+            200 Soles de Oro - 1974
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3etwh1uFjnreSd8U_OAC92RlE7r6pIA82JO4r4IYmvOx5IUKXiwoUB6mn64wCEEbUNC5FHvyl0vhGVH9VIEVlVVv5oyIsCubbQXDq_3iKJ71n2UlFw20VPw79YOvt4_U35eOr_GrlLrhJZqGYL1_Hs41A=w3360-h1500-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            200 Soles de Oro - 1974 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eBIuYrrvbb0zHSRS4Fa9AxDkfqH5NpKNtGIYBzY3i42uqMduOsVbdGfSR-8rwQeuiEI16rzU4fJquZ9VhkQDWIEEfwhlSs2KA-sRuL-Gdronkryg2AXea8NmCmoxvzIG_R4jsGIn9omb81rVXPKgNEXw=w3360-h1476-no?authuser=0">
+      </div>
+      <br>
+       <div style="text-align: left">
+            500 Soles de Oro - 1975
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fC1ZinQ8ryPPYj48PsXlK-NfxSf5nbcTh9Ba0pNIEQ1TThwHMsZ-zuQMm1HKvIcf5Jw4uiPskseJRUfOhXUZX9gWox3l0lvUOZz8qNQYS90GTfXZsQPSSEQlZ2-Q3JvH9tCbX-kp8FqFTAHBbpNO0BUQ=w3360-h1460-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            500 Soles de Oro - 1975 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eliBUqQYQFEqJdYEvYrwcEQb9mcAjq170co_YWb8Gpw7MuFAhkLvZRYQXmnc0WklgsD7mZieC5dUTB2tLqlDqmneIMjV_YrmIScDIMVhbsYeAA2ojHw0YTLaz3VDmnZIPbJfz53ddu8xH00cboqrix_Q=w3360-h1478-no?authuser=0">
+      </div>
+      <br>
+       <div style="text-align: left">
+            1000 Soles de Oro - 1968 (Bologñesi)
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cCJRRlyR-VnWz3A8Q_bz1BRckLZwdm04rrGDLjMk2nMr6F6i5cu01BrWiWrmwze2jJDkQiVTVVbMevKdtSYQgUkYhri5InV3qND_zCmS5kRNRUPXXTAMSH1q9pqfgscgbXXSNuxEtcd-PpAL5WeKMhsw=w3360-h1486-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1000 Soles de Oro - 1968 (Bologñesi) - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fClMhVJ9LSkNg399D8UWaQl2vblN24OYR4x6LpL_f7XZN1JtCDtuJCrcg37cOZ-N4Zz-r2yYLSWXd-wfSXM3L8x_gLZ-vTZ8nqxZQDXLp6A6aPbBDlP_70-sUnpkIkP1L7LlHLOE2jzLeB-gRO-xjjkA=w3360-h1480-no?authuser=0">
+      </div>
+      <br>
+       <div style="text-align: left">
+            1000 Soles de Oro - 1975 (Bolognesi)
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fo-vVMul659oGX5GUGcv44Sse7n2dcALhKXFsm5Mr9vzEI9bdROleaTmSJxm9Ttw3CmcsrfPhdHyQRs1jMRNUf10xYxHR4mu25Ekt2QR1-MPq1WyY4LDana10YZs6zh_jg25U5poIgdFWaNZ7NmxMvsg=w3360-h1468-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1000 Soles de Oro - 1975 (Bolognesi) - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d2UcgRC3Iqnimqzej-8uDcQFiSQrrvFtdqUMdGpafIMIDzcp2p4sBajkvwJ6IxuWTb89Vmq7Y4wfNeCgNRrdxhUsqWqWZo5-nS9P-evKqC7IM6dtWprdsnzAq0SQVomkLwdm5Oh9-RaV2nXwkYesf0yg=w3360-h1472-no?authuser=0">
+      </div>
+      <br>
+      <div id="solesdeoro2"><h2> Soles de Oro (70s/80s) </h2></div>
+      <div style="text-align: left">
+            100 Soles de Oro - 1976
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cX5vqz1Q1OBQU6OI8FFDfvXWH4PvWftW6Nc7wLGAH2_HikdvBcml43-bSBk9lAdxvnZeskcMdSQFws4F4QYEkF_Cmh3yK_YPDph4QrjwVETOtqsxuNrBLi-hrWin9whrLVUfv3vGhRafMahelAWB-IiQ=w3360-h1690-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            100 Soles de Oro - 1976 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fHKTZ-1UKaicAtyzDpEvd1SAHtnwR1m00zKXX91i_AplHFPJvo6mQRT9kI5U2YKn-ycYZYbLJ50yDb5bLBjXH2RC3WTb6c3GpNabqfjAprmcH5-JKBibVqkRSrke9dmUxmCytI9jrLvJa_uB851qkFPg=w3360-h1688-no?authuser=0">
       </div>
       <br>
       <hr>
