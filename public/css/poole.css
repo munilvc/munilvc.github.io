@@ -425,3 +425,13 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.wrapperbilletes img {
+  border: 30px solid #000;
+}
+
+.wrapperbilletes
+.hide {display:none}
+/* Do the shift: */
+.hover_image:hover img:first-child{display:none}
+.hover_image:hover img:last-child{display:inline-block}
