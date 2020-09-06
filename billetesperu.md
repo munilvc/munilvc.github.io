@@ -24,6 +24,32 @@ title: Billetes del Perú!
       <br>
       <div style="text-align: left">
             Resellado Provisional: 5 Soles - 1873 -> 5 Reales - 1881
+            <a class="hover_image" href="#">
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3ftNpyUxDojRs9_LaMtoWg73yIZO3dsqLWAb1lb5n5imznWcdVTkD31tjNgyCE-r4qh1S5_HXSwMfs1GaWMhnJm-Bx7faAn_6WUulKLLQpEfizXrs0QIV6_Lz_neNm7x-ff4UkKxC_lYfYyCZ4i3pKFyA=w3360-h1366-no?authuser=0" />
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3dX2P3mWW-vs5_MsywHjTYsvWi1p_-QqUX5clXrViUOtdk717UKdJIYG9YHshzZsguKMskNynL6kAnaNDp8q3wuSUBmVbsIy18nykgTXOyHeizupKQgQOarY0vgMbqlQSK64AV_IBMljFq-6XDRO0C3RQ=w3360-h1394-no?authuser=0" class="hide" />
+            </a>
+      </div>
+      <br>
+      <div style="text-align: left">
+            1 Sol - 1879
+            <a class="hover_image" href="#">
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3fvqJs4sfi3lKovfNEkSnKnRrcsvNIpWFsgHHylhp7E-uQ1XIJ1YQegLzBU3WYccKwxOk6qsoeyy2XuLby8NvNjLv3kmsWHVfp9gO9geUFiVOtXXV-QO_Bg2ysS3HVWe05ii82Y_5gmITiw-vEnthXPng=w3360-h1606-no?authuser=0" />
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3ciUSg--3bDYO0LMdPmIosy7VOujSXXvFJh9uJBTdHC7-IGa9aX2QcXBx6tzTALsWI1ipzI4oZboBDHEHF_-70c5lnes8yxpd2Cmo85tYAm6QQfzjHSWWYNOtkmcxt6fD3CIH03KZDvB0M6_q0Tyk1cPA=w3360-h1608-no?authuser=0" class="hide" />
+            </a>
+      </div>
+<br>
+<hr>
+      <div style="text-align: left">
+            Resellado Provisional: 1 Sol - 1873 -> 1 Real - 1881
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dz4Xtq3Keug8qGZYpCOsGPhP2dVtAOBLlc4OjKQQvzzd0eYGWj6OWc3Z0NKIEHfYsmmU_j-3IOejl4jnfNty81cj8cdMwUzg3XPIAyZYOxNBv4sGVTPg_WiLpGVE7AtlA4l19xtbmDiN1NBG5C8wI0zQ=w3360-h1420-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            Resellado Provisional: 1 Sol - 1873 -> 1 Real - 1881 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eixkREUdATqFcwOl4UF57cwUG7K86Nut1Eg4B0brntJaQpLB54SDQsxjiCYWzADgVQ1L7ZiixgUoSn7PrhqUBMDujS6PlosOtO7fhThlJEn6XR4XzzH0o-7HxA8xrspiV9z5e4Shjtsh5IpK6nrbt0ig=w3360-h1430-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            Resellado Provisional: 5 Soles - 1873 -> 5 Reales - 1881
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ftNpyUxDojRs9_LaMtoWg73yIZO3dsqLWAb1lb5n5imznWcdVTkD31tjNgyCE-r4qh1S5_HXSwMfs1GaWMhnJm-Bx7faAn_6WUulKLLQpEfizXrs0QIV6_Lz_neNm7x-ff4UkKxC_lYfYyCZ4i3pKFyA=w3360-h1366-no?authuser=0">
       </div>
       <div style="text-align: left">
@@ -207,7 +233,8 @@ title: Billetes del Perú!
             1000 Soles de Oro - 1975 (Bolognesi) - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3d2UcgRC3Iqnimqzej-8uDcQFiSQrrvFtdqUMdGpafIMIDzcp2p4sBajkvwJ6IxuWTb89Vmq7Y4wfNeCgNRrdxhUsqWqWZo5-nS9P-evKqC7IM6dtWprdsnzAq0SQVomkLwdm5Oh9-RaV2nXwkYesf0yg=w3360-h1472-no?authuser=0">
       </div>
-      <br>
+<br>
+<hr>
       <div id="solesdeoro2"><h2> Soles de Oro (70s/80s) </h2></div>
       <div style="text-align: left">
             100 Soles de Oro - 1976
@@ -217,8 +244,8 @@ title: Billetes del Perú!
             100 Soles de Oro - 1976 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fHKTZ-1UKaicAtyzDpEvd1SAHtnwR1m00zKXX91i_AplHFPJvo6mQRT9kI5U2YKn-ycYZYbLJ50yDb5bLBjXH2RC3WTb6c3GpNabqfjAprmcH5-JKBibVqkRSrke9dmUxmCytI9jrLvJa_uB851qkFPg=w3360-h1688-no?authuser=0">
       </div>
-      <br>
-      <hr>
+<br>
+<hr>
       <div id="disqus_thread"></div>
       <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
