@@ -8,8 +8,11 @@ title: Billetes del Perú!
       <br>
       <br>
       <a href="#pacifico">Guerra del Pacífico (1873 - 1881)</a><br>
+      <a href="#libras">Soles y Libras (10s/20s)</a><br>
+      <a href="#solesdeoro30">Primeros Soles de Oro (30s)</a><br>
       <a href="#ferrocarril">Serie Ferrocarril (40s)</a><br>
       <a href="#solesdeoro50">Soles de Oro (50s)</a><br>
+      <a href="#solesdeoro60">Soles de Oro - Libertad Sentada (60s)</a><br>
       <a href="#solesdeoro1">Soles de Oro (60s/70s)</a><br>
       <a href="#solesdeoro2">Soles de Oro (70s/80s)</a><br>
       <a href="#intis">Intis (80s/00s)</a>
@@ -61,12 +64,124 @@ title: Billetes del Perú!
       </div>
       <br>
       <div style="text-align: left">
-            1 Sol - 1879
+            1 Sol - 27 de Febrero de 1879
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fvqJs4sfi3lKovfNEkSnKnRrcsvNIpWFsgHHylhp7E-uQ1XIJ1YQegLzBU3WYccKwxOk6qsoeyy2XuLby8NvNjLv3kmsWHVfp9gO9geUFiVOtXXV-QO_Bg2ysS3HVWe05ii82Y_5gmITiw-vEnthXPng=w3360-h1606-no?authuser=0">
       </div>
       <div style="text-align: left">
-            1 Sol - 1879 - Reverso
+            1 Sol - 27 de Febrero de 1879 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ciUSg--3bDYO0LMdPmIosy7VOujSXXvFJh9uJBTdHC7-IGa9aX2QcXBx6tzTALsWI1ipzI4oZboBDHEHF_-70c5lnes8yxpd2Cmo85tYAm6QQfzjHSWWYNOtkmcxt6fD3CIH03KZDvB0M6_q0Tyk1cPA=w3360-h1608-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            2 Soles - 30 de Junio de 1879
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cH-yO6dPkklrnozhmKozRSJ1WsCqaosGuc-s69iOicJTR1NWI2WIEOd0RtpG19_gWvcSZ62u0pH-Ut_q7SH5rqGngUPu5Y32TRXzTV3lZ07jE2LiFrU51wGWoxhojQem5N1wSVWZltuGQjqUcXEOKvgA=w3253-h1495-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            2 Soles - 30 de Junio de 1879 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fHjuZV-c7AUM7q0gAsk0vLPKuZo-j6xHc-O8x95teiDfpcWCf85pTMLDAu4csZyHqW0xNaZkmBIDmMB8KC2rSwOldUyVyl-U4MhcU6NYYxTrpfHpNl4rkc4HByRF1tDkLCwGzzFHOUyONamQjjqDN37g=w3267-h1493-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            5 Soles - 30 de Junio de 1879
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fgdK9iMdIdZTwKyCxDjhW0dXS0obZz9QA9L7Wu_gFZ222NrORl3YjlAPtmr_YZ0UfkTRlxp4khIsLxXaHXFJx1-BS39gjTbpu5nWiR39rGwLzdovVt5OUm9c-PswYNxOmPwEMXjG1_EAlmjK3i1ze_PA=w3360-h1460-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            5 Soles - 30 de Junio de 1879 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eoow-NS6nfpK65hGH-ydCCXuXqzmgUJnutU96jDTO1FYxUcDOO6rQ_SP8w5YJCgQ2ICdLGC41qbNkTaIJBjLKHjv9sSYbIvJlX9qW9rz-5kfAfCXEtXd0r6ehSZjsz9cEe6BvDoPh7tFooQj9Z410iDg=w3360-h1454-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            10 Soles - 30 de Junio de 1879
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fA9geGtrY5ADWZ4Klszm5hftMiNvCRrKOOPoiZrAladqRlXs35AmAf6zBGBGMYav3s2jh4nzraFMye_3pOd_OhmpwnLX4ei16fEQlfJv9_pxu2ZaxiX6y7STUgNcHrYn_X9PskCfkBLZm8TDLrDKd2kQ=w3360-h1474-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            10 Soles - 30 de Junio de 1879 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dCopKbDMYggL5fxSMOp3t0F99rhNoVViR8yFERg-vLz6LgYBQyVcd6LRrKDAVZYwSMpt1XwfYjYYCvhVhI-OZerHBfn5KoPvN-YyVweudJaBfroyH_een-Omber5RGI1wWpZ1roekSiFPRJ_lmdSqh-Q=w3360-h1458-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            20 Soles - 30 de Junio de 1879
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dRn4kul4-8GtJ7UQSvXt2ldFkSUxm6tclMluGcYCYEhHR4EZdTjxQaDZwXk53_cjfFwXUnpr_k9MYS0WUKRjGi2vgn6XWz8EAMoeY-zzrAGc4lut1seTTLGa23z89Lq7BjzzH8BJDdnti50hBFClFEWA=w3360-h1554-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            20 Soles - 30 de Junio de 1879 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d8igve8m5j-ElqmXn4wlzJHh8w4efb9KPe6EA_QpaBnU3RxDcMJiJTySuiVKhVUvUNYrCuN9lFYUVbG-Kj79J4E9_QFrVEQXYxqV7wH2k3MBtbeMLNTqlaING5yzj7oGMbS2Jule7bj24PMb-xgTcgDA=w3360-h1540-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            1 Sol Banco de Arequipa - 18XX
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fsrqKuLagzZpI6fw-S4QoISmbucHYJ_DH4MLn5XzwRO_v4WmDjhf02Jpz4wCIQU4m7MnskrpIRafTpmvD7BWBYe-ZNp_2fsXvAz69FJgBje43XAMuKWpGxhkMbiMH3UMl1VDTChfe-nmJ_7dqNW52LhA=w2868-h1375-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1 Sol Banco de Arequipa - 18XX - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dGTNO9dMZduXz_eD5yYRV7cXHjaueJ_S5agw8qXXT9yBL8TTWjikLnlNWqxiw7NrESa4ioQpFnVDkUAL1N2EgJhsnAePqS9rvt7X-uehYbStRhhJLSIQVTo4D0e1yLICVwCdn-rnzGIbwmnHsheGhOtw=w2871-h1357-no?authuser=0">
+      </div>
+<br>
+<hr>
+      <div id="libras"><h2 > Soles y Libras (10s/20s) </h2></div>
+      <div style="text-align: left">
+            5 Centavos de Libras Peruanas - 17 de Agosto de 1917
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cYZxz-xQlx1czifb9CYn-znSLblnSOSsIfUUFZQbaQFDtgBSLCRtPyJNl_xAh4q91PVBi2S4wf-O7U_POlFTZz2gO0zNmPbR5AYaKFKj9h_a_1G1brmZv8GrJE_MhuMcbkrgXDYW_DoMGdBTBo3hP84A=w1720-h1075-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            5 Centavos de Libras Peruanas - 17 de Agosto de 1917 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3edsV_O9XYy9UyJvRUBgW7lSJdkEi0-kXMFd3lAStFBnibjSPdVHvQ7oy5_h21sizeimTF7rzy9gfArc1MOaD6YUiUKrbrnAR_dIAXot8fmHoOSU3nA_rHdxXNmCz88T6lVIuq0wwYCLOhhvEipVNXp5Q=w1714-h1069-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            1/2 Sol de Plata - 17 de Agosto de 1917
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3enT3I8Mf4WuzfSyEMEnsxBab01N-fj6Bfdqj0tSJzx4dTa8vLyYd4QNRQ723wyYivabijnCJUhG6h0Cx21H6J_6X4VArz4W1OksGd_C83_937nwWf8Obkq484uGxrcIb05TUXfEX7PSWiUdpcjdPxP5g=w2073-h1275-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1/2 Sol de Plata - 17 de Agosto de 1917 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eFE8u6e9-NeE-8s7hmt9eEM5GI1GWsycohN1pnto5K4wjDe5H1BT0FtNTBACJOva8hONqj9cQBZ3sy6b_dtjLsd4A4vqtay_eqKQRck9XnKxR76V9UM2_A3HvvlLd6OQrpRACj3ZuoGdynBlgEcfYAzQ=w2068-h1286-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            1 Sol - 10 de Agosto de 1917
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fHLLh34nBIJf2ShNxnoOhshCLlNbJ22N6dhI4gRV0sPY_J5TPBHDaopUQQg7xQoHN-mOggMz3bEA2UG8GvAMEiM0lFQj71HJ7dpTwmpNelrwTe2jn9Bnm5o5HW4iVtvcqoNuEv85JnO3s2NtaIKnycuw=w2264-h1235-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1 Sol - 10 de Agosto de 1917 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3ciJA-elLbc7dfb5ESpOR4PevEPPoayyiLkaA8AaRxiIpqgTC7zl5yE5BJEyS8VTCKkcBh9clJHJf3vU7Z0uUSAZB-AHGJO0ROrRPOv9-vuJanmBrGfw-3GGgGOJyY5s0muZI1I6CXssoKgsZS0JMOk2A=w2268-h1243-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            1 Sol - 14 de Setiembre de 1918
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dIfklfvBvkgl6zwuSpzfHYQV4wMcjS8cKp749slVJY6812V4fu8zqMAV2Zr5T0nTsm9XqHslUdeoIiQHfK1hCfO_Xpd4bbVoNnjs7SctjFAFfD0gomqLdiAfA3II4XH0Q0xVzGAQcwE8mZ-3yEkNr-Jg=w2251-h1186-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1 Sol - 14 de Setiembre de 1918 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eMBzEvZXOdem5D-H3u--W0MhqkZ9FUx7JesIy0OuMjYVYT4JYWxDFPYgkwZA9oDav_Uq3GMTxANuZMA4nlSTvz0x_g7lwUV75sfPXWmk6FYezQVPn4Jnx6aXspBRWnkqNGivKdOIa8__FEQc1gFlSy9Q=w2273-h1199-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            1 Libra Peruana de Oro - Resellado 10 Soles de Oro - 11 de Agosto de 1926
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3c0LX4e4yQ4ZfM_EqvhwfA9Ae_GMBQmOJavf1RS-cJT2AxN138AoyPtCECbLBd3cYfSF6yuXOaIMih1e1TeIumoRC2yMZgxedqSiOE0t5nLvWS3q84dKxAE14EZdHibgFcUzDa4i-DQQHEvpXHxnWhfEA=w3022-h1600-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1 Libra Peruana de Oro - Resellado 10 Soles de Oro - 11 de Agosto de 1926 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3f7GX8v0-cXhkxpS0xnfhp8a_w6PabgFSNvWKFUFMTVEtXyj1vufETyvv-1cbERrIGSbIrVAO28_fE03cvaDBqDDvvmpCXC5kd8WOik9gp9NaJ3llPIUawpxFlruUrDKOKc9J2MCYqPzePKsRDy3GCWsg=w3029-h1613-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            1 Libra Peruana de Oro - Cheque Provisional Iquitos - 1 de Octubre de 1921
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cq1b72Q22LsXaZe2obDfQXVklPQ5-ukjNxOcA74kv2B2F8a4NZDzi-bhcetd6kjqObUCDLsgLjmeGI1UxW8zh7nqgckeevTNZfIsMdxMUtc-Xb0Ag0Pecmm4sPIkod574AJ_Mb8L1j4HbubhlDZnShWQ=w3057-h1570-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1 Libra Peruana de Oro - Cheque Provisional Iquitos - 1 de Octubre de 1921 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dODu_1SQMRqo9SxOK93yNyzAIEXG-bm4v4xeoltRFqiC1HHWBYsy5XLWwQvKhOz2CgcjdKEmjEdmjIRpz1o6i8_29jlKbGrCslvnrUlSq2YdyzpaRcl4EBMb9AVg6eku34Uf0L8N7jlQ3hBtDqtUJ_Ug=w3051-h1573-no?authuser=0">
+      </div>
+<br>
+<hr>
+      <div id="solesdeoro30"><h2 > Primeros Soles de Oro (30s) </h2></div>
+      <div style="text-align: left">
+            1 Sol de Oro - 26 de Abril de 1935
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eV_K-hmlVrah9EZQheUHLOx9d7wqfuymV6TlRTOviLMYlrAGJHg174e1hIVcnDncgD2Ol8is-RSVa10tKZz8AcGjbP2nujVQX9O1_5OMs73r_v73ARzxX_8jp_DHJvZtyH1iMPq589A2l_hUBv1QSm1g=w2264-h1269-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1 Sol de Oro - 26 de Abril de 1935 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cezp3nSxoqUnuUm0mTnXBUgfqHSQbOekd59B0eb3Hu71WKr3ttEC_O0Db93aGQc0GNSSrQgUcwrB3pIqxJfgE39Gqx3ECuY_Jc7g31qaSGLK5FxB47RbFQKhqZlecxryITliS-RnrG3PPVUXEgrlpobQ=w2275-h1282-no?authuser=0">
       </div>
 <br>
 <hr>
@@ -162,6 +277,72 @@ title: Billetes del Perú!
             500 Soles de Oro - 1952 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cdADLBvqL9AfgNBAgrAjFowFr_4yjXlFXWiNlP6ZahVpi0nhfyIE5rHCEpGEVU-djwsSdEs6KyobosiWE51Vbm7PkLFulCmmt6T5Nhyw3GetEvWysY8ywPFBWHw_YTZmXoXRaEozKDbfZIW8FQpllFBg=w3360-h1512-no?authuser=0">
       </div>
+<br>
+<hr>
+      <div id="solesdeoro60"><h2> Soles de Oro - Libertad Sentada (60s) </h2></div>
+      <div style="text-align: left">
+            5 Soles de Oro - 23 de Febrero de 1968
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cR99nTAJHGGOjV2p8uI-uTKy7hTUCvE1cOgv85iZQ7mQOfEmZNGXGknyotbV6Y9wLQrZoT00om1K8SZD5SV5sp14VSsKwylOBtIWJCsaUdqqn_1tOsB5W9lMOTnkM9J080Joh2ITxTjYfrYcJseiTVtQ=w2945-h1427-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+             Soles de Oro - 23 de Febrero de 1968 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cATyrjVhuj2Bw0isfiucX9S6LA_ut8oNdEaDcal-W8Rvrcfmk9WnrGCHUw59HpqU-lkZw7zl-kB4Xy2OR-nS7OrZPYATBJFN3Xbqiy7DXoQjLD9vsvps6hoOgDc153KI75kyI8cmEvw3QCYS0_HwN1VA=w2950-h1410-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            10 Soles de Oro - 26 de Febrero de 1965
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fJO9HXBaA6jlw_PwekkkIfcKEU0C8TWPViM7Tj9GoJJLNsJanAtMdVISnnFNHQ7Xa2emcatVGm72BsvvyocZwT1c8Y3CEheRoKiRwsrK0eYNBBqB9brL2OiPIsdku8gvUMqNN459yxFd5WKxAWr001Ow=w3080-h1607-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            10 Soles de Oro - 26 de Febrero de 1965 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fpVWKYA-R_I4jgxmOXDuWagvEEMMpZn98G4SonaUuxzuohgVgD_aF1lkw5sLRcyB-zFbOdOQzYZxMmyAoFUn0C0c1Bey7TF7mScgKrsvIZ4MWpWuVV0IvCVVDzGGbmebEHhCDqfTJMjo66cFH_KBy6zg=w3104-h1615-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            10 Soles de Oro - 25 de Mayo de 1967
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dpMsqWMNlDaLN55Bx-G3Fgyy3bVo0YRJOhZZkBfNUPrQ_1-41F-Hnt7K6mcnJaCDpmgSyszfLkBFZ4ddF4Ito136ZX4hdzZ7Ro_HZKGsHZT2huEs-alrn-gTbJG3t7ZHrmPtUbbNTfror1v770-VDIow=w3360-h1786-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            10 Soles de Oro - 25 de Mayo de 1967 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eFrlaSuoypIKsonKjy6inzt1-mgoeg6LOQMmEsxK4tAuKmMvgkfoftfe5wD8wzS_U_ruG3B6Napj_eRsQaVqurUxLr7WW51abNn1SM7cXJcV_0f9oqJ0MttNWoolmHFyPolUO9Ty3252i9bIwvwFTHKg=w3141-h1658-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            50 Soles de Oro - 196
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dW3_OOgfqIH1HTrz9xVoweZOdGqayBE2yB5JsnZNlhBkup2nRSfWSIZGPxBlnw6gBIRrf9BKNeS5fxDC7wC2A4Zt-utOm2IuP0Nnb87QogIxon-F9ySdtNEV2tNAvk3_DWBcIBBiDvwim9tNoqsmu1jA=w3317-h1616-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            50 Soles de Oro - 196 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dsv_-27T7GrRS__TySmQJezmmJazNNS8sr8Ih-N-g097nnM0Jwni_l9gemeSYYY5WndHwxTz4kYgiAyRxqva2xpQwzD8RszS2V2qXvJXWIUub48O17R64LKiNkiTbmKftaCg_a-CMf9B0fnKlFGXiWbw=w3336-h1614-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            50 Soles de Oro - 196
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d-OcT6Mo-QIRUFHLhYqkqX1OzbYIHA1dcNdJhqXn5NA0oDojHv06qQx2Tv0F8s7GIqseyUy0WU-74uyHXre_P0-TcCDPqtUE1an3XWsPRDMWAxSIUZEkJ0Njs44heqcA4cwfKM6zFfLfJ0mkp2A7xZOQ=w3290-h1588-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            50 Soles de Oro - 196 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cBD1wMQ1Yl5p-wSCRm4FEqaomRY9AHiRqPBPMiCwOaEoFd0nozF_cpeML2jeESaBooPnXwOmvRMmISO4c08suRlOLzFEpOG36OcPzxLT5GqSHUvkCk7_6Nhr9wSkAgNR3qDt13tUR_zn4AGnbkn5jdQw=w3296-h1599-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            100 Soles de Oro - 196
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cjNbKLB-7gx7CMlSH_Z1dth_C3Hds0ZM_9uYfS_UM1RybbMGtkZmjEYj4KSt_n7PxlNN07CAjH_18rZIzpXEnjSJGs8gmSAWKR-MNNLS2Q9hSdCCElQY7EpBak1piLQYmnhU-AIwFb2I3tLOly8HiCLA=w3360-h1584-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            100 Soles de Oro - 196 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cYTAegwq27vsiHXWUZ1_daMCx8HuOgL1Nnkm7hBgeiZaIpSGcXu6fX4hQVNnn43TRIVUDAMqxv4iMg8n4rw4VurWy2JKXtKaEUb1NFybFPi_cy_WIgXf6wUZgI0cU810DjWQxyAPwztZsOXoRfHyoIMA=w3360-h1582-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            100 Soles de Oro - 196
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cYrlZnddvAIkAHW4lVTsMaix1Xa1Pcbwq4RSB378qooldwfBd9cHleeGTpSrBeKV4oAM0KkWkjpOl20g-l6nQY9y9XrpQzFu1Z5a6IMd0xjjW4x1iU3KG6zaX6U2j3Iy90hgtxTOkH7Jj6D0K5h5Q-mg=w3360-h1554-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            100 Soles de Oro - 196 - Reverso
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3c-8G7OGkjta17EXg3YE4PGWYMulH7l7mf92USLJFP-EhGmaYQSLFIhxUmPeAcDGqoSdVU0z_qRZoBPRTVeVUk5J5NWLQOBU0NWNyi0CZUMiXFeGrSl6I0nrCKiembWm0_4eUPqLZgi_NOS9QSNZoqzyQ=w3360-h1558-no?authuser=0">
+      </div>
+      <br>
 <br>
 <hr>
       <div id="solesdeoro1"><h2> Soles de Oro (60s/70s) </h2></div>
@@ -314,8 +495,128 @@ title: Billetes del Perú!
 <br>
 <hr>
       <div id="intis"><h2> Intis (80s/90s) </h2></div>
+      <br>
       <div style="text-align: left">
-            1,000 Intis - 28 de Junio de 1988 - Mariscal Andres Avelino Caceres
+            10 Intis - 3 de Abril de 1985 - 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dLbad4cE4HKN7gevGo1yF5FnfIwUKM2X8QRGUTyetUrw9_pekTKQgxnqr4s2Iz8BowvttKeHe6upgelvDlSUtHQ_DpIKx_vQbZ_QYB-ujgg9aaR1EkN39QPcble8Awoiwr5elNMBAbE_EjdaNmqfDNWg=w3360-h1666-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            10 Intis - 3 de Abril de 1985 - Reverso - 
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dS7S_jQ0gTDy3Vl_BlKf309i7yvI-Wg6MM_3RmpNX5Ivz3nQl6NTcftD5qZYLpxJn3yZm6rP8oVMzqUVWHHWB_zF7kK64MBsGCCDT2ABW0CXlHMKtiN7U8ZOFTqqlZAm-60F3qmM4qwT7qPq7woXmw-Q=w3360-h1682-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            10 Intis - 17 de Enero de 1986 - 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dWUyL_Qv4Bw_dotWIvIWbj2HYD21J2c3myioiAYKRPy2xRRLZzzNp_NZ7i5BCVqV0nw4UKckGqorj093OkMP2WtGZaWyE55rZIVEdgCUW4SzgV0vvwXfrgSiAT42WNPtwS2SdBcFssWvjQutLbbDWXNg=w3360-h1688-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            10 Intis - 17 de Enero de 1986 - Reverso - 
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d9ZjlGtelglMRWXa-gepHyYIIzo_SbhF0ZPfPaUtVsVdyUXM0rGaOx24xU7sneBrtYmGIp0fAlnVecWvrTVDeHeDCzr_vwVnvQnWgEGlCApJ-DD3pUG0dmH60P7ozFEefZnct8btYcDWB7WMnz17R9Mw=w3360-h1674-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            10 Intis - 26 de Junio de 1987 - 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fUN0tT2664tuD5ugH9-vUoR7xBsuupZshVuFypw9GMsJV1szQ2HPa0qGjisizu4OhbuZqEMaB4gUd_obZOQd-cXaHT-_8cZdZ6p0PTIFROP6sOdb5SDYYAHBvYF4CIjz3I7C6TVQ5kaVsDZudh2eQdfQ=w3360-h1684-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            10 Intis - 26 de Junio de 1987 - Reverso - 
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fiYK5KHOwMuSuxFlyco2lK-ocysSiZNafVK2zMjySLPWHfCZpiyzwGSR026E39rvDJE0J493xq22JN1qnsE9PKipiTvWupKbrdh8TOPdSPBt6bLhJ7B5x00nDDiCh-uUXHH7JVohPm0WpMVnuzxcHbpA=w3360-h1666-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            50 Intis - 6 de Marzo de 1985 - 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3frf2wS5edPzoz_76b9LaBDnl2KBRoZqD1B0jfa1orL8OxKf3iDvcmVkCAYFgEfPPmQ1lqGFPZZMjoavXmCym1wtWoNTrNrXbCpEU_bvay5hPDljI4-MWpTmPk3MwILRmlnRg7cmuwl7JZXclf82YUzQg=w3360-h1620-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            50 Intis - 6 de Marzo de 1985 - Reverso - 
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cF4lkPni_BEDIoXdSy4SldS-XuNxPHhElg1WtJh5stQcpaoZC2eiR8BmvCp8f8F1Dbjme1Y4VG3BcrwHmSBv0TDFSwJtSooCdKr06PC0nzjMZ0IbMFs3noY0K_Ifq2Y36Jj7JJUiWjnajzxJHcFpuqUg=w3360-h1656-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            50 Intis - 26 de Junio de 1987 - 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cSaO8OcDdGBNP7GDCGglSgMbWFNWiCpnoG8D-h6im6gmfQCUQrou7IXu_28RFWwGpMzkHITdNwCZE4VezllskCr4OnYZUpdefjiMkWCIMxrmev-eA_ciHxKfa8hiSjmAXyE84yhpaZWbYVlsG4wpXA8Q=w3360-h1668-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            50 Intis - 26 de Junio de 1987 - Reverso - 
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dkyRk5F-ueB2NNaK3mmWKe1r4Cx7n_JUBfjyMuxgPpVYyQNFv6drml-2DyrbVj4xM71eQrrVn8rrH5JbBgR-zgYWi7n3YuBNTWczIgE3W04dn5-rxvOqPKQ26hRydoPIP6DR8hkBRhBlOpPUib9PwiGg=w3360-h1698-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            100 Intis - 1 de Marzo de 1985 - Ramon Castilla
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eWOvzNsTHb_cO1_1IgbIDwfQebvWYQC_AjbMIxJLBzb62nvhTlfpopfjcs5-Yd5OU6gOV-Io6rfMKxKth-QK6bfTSBRJ2o-OWTfhD8RPuRRNZtceliIW8zaR2wSZegaRcFuHPfG5TnAtlwaUWKi967ww=w3360-h1652-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            100 Intis - 1 de Marzo de 1985 - Reverso - 
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dKq-tONqTsRa1RI5CewTyi4YXv6IBbJLEH8Bi65pW8_CGsYmrkfxVlvLfLCO1uRb-vL-xm-PeWl4gzICRMMVLnInb7iuILrFAVgwRVCY7Mr3ZhtuHyMkNwr1MispbIy8pHYQWXQjrXEsctca1cxTwxmg=w3360-h1656-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            100 Intis - 26 de Junio de 1987 - 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3e_InC4QjnH5m064KtP-46DbdZJs7rIoICF-EkMahvBKVxkJEW7XibjCTQAvzVsg__9YXcIxjkXz8m4Kqln6oUY05Wj0z10kW7FPErD0P72bFIJul7BfBR3AvmoFHGZIeJ4iCKMdpJJaLNr5GKgQbSHtA=w3360-h1674-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            100 Intis - 26 de Junio de 1987 - Reverso - 
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fZywinbAYfN_BeODj9i7oNg1nR2BdJTT5znSAFOe-APQAEg5KbDXseVUjjQXvarqBdnC942K4EOsmOlm2h_m44oE8oqiBQK9Ii_VvgyMgZxIRIqDDfkMNH8nAXg93eluOCWsYBLHj4NyusN-mhQc4w7w=w3360-h1676-no?authuser=0">
+      </div>  
+      <br>
+      <div style="text-align: left">
+            500 Intis - 1 de Marzo de 1985 - Jose Gabriel Condorcanqui - Tupac Amaru II
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fems87hJd99lkDXGgqdzL2N_WXvRpaNNY8HXbWjPiSHtSu-Z58gYGVM4E2bhP97D9D6xWP5eWbPfNigKtOxINIUMuuVNUs_W6pAdU88_HbGNvKWUSJPNmDlGKzQ1xB_z2MSkw3kRhOVeqjY56xQVBMDA=w3360-h1674-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            500 Intis - 1 de Marzo de 1985 - Reverso - Huascarán
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dkLWSf1Be3VLgiexOuLnj43lnwXDSuuKo87NgcTqWu6lZdjes2zpVEzq4LU3OTYc5zbdBJ57WLqhlvcOaqjj5_M9eJfm8fCch1hoBZnPPUBIaSwRmd_aaX6X2ScknoTTbD24yu2MuggiwrOuTvxiWhMA=w3360-h1682-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            500 Intis - 6 de Marzo de 1986 - Jose Gabriel Condorcanqui - Tupac Amaru II 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3ffuYDMH9XL_P22RslcNiV9AQALVIOcihZvaLPIQGUhPTu-bbBEX5rqi4zxnHHYAHixcruUX_qRic4UVo6lAznFO4Az0KlIOZ543EqF9Sx3_0Ws-nmZJ7oC7VPrDR-n-C0yTiUtkD1fmP6PF-FT4AJmiQ=w3360-h1678-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            500 Intis - 6 de Marzo de 1986 - Reverso - 
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fGLeRQ4lyYOD415hPJaM_Thm8SMF6yVHJGXfof3e0Ajq_Ab16Ex9cr09eXXFQUKa2MNjjCpXmnksSerfDyvn20AWuQua3Ub9qw1PiYof-cC0v35SR-dWM8QZ8qcJKz6lvIs1Q_uHNWJg32LECHptXMvg=w3360-h1680-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            500 Intis - 26 de Junio de 1987 - Jose Gabriel Condorcanqui - Tupac Amaru II
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3ezahfQO7DeGGmvGs2ZuMz9he_vp7-2UQFOnDpujWV2IyDLGxZQIzu-p1L2AoXP7TFYeETAtUU--ANv97NHwA0DZyV_0X-yngmbiARzTEz5y-nSO_1X6z1opURH0KEuDTPiw9PaZwFlaqjbIzJiwEkStg=w3360-h1672-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            500 Intis - 26 de Junio de 1987 - Reverso - Huascarán
+            ()
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dwCWaahAjnobUfQijsnFgLATNW6yYnUhq44Fsj_bS-unQ1mUjwmK5u3L2M2WTSmKXN0WS7-skMIBMhsKkwTw5ieE6Hf6C5MjWPOLtQ0c_W9r7SUoJQJObquJpwthiXd2eGEJRqMNcrdOaEh9juqVJ0dw=w3360-h1668-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            1000 Intis - 6 de Marzo de 1986 - Mariscal Andres Avelino Caceres
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eYzUgJQYVi1a2sa580EVGjDsylHuU24lRy6OuzaHgBB5jCkkz1faebnVHVFpI2zZaKM6BANAhtHv8B-iYmNvczPerpv98R3hyi-0pDs39rYhjwcJxZAlvaHA76R0X2UTFcaL0xrGFOQPPG8XE4MIzrzQ=w3360-h1674-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1000 Intis - 6 de Marzo de 1986 - Reverso - 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fsN_oodm5kdrR0lAyqyNSrm1KvOkJ7Jjhv7D6U3zZUIKMJVGCF94-qHBw0E_ZaTT3mttHhtzZ8BFlrq7QpjlEkFgYkwdXY0d7pTYuKcTiRg99_QKJvdMtbP3_ZF9ryJ9FbtcWbKmjvYdVDPSrDTUhP3g=w3360-h1678-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            1000 Intis - 26 de Junio de 1987 - Mariscal Andres Avelino Caceres
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3f_0CoEL0yRozMcnHnEMTrKqmtmnUPnfzt3-0YS8lUiZtwcz-wnquh9zAJJ-QVGIkTyEGiVMyMR6IilxbhCydoEe1gG3KDeZrpb1_gf1ZGX6LfZ-JI3E_S8WVem4InRcPPxZLzhfhmm0sYlpWmyMVZ17g=w3360-h1686-no?authuser=0">
+      </div>
+      <div style="text-align: left">
+            1000 Intis - 28 de Junio de 1988 - Reverso - 
+            (TRC)
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dfckyGaWX3MRvZCD7NLln9xIBBDbrUQlZKRoqTXxNVEyBd-rsD9DFeWOpXwahaL4QNEK3Dh9Cor0t17727qJhl4EG8md2vypzVGgnKpAWQfjtRnm8p0ZtBjEpPBM3fRlWWmDUG7ChRtZHB7IL-9TEq8A=w3360-h1658-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            1000 Intis - 28 de Junio de 1988 - Mariscal Andres Avelino Caceres
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3d_lnq4hvWHTH62WobDYOgjhcFemwt4WObaRDaR84xamtcL72PZLzt_Rjg1h_GxNlJFC0Xjxf_MjOhUSXVVyk6eHOIlbIaeDwB-4LzRMK60lkWjnfMUw6QlaOTsvzbfiu06oJ6u_krgYqcZRE7Wz7XkUA=w3360-h1672-no?authuser=0">
       </div>
       <div style="text-align: left">
@@ -325,31 +626,31 @@ title: Billetes del Perú!
       </div>
       <br>
       <div style="text-align: left">
-            5,000 Intis - 28 de Junio de 1988 - Miguel Grau
+            5000 Intis - 28 de Junio de 1988 - Miguel Grau
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cahl96FeAsfpS02PBX3pWMpMZKEANY0vwb5SB1luWdTyE4FhHo7U61JJ23rWWoWCwMrJXI1d6YviVrwvw4aRFU0XTvr_iiXA5VxFi07l3r1nTo4PUH7A6nYmCq9F0tTqr0T50t4zLOmH12WzTX8gn9wg=w3360-h1678-no?authuser=0">
       </div>
       <div style="text-align: left">
-            5,000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
+            5000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
             (Munich)
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3esFnqgwilr4AtydvWJ_mUykibSgtuNR13OgQ9FlkiKIRcaW16iSZiaGx-Cf4FhjxtkVXsWP0bFNKPBAXbQHp-czPqd_SHmGw1C3MgJBLFZCBqpVQDyhTpRM-YXVtyYWXvbVToeKyEg5ZU3FVWikP0Mgw=w3360-h1690-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            5,000 Intis - 28 de Junio de 1988 - Miguel Grau
+            5000 Intis - 28 de Junio de 1988 - Miguel Grau
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dudWY9R_AgBkrsSV1ASvdAAYIpPSJ7wYS9l4Y4pvY-QRrVYKKIEYQGUqD98QksWe7gSd6HLD39rsFeZ9bjxMZAsylaeH51b4uyLwtdnW4PyIO_zSYDnaquc5Mrf0a6yNu-yEgNOFM8R1r60nK-AukTmg=w3360-h1672-no?authuser=0">
       </div>
       <div style="text-align: left">
-            5,000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
+            5000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
             (Roma)
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3c6TK9t9q0XgjWdFbTjaECb1B-Osh7VfF1U8fdhw0qkX3RA__zOS15YGQuJE4EbGDr3UxtEDKXOepGexc-U4JJtTaPdLPSL41PMx1hHisfKbcUtlKe3M8E7iqe6LTJ26VtnQ-tVgONycz5n_JktHmJk_w=w3360-h1684-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            5,000 Intis - 9 de Setiembre de 1988 - Miguel Grau
+            5000 Intis - 9 de Setiembre de 1988 - Miguel Grau
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fpBjyiROajrHCaxYDV1bCxSOFo-uwrwqnPxavhhq6QpRlxSEi96CQ0LZz4JZfkmrYbMlqteDfJTPqR1FrdTIkzl_jysQdECLPefJe8k4XSNgdLGx4tFCVZ599gn7wPJW1FQWwlNrdvcMwVl4Bran7rvg=w3360-h1688-no?authuser=0">
       </div>
       <div style="text-align: left">
-            5,000 Intis - 9 de Setiembre de 1988 - Reverso - Pescadores
+            5000 Intis - 9 de Setiembre de 1988 - Reverso - Pescadores
             <p>(Thomas de la rue and company limited)
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dVIFhg0SZBembjGHLvOoC0ILyz3IQ06C8I6EhR5h-j5FjLRM1VaGM6K6Q22OS2-CYuaLY-f9sgIo2sga3hpyp9fLI2WU07I4mACMtcARzEVe0X6x3KNG_vDjVz0sJr8GlqGSpHAFk57YpIo4DFE1vPAg=w3360-h1690-no?authuser=0">
       </div>
