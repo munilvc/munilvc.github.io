@@ -11,7 +11,7 @@ title: Billetes del Perú!
       <a href="#ferrocarril">Serie Ferrocarril (40s)</a><br>
       <a href="#solesdeoro50">Soles de Oro (50s)</a><br>
       <a href="#solesdeoro1">Soles de Oro (60s/70s)</a><br>
-      <a href="#solesdeoro2">Soles de Oro (70s/80s)</a>
+      <a href="#solesdeoro2">Soles de Oro (70s/80s)</a><br>
       <a href="#intis">Intis (80s/00s)</a>
       <hr>
       <div id="pacifico"><h2> Guerra Pacífico </h2></div>
@@ -285,29 +285,29 @@ title: Billetes del Perú!
             </div>
       <br>
       <div style="text-align: left">
-                  5000 Soles de Oro - 1981
+                  5,000 Soles de Oro - 1981
                   <img src="https://lh3.googleusercontent.com/pw/ACtC-3dCFv0hQyiYO6PASYtCvr4wV_3OeJed-cRPmhD0HxUgEAo8C-xRetmgdGWCE40Ad8RavjBofiYtkg3sdiu0ft3Yd8ledLDke3pSTvnk8lHx7tCTY4nOouKyB4nCAJCmCG9uWHmNGqtIWfez8b2r43_Efg=w3360-h1702-no?authuser=0">
             </div>
             <div style="text-align: left">
-                  5000 Soles de Oro - 1981 - Reverso
+                  5,000 Soles de Oro - 1981 - Reverso
                   <img src="https://lh3.googleusercontent.com/pw/ACtC-3ej9C8meBGhif48buK_Vge8PkhRJLQ5TrIrFDeh9hyc9P0lgdUzTI3AnIdtszZ6abdEwckB7m1DAGYsL4P4Yz8-eabT8T2QvPWNsXgGl5b4znBCyXGJiEzbqzal-59pSWpmTWtLjvc3vzYmzJqoCsy8ZQ=w3360-h1680-no?authuser=0">
             </div>
       <br>
       <div style="text-align: left">
-                  10000 Soles de Oro - 1981
+                  10,000 Soles de Oro - 1981
                   <img src="https://lh3.googleusercontent.com/pw/ACtC-3dMbMrVabEJRnIrDZg30lSD62O9-hwfMOwYFWUbsymniG0l1aelQJ-aIN-3ItlAJoJFm8EUHj3Ni8-V2s-_sVXmHTwlpomSf1bXiL_ejy6o1fCjQ4y6n27Znj3o14ibCS3msluyp3Ycn5GwmyOqruC5WQ=w3360-h1666-no?authuser=0">
             </div>
             <div style="text-align: left">
-                  10000 Soles de Oro - 1981 - Reverso
+                  10,000 Soles de Oro - 1981 - Reverso
                   <img src="https://lh3.googleusercontent.com/pw/ACtC-3djcXYDTW8zq2gWrbQ7Z0uDMNSK4I9SiGDFVTom2hZy4TvdfWk6CEID8oWbuF0g6jM_ASxh_b6yfE_0cKbfKHcKREji_j1utBFZFq9IChYXjyr78BlYTNlZf53jEjheg1gKhSrrPjGWTF4AcHA3dbSVmA=w3360-h1684-no?authuser=0">
             </div>
       <br>
       <div style="text-align: left">
-                  50000 Soles de Oro - 1981
+                  50,000 Soles de Oro - 1981
                   <img src="https://lh3.googleusercontent.com/pw/ACtC-3dqN8ZRBORG2__lTcT5kTcHQXAeLbPdIodjAR9rAcrbBdl-2CpvrgjhytvvohND7WLAMq_7PEydxT23K_jUF23dKPA6exgqgh8vhtfv53GkRkv7g0PznoetTjxVyh5z0Daqk7TJ34HoyY5wCgoCa3wsIQ=w3360-h1668-no?authuser=0">
             </div>
             <div style="text-align: left">
-                  50000 Soles de Oro - 1981 - Reverso
+                  50,000 Soles de Oro - 1981 - Reverso
                   <img src="https://lh3.googleusercontent.com/pw/ACtC-3cR_0zBcbmFXJiXTZciP1WVhfQlNckQBEK4us2xxRuvA3f0bJSmIvEs_A-Af8Uqis0XYATnlm8lFmY8db7KQnDzDnay130VkQUxE2KeR0cHlYd65r_R1dyjbRF3kKw9QXLkcDMkOLq-0rbuUSOqfrX2XQ=w3360-h1658-no?authuser=0">
             </div>
       <br>
@@ -315,151 +315,151 @@ title: Billetes del Perú!
 <hr>
       <div id="intis"><h2> Intis (80s/90s) </h2></div>
       <div style="text-align: left">
-            1000 Intis - 28 de Junio de 1988 - Mariscal Andres Avelino Caceres
+            1,000 Intis - 28 de Junio de 1988 - Mariscal Andres Avelino Caceres
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3d_lnq4hvWHTH62WobDYOgjhcFemwt4WObaRDaR84xamtcL72PZLzt_Rjg1h_GxNlJFC0Xjxf_MjOhUSXVVyk6eHOIlbIaeDwB-4LzRMK60lkWjnfMUw6QlaOTsvzbfiu06oJ6u_krgYqcZRE7Wz7XkUA=w3360-h1672-no?authuser=0">
       </div>
       <div style="text-align: left">
-            1000 Intis - 28 de Junio de 1988 - Reverso - Ruinas de Chan Chan
+            1,000 Intis - 28 de Junio de 1988 - Reverso - Ruinas de Chan Chan
             (Thomas de la rue and company limited)
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fE5D3GIQGbNvTYrSM3xHMXealvpQRD8q1P5Irm-AmtO-7wuj-_3M4fE2ZehVouIs3NfxoNXeJVum5ekWutHdRmYD-kvQ7kOVjUNpACyqLeD_cByKYk1z-B9VjvoanjH5zTyQDimvievq8K1a9dT2Q1qg=w3360-h1680-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            5000 Intis - 28 de Junio de 1988 - Miguel Grau
+            5,000 Intis - 28 de Junio de 1988 - Miguel Grau
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cahl96FeAsfpS02PBX3pWMpMZKEANY0vwb5SB1luWdTyE4FhHo7U61JJ23rWWoWCwMrJXI1d6YviVrwvw4aRFU0XTvr_iiXA5VxFi07l3r1nTo4PUH7A6nYmCq9F0tTqr0T50t4zLOmH12WzTX8gn9wg=w3360-h1678-no?authuser=0">
       </div>
       <div style="text-align: left">
-            5000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
+            5,000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
             (Munich)
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3esFnqgwilr4AtydvWJ_mUykibSgtuNR13OgQ9FlkiKIRcaW16iSZiaGx-Cf4FhjxtkVXsWP0bFNKPBAXbQHp-czPqd_SHmGw1C3MgJBLFZCBqpVQDyhTpRM-YXVtyYWXvbVToeKyEg5ZU3FVWikP0Mgw=w3360-h1690-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            5000 Intis - 28 de Junio de 1988 - Miguel Grau
+            5,000 Intis - 28 de Junio de 1988 - Miguel Grau
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dudWY9R_AgBkrsSV1ASvdAAYIpPSJ7wYS9l4Y4pvY-QRrVYKKIEYQGUqD98QksWe7gSd6HLD39rsFeZ9bjxMZAsylaeH51b4uyLwtdnW4PyIO_zSYDnaquc5Mrf0a6yNu-yEgNOFM8R1r60nK-AukTmg=w3360-h1672-no?authuser=0">
       </div>
       <div style="text-align: left">
-            5000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
+            5,000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
             (Roma)
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3c6TK9t9q0XgjWdFbTjaECb1B-Osh7VfF1U8fdhw0qkX3RA__zOS15YGQuJE4EbGDr3UxtEDKXOepGexc-U4JJtTaPdLPSL41PMx1hHisfKbcUtlKe3M8E7iqe6LTJ26VtnQ-tVgONycz5n_JktHmJk_w=w3360-h1684-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            5000 Intis - 9 de Setiembre de 1988 - Miguel Grau
+            5,000 Intis - 9 de Setiembre de 1988 - Miguel Grau
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fpBjyiROajrHCaxYDV1bCxSOFo-uwrwqnPxavhhq6QpRlxSEi96CQ0LZz4JZfkmrYbMlqteDfJTPqR1FrdTIkzl_jysQdECLPefJe8k4XSNgdLGx4tFCVZ599gn7wPJW1FQWwlNrdvcMwVl4Bran7rvg=w3360-h1688-no?authuser=0">
       </div>
       <div style="text-align: left">
-            5000 Intis - 9 de Setiembre de 1988 - Reverso - Pescadores
-            (Thomas de la rue and company limited)
+            5,000 Intis - 9 de Setiembre de 1988 - Reverso - Pescadores
+            <p>(Thomas de la rue and company limited)
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dVIFhg0SZBembjGHLvOoC0ILyz3IQ06C8I6EhR5h-j5FjLRM1VaGM6K6Q22OS2-CYuaLY-f9sgIo2sga3hpyp9fLI2WU07I4mACMtcARzEVe0X6x3KNG_vDjVz0sJr8GlqGSpHAFk57YpIo4DFE1vPAg=w3360-h1690-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            10000 Intis - 28 de Junio de 1988 - Cesar Vallejo
+            10,000 Intis - 28 de Junio de 1988 - Cesar Vallejo
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dtUU-_gvCx-IOjMQfbYXF1zBM6zvJXyu-SAhldhs6BQZn-lSKOGMmqUb2ToZYOvgl8k9SzR442bDHJBFOsFncajTI9aaRqeKXz-7T37pRhM8FQQzLFRlBwlscwOQ9L9nEDLCLk43gzyBqvFq2jKFJbxg=w3360-h1656-no?authuser=0">
       </div>
       <div style="text-align: left">
-            10000 Intis - 28 de Junio de 1988 - Reverso - Santiago de Chuco
-            (Thomas de la rue and company limited)
+            10,000 Intis - 28 de Junio de 1988 - Reverso - Santiago de Chuco
+            <br>(Thomas de la rue and company limited)
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ddk-k6yQluNw7WVPMxAtscdjPQcyKyoQYA75RK1NmWKC9e3sYGCC9wP9dlS8NOBZKe89rdrxiu6_6JRA-IGSsXM6G2ps6vmh6kyaI3BfHix510_XofdXWG3H6gSgOy75JOpSZLukQYqI7vuV6-ldJrUw=w3360-h1690-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            10000 Intis - 1988
+            10,000 Intis - 1988
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fGIN34rmozbO5D2S46PSvOsaLWG8Mdx1iwF9SG17d3ChmGHvHpF30Aex9zdv_9sr3xlbdLnVS0DQNDM_RkSYSHdy32OyZGywu57Eg_EV8b7VrzBBk2d95BQsYOc1WXSOl5tvkWIeWSPs2b-V4SPvjS1g=w3360-h1670-no?authuser=0">
       </div>
       <div style="text-align: left">
-            10000 Intis -1988 - Reverso
+            10,000 Intis -1988 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3eFHC1BrEijR3PGFERrNeGCLEaNkpqTrSIIw3NrDOOjjEAMVZLd80RY_BzRldnVl-i5aM3NjE1Mal3xq0jcR78tU6uG0Tfqr1-Lo-xkDJuMI9nCtRFesa2et8CeE3G0Vwk8J7pNLDWeOdvNkngyvrsgEg=w3360-h1696-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            50000 Intis - 1988
+            50,000 Intis - 1988
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3egq2tMXbKxoHg9ri3e_3C-Ogb6rjLOvuJeiVg6buHEIAIUmYdqgQV2v1OGG5w2q3WAO2eYg4EN1Fl-aCWSRBGt3SFkiXdjScjA8-6gc9_KO8WeIdeO4Q_Xai3DQhFRgHLAbcgRSnrRIXGV75R8aPI5RA=w3360-h1664-no?authuser=0">
       </div>
       <div style="text-align: left">
-            50000 Intis -1988 - Reverso
+            50,000 Intis -1988 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3eLwxnMkiTIhcenSG7mJ1scEoCZnMoinT9QrYFPJFv0NraMqrMaMdUpmpSU6kOBnJV3_c5ms58VIfsyabsuweodAhJTCMcmHR743XIxGRIeiuspSBZOs7puN9Cnr2S9z8j5loFZXPoaTmlTRyAo9f38lQ=w3360-h1686-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            50000 Intis - 1988
+            50,000 Intis - 1988
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cl7a8d9mxH0b8m2XhvcugwbuV5AEsat1gkrLTPAWVX8jIE83WA4sgaxkmTh2iW1jkoE2DArbyVNGK91FDXZgk91Inlbs4IEt2DSCqclDsc4ulyUpIBPX7ez1cjPXR8PHyMjCEaBzZVzpevhWgKghS7Aw=w3360-h1694-no?authuser=0">
       </div>
       <div style="text-align: left">
-            50000 Intis -1988 - Reverso
+            50,000 Intis -1988 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dxkFvmTQcqM73NNVH9mySyhpNBwaH36gtbtw-sZWLj7Q-b0dKikHugTEFDmY1xdjY28A7B_SfWNMJQPGDJdJivtcYjv3SOPmXETk8J-iR5_n6GfKVVr87rPG1gM6CHPzUx1UMcL-jiAVbPukQnQ6_mxw=w3360-h1702-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            100000 Intis - 1988
+            100'000 Intis - 1988
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fNBO7309MK9C0vWtqspSr9FX2hilNKCRPNBB_aZcz6Gu3oeSI8sS3nOpmySIBKu6IPPX8otl8HxgD9U36g8748M793sIXFiNRMMsD6fftbbjX5PktqD6pypbkyw8_WLHvHV1d-cDf8cR5vPjHcjszCDg=w3360-h1698-no?authuser=0">
       </div>
       <div style="text-align: left">
-            100000 Intis -1988 - Reverso
+            100'000 Intis -1988 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3euI3GHubu_88le-A8MLOOVVo0Ert6vRyLjnEF7TZHkIfeMAxJU5q8DNobWlQIRAsplGriejGHHYfX-7pZz6QSs_Wnb00fi7t8s7q3ZO2gtA4N0AVyEB_lsuvuOQIyFE4C8fvloPQEP23UlKkTcVtsT0Q=w3360-h1672-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            100000 Intis - 1988
+            100,000 Intis - 1988
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ecwSiVMoD7Kn7Lo5xPvRqR1l1sgw41zRLHT4lSX_FJ_qvzMbb6SaOcMoLsHg5DiXpyHRsH_64gaMwpLkNlDqAsSZ_FjybNldlMblKXgTujSagVRyAGQfkbcjceianNKUP5vJmDNNDISuLzwXzhjNfugA=w3360-h1674-no?authuser=0">
       </div>
       <div style="text-align: left">
-            100000 Intis -1988 - Reverso
+            100,000 Intis -1988 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fEfZqa48KQyvEOw9Wu2uckF_i9WxijpBH7pKeRx7EyinmQR8RQRsIjEdmSslamN1gK3MZkqBeeX7g-TE7Mb-vN4YLMSBDBTdoxYYV59VYrh_wKkIXYfpv2z2iRIU9qrgXD0oWQhNTFFm4r_135OnGIDQ=w3360-h1700-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            100000 Intis - 1989
+            100,000 Intis - 1989
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3eJBIBMzAJwHhnUv5v_fZs9jQ1p0wJb3C3AL1Wv8wHE5z--K26EFkDPEt9CmDTcwpCMKWjJxRCf80ZCrW43aGyzlb7OmJA--Idn24bPD0bZca0Z-gPSP0fgOChJgpwlN7OIWIKA9gH96dibfXnk520LEg=w3360-h1672-no?authuser=0">
       </div>
       <div style="text-align: left">
-            100000 Intis -1989 - Reverso
+            100,000 Intis -1989 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ee5nSCKRR5XVp-xKx7Zi36YWa9V_3Nraf-WwX42B5k6UWw6nqJFuE3GuRQSjBO5hPQx9OQTJhB11GkPZf90Plfm2ngWTa4tmS4OnHPI3y4IZcXfUnHQ9SmjHPSzSMBmOJFmyz0cgkFNN5m0vKn8Bm9-w=w3360-h1678-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            500000Intis - 1988
+            500,000Intis - 1988
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3eej6Y0ABs_Da2SHsqz6Tol_Pm9gOK1eO21c6PDBXiD4E1khet8N36RBQIVW2Vi8Oeagm4mbrQF-9AtrVIPm5kOZOFpiguJU6dutMWDmj_pvQVGPUbAn5MsN-8mgAajVsVaAMpdnjetICNd8_g1CDZkiQ=w3360-h1680-no?authuser=0">
       </div>
       <div style="text-align: left">
-            500000 Intis -1988 - Reverso
+            500,000 Intis -1988 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cowKHFIyQsCk3AXno80ETYPPGSKqrtkJJbFVjHr4rQVhLlvk67xFFiXRTfBzqFnzYMoz1wJYJ3HGNwJ9EPw9LdYa7vy2a-iXqY2e_C_i0d8_5dErnVFJCrt9a7nHAsvypNYTpjsA-8o8yKr--hvwNpTA=w3360-h1680-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            500000 Intis - 1989
+            500,000 Intis - 1989
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3e97BVIIm3Q5rD75teHfbAdYvCmovsoAPK8bQamJ2WPKQu9L2i_ivYiBz6BXpiCyH4x17I1ynwgktem9cocsrshR_D5sl4FGp5L0_3QHBzyavCNAVa40m-CGud8K3pIE_PqoSl1VmmxYpbvdHukH58jug=w3360-h1658-no?authuser=0">
       </div>
       <div style="text-align: left">
-            500000 Intis -1989 - Reverso
+            500,000 Intis -1989 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3eGGxBxrfNKdKIaYPuEuFryQRMu3K6KYb6hzr_z6AtlCXAF6YLJ2-GSl83CzxvxsMnOFCOWG7EvXkgcslqhVoSJvbEiOQeh0zV1fQGmQHf71KuRGs-l_d82clODBIUctN4JAOx_EzirMVQXLjAkVmsw6g=w3360-h1706-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            1000000 Intis - 1990
+            1,000,000 Intis - 1990
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fYCbeDwfCMYeo9U6mq3_Is-E83vCq9nYZrofwXUywXGd46Pw-h7xeIgiokXQ21NuaSyGC3lv0Vb2hbkq7HWG3YziWulMhisEaW667Mr0dYeOmBm-SKY2YCQBzGxeTzxKXgPMo5BmCbr-iixzmMUEiS3Q=w3206-h1515-no?authuser=0">
       </div>
       <div style="text-align: left">
-            1000000 Intis -1990 - Reverso
+            1,000,000 Intis -1990 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fCtNLh_VKUn4x0yC2HXkaHjBMb5PZ6DV0M_U_BiVZbL96GAUf3prwXDSLpgNBeg8451f3D60rhamXsvL6iwLSX3RDS5mBJu7FBlJu9CM9SxHC-nM9AForc3inSXr6t8nduXmU7Yix0rnW09A6iBUJrOg=w3240-h1527-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            5000000 Intis - 1990
+            5,000,000 Intis - 1990
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ftFQsIn-ACQjUHvZJslXEGKnygMbsCuJbPAci9WqpwClboHfOQP0Hfx2h1wxYJiFxgZCMoLxfFho-RVFSGOM7ynx2dX93NtnJpsi1UOy5snWhZ751h6C4k8kW7O035HYdWoW7kkD1nosYC05LUBwAUUw=w3198-h1494-no?authuser=0">
       </div>
       <div style="text-align: left">
-            5000000Intis -1990 - Reverso
+            5,000,000Intis -1990 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cILebaxn9A3b3FmXwyupOMEkFr7AYZ8rHNVy4HuoekQTGKpGU4lmZYLF3QIPVPamuYvkW1Tq1yu19MYCMzVWnlgCLXLtzZZYf5pu6RHfkvTXz1sz84LJ-Dmau-ZB-f6SXwyGvOkfURLqm_KAg0Dl6V_Q=w3219-h1514-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            5000000 Intis - 1991
+            5,000,000 Intis - 1991
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fRg05fos-8LcBj0ct-pjEqSO9ZH5PVt7a930vejdES5yc_bgOX08Hg9uLFHrW70poMjFjzqcktmuWMroGHvkrYeWNNdfrMbs0939fo6D1YkLza1rt3Y7AqqxjG9BnfwKWxMHy1r4ePr11jpxtKuYX8Nw=w3175-h1489-no?authuser=0">
       </div>
       <div style="text-align: left">
-            5000000 Intis -1991 - Reverso
+            5,000,000 Intis -1991 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fVcfY2tC5zbWyGZLOPlJjLPx80aZ46w9lJN0-pD9XDJWqcqkdIOMCFZIRp9pEStTTdfeB1lefhnqdM4XbPAYm05WXfzKfxflNfgal1_b4F8kbrEKJlXTLVMx1ByZqxRXiBS5YMBR_5RXqXITT-04AQSA=w3203-h1512-no?authuser=0">
       </div>
       <br>
