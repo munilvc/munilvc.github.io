@@ -438,12 +438,12 @@ title: Billetes del Perú!
       </div>
       <br>
       <div style="text-align: left">
-                  1000 Soles de Oro - 1976
-                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3c8SlaqZ0E0eYBAPD-eMYTHAVJhqfp_fS9tG_mboYdPmsnoP3RSyBSiDnoUD8ZaDFL9gyHEOU5c5MbcRdnJ6Hryddhc7Df96NRo_bEkTx7CEw-zYh1LmOgvm8i7dxRDkPXgGCkad44wH7SfexI69L4O8A=w3360-h1660-no?authuser=0">
+                  1000 Soles de Oro - 22 de Julio de 1976
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3dcDJnZMbe9Zvdi1_J1BAr-V2I8kbc2_xBf54TgSZ4JtuzC5OGQAE3NhWSSa_AzhvvaIesztoK8eSL1yK5uG7OHwgxfLB451Ncpzc_PWIxbG_VVbm1SQlEgA95ZoMLACHGh_c8lmhC3UBfEzHy5HdSkaQ=w3360-h1704-no?authuser=0">
             </div>
             <div style="text-align: left">
-                  1000 Soles de Oro - 1976 - Reverso
-                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3dcxF7hlcTDg9rUHP-t_YXvD7vv08b8fU_CaTjm1EMY_PQDi4mZvHU9iSaEPMnqJ4uUjE0r3zuOiCjYrDDG8wT0a4ZNpToUFK4_sKgcwIcr7n0HjILt8SXK2BAgdjhNR-WaejBq2MZPwTTEKHfWpfCQow=w3360-h1658-no?authuser=0">
+                  1000 Soles de Oro - 22 de Julio de 1976 - Reverso
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3fzxnmVwlrEwVx-UTsRuadFPCwX94oyP18sXoRVS4ezMXP0B1aHMh4tPLnfHNBEer_mRA2NELWmnav8INMTVXRh1IiUKqrVNmA4KWQnETUvzHqtm2FMcJd9tMWwoxTUH4ipZ6bl-O8_M1NcfXwebdtAUw=w3360-h1704-no?authuser=0">
             </div>
       <br>
       <div style="text-align: left">
