@@ -238,11 +238,47 @@ title: Billetes del Perú!
       <div id="solesdeoro2"><h2> Soles de Oro (70s/80s) </h2></div>
       <div style="text-align: left">
             100 Soles de Oro - 1976
-            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cX5vqz1Q1OBQU6OI8FFDfvXWH4PvWftW6Nc7wLGAH2_HikdvBcml43-bSBk9lAdxvnZeskcMdSQFws4F4QYEkF_Cmh3yK_YPDph4QrjwVETOtqsxuNrBLi-hrWin9whrLVUfv3vGhRafMahelAWB-IiQ=w3360-h1690-no?authuser=0">
+            <img src="">
       </div>
       <div style="text-align: left">
             100 Soles de Oro - 1976 - Reverso
-            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fHKTZ-1UKaicAtyzDpEvd1SAHtnwR1m00zKXX91i_AplHFPJvo6mQRT9kI5U2YKn-ycYZYbLJ50yDb5bLBjXH2RC3WTb6c3GpNabqfjAprmcH5-JKBibVqkRSrke9dmUxmCytI9jrLvJa_uB851qkFPg=w3360-h1688-no?authuser=0">
+            <img src="">
+      </div>
+      <br>
+      <div style="text-align: left">
+                  100 Soles de Oro - 1976
+                  <img src="">
+            </div>
+            <div style="text-align: left">
+                  100 Soles de Oro - 1976 - Reverso
+                  <img src="">
+      </div>
+<br>
+ <div style="text-align: left">
+            100 Soles de Oro - 1976
+            <img src="">
+      </div>
+      <div style="text-align: left">
+            100 Soles de Oro - 1976 - Reverso
+            <img src="">
+      </div>
+<br>
+ <div style="text-align: left">
+            100 Soles de Oro - 1976
+            <img src="">
+      </div>
+      <div style="text-align: left">
+            100 Soles de Oro - 1976 - Reverso
+            <img src="">
+      </div>
+<br>
+ <div style="text-align: left">
+            100 Soles de Oro - 1976
+            <img src="">
+      </div>
+      <div style="text-align: left">
+            100 Soles de Oro - 1976 - Reverso
+            <img src="">
       </div>
 <br>
 <hr>
