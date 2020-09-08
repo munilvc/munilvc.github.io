@@ -272,7 +272,7 @@ title: Billetes del Perú!
             </div>
             <div style="text-align: left">
                   1000 Soles de Oro - 1981 - Reverso
-                  <img src="https://https://lh3.googleusercontent.com/pw/ACtC-3dcxF7hlcTDg9rUHP-t_YXvD7vv08b8fU_CaTjm1EMY_PQDi4mZvHU9iSaEPMnqJ4uUjE0r3zuOiCjYrDDG8wT0a4ZNpToUFK4_sKgcwIcr7n0HjILt8SXK2BAgdjhNR-WaejBq2MZPwTTEKHfWpfCQow=w3360-h1658-no?authuser=0">
+                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3dcxF7hlcTDg9rUHP-t_YXvD7vv08b8fU_CaTjm1EMY_PQDi4mZvHU9iSaEPMnqJ4uUjE0r3zuOiCjYrDDG8wT0a4ZNpToUFK4_sKgcwIcr7n0HjILt8SXK2BAgdjhNR-WaejBq2MZPwTTEKHfWpfCQow=w3360-h1658-no?authuser=0">
             </div>
       <br>
       <div style="text-align: left">
@@ -401,11 +401,11 @@ title: Billetes del Perú!
       </div>
       <br>
       <div style="text-align: left">
-            Intis - 1988
+            100000 Intis - 1988
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ecwSiVMoD7Kn7Lo5xPvRqR1l1sgw41zRLHT4lSX_FJ_qvzMbb6SaOcMoLsHg5DiXpyHRsH_64gaMwpLkNlDqAsSZ_FjybNldlMblKXgTujSagVRyAGQfkbcjceianNKUP5vJmDNNDISuLzwXzhjNfugA=w3360-h1674-no?authuser=0">
       </div>
       <div style="text-align: left">
-            Intis -1988 - Reverso
+            100000 Intis -1988 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fEfZqa48KQyvEOw9Wu2uckF_i9WxijpBH7pKeRx7EyinmQR8RQRsIjEdmSslamN1gK3MZkqBeeX7g-TE7Mb-vN4YLMSBDBTdoxYYV59VYrh_wKkIXYfpv2z2iRIU9qrgXD0oWQhNTFFm4r_135OnGIDQ=w3360-h1700-no?authuser=0">
       </div>
       <br>
