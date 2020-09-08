@@ -13,13 +13,12 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Home">{{ site.title }}</a>
+            <a href="/" title="Home">{{ site.title }}</a><br>
             <small>{{ site.tagline }}</small>
           </h3>
-          <h5>{% include linemenu.html %}</h5>
+          <small>{% include linemenu.html %}</small>
         </div>
       </div>
-
       <div class="container content">
         <div class="page">
           <h1 class="page-title">{{ page.title }}</h1>
@@ -27,7 +26,7 @@
         </div>
       </div>
       <hr>
-      {% include linemenu.html %}
+      <small>{% include linemenu.html %}</small>
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
