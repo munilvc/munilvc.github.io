@@ -12,8 +12,10 @@ title: Billetes del Perú!
       <a href="#solesdeoro50">Soles de Oro (50s)</a><br>
       <a href="#solesdeoro1">Soles de Oro (60s/70s)</a><br>
       <a href="#solesdeoro2">Soles de Oro (70s/80s)</a>
+      <a href="#intis">Intis (80s/00s)</a>
       <hr>
       <div id="pacifico"><h2> Guerra Pacífico </h2></div>
+      <!--
       <div style="text-align: left">
             Resellado Provisional: 1 Sol - 1873 -> 1 Real - 1881
             <a class="hover_image" href="#">
@@ -39,6 +41,7 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
+-->
       <div style="text-align: left">
             Resellado Provisional: 1 Sol - 1873 -> 1 Real - 1881
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dz4Xtq3Keug8qGZYpCOsGPhP2dVtAOBLlc4OjKQQvzzd0eYGWj6OWc3Z0NKIEHfYsmmU_j-3IOejl4jnfNty81cj8cdMwUzg3XPIAyZYOxNBv4sGVTPg_WiLpGVE7AtlA4l19xtbmDiN1NBG5C8wI0zQ=w3360-h1420-no?authuser=0">
@@ -310,94 +313,54 @@ title: Billetes del Perú!
       <br>
 <br>
 <hr>
-      <div id="intis"><h2> Intis (80s) </h2></div>
+      <div id="intis"><h2> Intis (80s/90s) </h2></div>
       <div style="text-align: left">
-            Intis - 198
-            <img src="">
+            1000 Intis - 28 de Junio de 1988 - Mariscal Andres Avelino Caceres
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d_lnq4hvWHTH62WobDYOgjhcFemwt4WObaRDaR84xamtcL72PZLzt_Rjg1h_GxNlJFC0Xjxf_MjOhUSXVVyk6eHOIlbIaeDwB-4LzRMK60lkWjnfMUw6QlaOTsvzbfiu06oJ6u_krgYqcZRE7Wz7XkUA=w3360-h1672-no?authuser=0">
       </div>
       <div style="text-align: left">
-            Intis -198 - Reverso
-            <img src="">
-      </div>
-      <br>
-      <div style="text-align: left">
-            Intis - 198
-            <img src="">
-      </div>
-      <div style="text-align: left">
-            Intis -198 - Reverso
-            <img src="">
+            1000 Intis - 28 de Junio de 1988 - Reverso - Ruinas de Chan Chan
+            (Thomas de la rue and company limited)
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fE5D3GIQGbNvTYrSM3xHMXealvpQRD8q1P5Irm-AmtO-7wuj-_3M4fE2ZehVouIs3NfxoNXeJVum5ekWutHdRmYD-kvQ7kOVjUNpACyqLeD_cByKYk1z-B9VjvoanjH5zTyQDimvievq8K1a9dT2Q1qg=w3360-h1680-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            Intis - 198
-            <img src="">
+            5000 Intis - 28 de Junio de 1988 - Miguel Grau
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cahl96FeAsfpS02PBX3pWMpMZKEANY0vwb5SB1luWdTyE4FhHo7U61JJ23rWWoWCwMrJXI1d6YviVrwvw4aRFU0XTvr_iiXA5VxFi07l3r1nTo4PUH7A6nYmCq9F0tTqr0T50t4zLOmH12WzTX8gn9wg=w3360-h1678-no?authuser=0">
       </div>
       <div style="text-align: left">
-            Intis -198 - Reverso
-            <img src="">
-      </div>
-      <br>
-      <div style="text-align: left">
-            Intis - 198
-            <img src="">
-      </div>
-      <div style="text-align: left">
-            Intis -198 - Reverso
-            <img src="">
+            5000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
+            (Munich)
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3esFnqgwilr4AtydvWJ_mUykibSgtuNR13OgQ9FlkiKIRcaW16iSZiaGx-Cf4FhjxtkVXsWP0bFNKPBAXbQHp-czPqd_SHmGw1C3MgJBLFZCBqpVQDyhTpRM-YXVtyYWXvbVToeKyEg5ZU3FVWikP0Mgw=w3360-h1690-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            Intis - 198
-            <img src="">
+            5000 Intis - 28 de Junio de 1988 - Miguel Grau
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dudWY9R_AgBkrsSV1ASvdAAYIpPSJ7wYS9l4Y4pvY-QRrVYKKIEYQGUqD98QksWe7gSd6HLD39rsFeZ9bjxMZAsylaeH51b4uyLwtdnW4PyIO_zSYDnaquc5Mrf0a6yNu-yEgNOFM8R1r60nK-AukTmg=w3360-h1672-no?authuser=0">
       </div>
       <div style="text-align: left">
-            Intis -198 - Reverso
-            <img src="">
-      </div>
-      <br>
-      <div style="text-align: left">
-            Intis - 198
-            <img src="">
-      </div>
-      <div style="text-align: left">
-            Intis -198 - Reverso
-            <img src="">
+            5000 Intis - 28 de Junio de 1988 - Reverso - Pescadores
+            (Roma)
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3c6TK9t9q0XgjWdFbTjaECb1B-Osh7VfF1U8fdhw0qkX3RA__zOS15YGQuJE4EbGDr3UxtEDKXOepGexc-U4JJtTaPdLPSL41PMx1hHisfKbcUtlKe3M8E7iqe6LTJ26VtnQ-tVgONycz5n_JktHmJk_w=w3360-h1684-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            Intis - 198
-            <img src="">
+            5000 Intis - 9 de Setiembre de 1988 - Miguel Grau
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fpBjyiROajrHCaxYDV1bCxSOFo-uwrwqnPxavhhq6QpRlxSEi96CQ0LZz4JZfkmrYbMlqteDfJTPqR1FrdTIkzl_jysQdECLPefJe8k4XSNgdLGx4tFCVZ599gn7wPJW1FQWwlNrdvcMwVl4Bran7rvg=w3360-h1688-no?authuser=0">
       </div>
       <div style="text-align: left">
-            Intis -198 - Reverso
-            <img src="">
-      </div>
-      <br>
-      <div style="text-align: left">
-            Intis - 198
-            <img src="">
-      </div>
-      <div style="text-align: left">
-            Intis -198 - Reverso
-            <img src="">
+            5000 Intis - 9 de Setiembre de 1988 - Reverso - Pescadores
+            (Thomas de la rue and company limited)
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dVIFhg0SZBembjGHLvOoC0ILyz3IQ06C8I6EhR5h-j5FjLRM1VaGM6K6Q22OS2-CYuaLY-f9sgIo2sga3hpyp9fLI2WU07I4mACMtcARzEVe0X6x3KNG_vDjVz0sJr8GlqGSpHAFk57YpIo4DFE1vPAg=w3360-h1690-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
-            Intis - 198
-            <img src="">
+            10000 Intis - 28 de Junio de 1988 - Cesar Vallejo
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dtUU-_gvCx-IOjMQfbYXF1zBM6zvJXyu-SAhldhs6BQZn-lSKOGMmqUb2ToZYOvgl8k9SzR442bDHJBFOsFncajTI9aaRqeKXz-7T37pRhM8FQQzLFRlBwlscwOQ9L9nEDLCLk43gzyBqvFq2jKFJbxg=w3360-h1656-no?authuser=0">
       </div>
       <div style="text-align: left">
-            Intis -198 - Reverso
-            <img src="">
-      </div>
-      <br>
-      <div style="text-align: left">
-            Intis - 1988
-            <img src="">
-      </div>
-      <div style="text-align: left">
-            Intis -1988 - Reverso
+            10000 Intis - 28 de Junio de 1988 - Reverso - Santiago de Chuco
+            (Thomas de la rue and company limited)
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ddk-k6yQluNw7WVPMxAtscdjPQcyKyoQYA75RK1NmWKC9e3sYGCC9wP9dlS8NOBZKe89rdrxiu6_6JRA-IGSsXM6G2ps6vmh6kyaI3BfHix510_XofdXWG3H6gSgOy75JOpSZLukQYqI7vuV6-ldJrUw=w3360-h1690-no?authuser=0">
       </div>
       <br>
