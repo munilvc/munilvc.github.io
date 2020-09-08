@@ -8,16 +8,15 @@ title: Billetes del Perú!
       <br>
       <br>
       <a href="#pacifico">Guerra del Pacífico (1873 - 1881)</a><br>
-      <a href="#libras">Soles y Libras (10s/20s)</a><br>
-      <a href="#solesdeoro30">Primeros Soles de Oro (30s)</a><br>
-      <a href="#ferrocarril">Serie Ferrocarril (40s)</a><br>
-      <a href="#solesdeoro50">Soles de Oro (50s)</a><br>
-      <a href="#solesdeoro60">Soles de Oro - Libertad Sentada (60s)</a><br>
-      <a href="#solesdeoro1">Soles de Oro (60s/70s)</a><br>
-      <a href="#solesdeoro2">Soles de Oro (70s/80s)</a><br>
-      <a href="#intis">Intis (80s/00s)</a>
+      <a href="#solesylibras1020">Soles y Libras Peruanas de Oro (10s/20s)</a><br>
+      <a href="#solesdeoro3040">Soles de Oro (30s/40s)</a><br>
+      <a href="#solesdeoro4050">Soles de Oro (40s/50s)</a><br>
+      <a href="#solesdeoro60">Soles de Oro (60s)</a><br>
+      <a href="#solesdeoro6070">Soles de Oro (60s/70s)</a><br>
+      <a href="#solesdeoro7080">Soles de Oro (70s/80s)</a><br>
+      <a href="#intis">Intis (85s/90s)</a>
       <hr>
-      <div id="pacifico"><h2> Guerra Pacífico </h2></div>
+      <div id="pacifico"><h2> Guerra Pacífico (1873 - 1881) </h2></div>
       <!--
       <div style="text-align: left">
             Resellado Provisional: 1 Sol - 1873 -> 1 Real - 1881
@@ -118,7 +117,7 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="libras"><h2 > Soles y Libras (10s/20s) </h2></div>
+      <div id="solesylibras1020"><h2>Soles y Libras Peruanas de Oro (años 1910s/1920s)</h2></div>
       <div style="text-align: left">
             5 Centavos de Libras Peruanas - 17 de Agosto de 1917
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cYZxz-xQlx1czifb9CYn-znSLblnSOSsIfUUFZQbaQFDtgBSLCRtPyJNl_xAh4q91PVBi2S4wf-O7U_POlFTZz2gO0zNmPbR5AYaKFKj9h_a_1G1brmZv8GrJE_MhuMcbkrgXDYW_DoMGdBTBo3hP84A=w1720-h1075-no?authuser=0">
@@ -174,7 +173,7 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="solesdeoro30"><h2 > Primeros Soles de Oro (30s) </h2></div>
+      <div id="solesdeoro304050"><h2>Soles de Oro (1930s/1940s)</h2></div>
       <div style="text-align: left">
             1 Sol de Oro - 26 de Abril de 1935
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3eV_K-hmlVrah9EZQheUHLOx9d7wqfuymV6TlRTOviLMYlrAGJHg174e1hIVcnDncgD2Ol8is-RSVa10tKZz8AcGjbP2nujVQX9O1_5OMs73r_v73ARzxX_8jp_DHJvZtyH1iMPq589A2l_hUBv1QSm1g=w2264-h1269-no?authuser=0">
@@ -183,9 +182,7 @@ title: Billetes del Perú!
             1 Sol de Oro - 26 de Abril de 1935 - Reverso
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cezp3nSxoqUnuUm0mTnXBUgfqHSQbOekd59B0eb3Hu71WKr3ttEC_O0Db93aGQc0GNSSrQgUcwrB3pIqxJfgE39Gqx3ECuY_Jc7g31qaSGLK5FxB47RbFQKhqZlecxryITliS-RnrG3PPVUXEgrlpobQ=w2275-h1282-no?authuser=0">
       </div>
-<br>
-<hr>
-      <div id="ferrocarril"><h2 > Serie Ferrocarril </h2></div>
+      <br>
       <div style="text-align: left">
             5 Soles de Oro - 1944
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ei-j-kLsyaqiyzGonpTEgaliAyF2GaNhkl-0HyKPg8hONF8KXN7UpHGroQCjAu0EJLJ-IM7o50Yt2CxywBNOW4y5Qu3FzuFdA1Qu0oySPPZ8KhJCuiKwRB0L6_4pS0wRbeYV54qIUISY0FmhWU0ItXHw=w3360-h1606">
@@ -232,7 +229,7 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="solesdeoro50"><h2> Soles de Oro (50s) </h2></div>
+      <div id="solesdeoro50"><h2>Soles de Oro (1940s/1950s)</h2></div>
       <div style="text-align: left">
             5 Soles de Oro - 1952
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fSqZyh-HZae680-NqdBX0amH0Vdfw44T_XNHCpbE0xXrVjnkstKvruwGY6JgjjYa-Jyer-qKsnPevW2_lp0xF_hOjLMwTLl1r3QhzgBoosbkb9uEhkyAjFa638yV-vtTyM7sKeRnXflKkjRPMpUvLxdg=w3302-h1588-no?authuser=0">
@@ -279,7 +276,7 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="solesdeoro60"><h2> Soles de Oro - Libertad Sentada (60s) </h2></div>
+      <div id="solesdeoro60"><h2>Soles de Oro (1960s)</h2></div>
       <div style="text-align: left">
             5 Soles de Oro - 23 de Febrero de 1968
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cR99nTAJHGGOjV2p8uI-uTKy7hTUCvE1cOgv85iZQ7mQOfEmZNGXGknyotbV6Y9wLQrZoT00om1K8SZD5SV5sp14VSsKwylOBtIWJCsaUdqqn_1tOsB5W9lMOTnkM9J080Joh2ITxTjYfrYcJseiTVtQ=w2945-h1427-no?authuser=0">
@@ -345,7 +342,7 @@ title: Billetes del Perú!
       <br>
 <br>
 <hr>
-      <div id="solesdeoro1"><h2> Soles de Oro (60s/70s) </h2></div>
+      <div id="solesdeoro1"><h2>Soles de Oro (1960s/1970s)</h2></div>
       <div style="text-align: left">
             5 Soles de Oro - 1968
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3da9VxfzMHkEL2ewLnuivzmgTE4gSGHQg55YZ_UiiKMd6fjumCukyhF76wFe82VI_vioNOChwoAi4-DlgztuLUqyk2IBzg1Vp2RnlMJAdQXDB2LzLintBtSbOkZGYWSJ3sBm90hcnceomTSrKS4NPs3wA=w3360-h1482-no?authuser=0">
@@ -419,7 +416,7 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="solesdeoro2"><h2> Soles de Oro (70s/80s) </h2></div>
+      <div id="solesdeoro2"><h2>Soles de Oro (1970s/1980s)</h2></div>
       <div style="text-align: left">
             100 Soles de Oro - 1976
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dxN2qTyEnNiNULAJ244Ig0BKOu2O6fnlCe88fL9ub9f_0Ur3dG0Adr_hYR3RvxGNP33DeUe-PxEHQrAkbY6BlmZAN6-Bi7bbdgS8dU8zAu0JTidjjSJBTGAsVAaJbGWJBviHPmQF4D4P5loYMEHdZ56A=w2937-h1465-no?authuser=0">
@@ -494,7 +491,7 @@ title: Billetes del Perú!
       <br>
 <br>
 <hr>
-      <div id="intis"><h2> Intis (80s/90s) </h2></div>
+      <div id="intis"><h2>Intis (1985s/1990s)</h2></div>
       <br>
       <div style="text-align: left">
             10 Intis - 3 de Abril de 1985 - 
@@ -781,5 +778,3 @@ title: Billetes del Perú!
       <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
                   Disqus.</a></noscript>
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-</div>
