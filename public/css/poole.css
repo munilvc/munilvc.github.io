@@ -428,6 +428,12 @@ a.pagination-item:hover {
 
 .wrapperbilletes img {
   border: 30px solid #000;
+  margin: 0 0 -1rem;
+}
+
+.wrapperbilletes div {
+  text-align:left; 
+  margin: 1rem 0 0 0;
 }
 
 .wrapperbilletes
