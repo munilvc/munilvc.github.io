@@ -2,7 +2,7 @@
 layout: defaultNonResponsive
 title: Billetes del Perú!
 ---
-<div class="wrapperbilletes">
+<div id="inicio" class="wrapperbilletes">
       <hr>
       Esta sección está dedicada a la numismática, esta vez mostrando un poco de historia a través de los billetes que ha tenido el Perú. (fotos y material propio)
       <br>
@@ -21,7 +21,9 @@ title: Billetes del Perú!
 <br>
 <hr>
 <br>
-      <div id="pacifico"><h2>Guerra del Pacífico (1873 - 1881)</h2></div>
+      <div id="pacifico"><h2>Guerra del Pacífico (1873 - 1881)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <br>
       <div>
             Resellado Provisional: 1 Sol - 1873 -> 1 Real de Inca - 1881
@@ -78,7 +80,9 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="solesylibras1020"><h2>Soles y Libras Peruanas de Oro (10s/20s)</h2></div>
+      <div id="solesylibras1020"><h2>Soles y Libras Peruanas de Oro (10s/20s)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <div style="text-align: left">
             5 Centavos de Libras Peruanas - 17 de Agosto de 1917
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cYZxz-xQlx1czifb9CYn-znSLblnSOSsIfUUFZQbaQFDtgBSLCRtPyJNl_xAh4q91PVBi2S4wf-O7U_POlFTZz2gO0zNmPbR5AYaKFKj9h_a_1G1brmZv8GrJE_MhuMcbkrgXDYW_DoMGdBTBo3hP84A=w1720-h1075-no?authuser=0">
@@ -116,7 +120,9 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="solesdeoro3040"><h2>Soles de Oro (30s/40s)</h2></div>
+      <div id="solesdeoro3040"><h2>Soles de Oro (30s/40s)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <div style="text-align: left">
             1 Sol de Oro - 26 de Abril de 1935
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3eV_K-hmlVrah9EZQheUHLOx9d7wqfuymV6TlRTOviLMYlrAGJHg174e1hIVcnDncgD2Ol8is-RSVa10tKZz8AcGjbP2nujVQX9O1_5OMs73r_v73ARzxX_8jp_DHJvZtyH1iMPq589A2l_hUBv1QSm1g=w2264-h1269-no?authuser=0">
@@ -154,7 +160,9 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="solesdeoro4050"><h2>Soles de Oro (40s/50s)</h2></div>
+      <div id="solesdeoro4050"><h2>Soles de Oro (40s/50s)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <div style="text-align: left">
             5 Soles de Oro - 1952
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fSqZyh-HZae680-NqdBX0amH0Vdfw44T_XNHCpbE0xXrVjnkstKvruwGY6JgjjYa-Jyer-qKsnPevW2_lp0xF_hOjLMwTLl1r3QhzgBoosbkb9uEhkyAjFa638yV-vtTyM7sKeRnXflKkjRPMpUvLxdg=w3302-h1588-no?authuser=0">
@@ -186,7 +194,9 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="solesdeoro60"><h2>Soles de Oro (60s)</h2></div>
+      <div id="solesdeoro60"><h2>Soles de Oro (60s)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <div style="text-align: left">
             5 Soles de Oro - 23 de Febrero de 1968
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3cR99nTAJHGGOjV2p8uI-uTKy7hTUCvE1cOgv85iZQ7mQOfEmZNGXGknyotbV6Y9wLQrZoT00om1K8SZD5SV5sp14VSsKwylOBtIWJCsaUdqqn_1tOsB5W9lMOTnkM9J080Joh2ITxTjYfrYcJseiTVtQ=w2945-h1427-no?authuser=0">
@@ -231,7 +241,9 @@ title: Billetes del Perú!
       <br>
 <br>
 <hr>
-      <div id="solesdeoro6070"><h2>Soles de Oro (60s/70s)</h2></div>
+      <div id="solesdeoro6070"><h2>Soles de Oro (60s/70s)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <div style="text-align: left">
             5 Soles de Oro - 1968
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3da9VxfzMHkEL2ewLnuivzmgTE4gSGHQg55YZ_UiiKMd6fjumCukyhF76wFe82VI_vioNOChwoAi4-DlgztuLUqyk2IBzg1Vp2RnlMJAdQXDB2LzLintBtSbOkZGYWSJ3sBm90hcnceomTSrKS4NPs3wA=w3360-h1482-no?authuser=0">
@@ -281,7 +293,9 @@ title: Billetes del Perú!
       </div>
 <br>
 <hr>
-      <div id="solesdeoro7080"><h2>Soles de Oro (70s/80s)</h2></div>
+      <div id="solesdeoro7080"><h2>Soles de Oro (70s/80s)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <div style="text-align: left">
             100 Soles de Oro - 1976
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dxN2qTyEnNiNULAJ244Ig0BKOu2O6fnlCe88fL9ub9f_0Ur3dG0Adr_hYR3RvxGNP33DeUe-PxEHQrAkbY6BlmZAN6-Bi7bbdgS8dU8zAu0JTidjjSJBTGAsVAaJbGWJBviHPmQF4D4P5loYMEHdZ56A=w2937-h1465-no?authuser=0">
@@ -332,7 +346,9 @@ title: Billetes del Perú!
       <br>
 <br>
 <hr>
-      <div id="intis"><h2>Intis (85/90s)</h2></div>
+      <div id="intis"><h2>Intis (85/90s)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <br>
       <div style="text-align: left">
             10 Intis - 3 de Abril de 1985 - 
@@ -504,7 +520,9 @@ title: Billetes del Perú!
       <br>
 <br>
 <hr>
-      <div id="nuevossoles1"><h2>Nuevos Soles - Primer diseño (90s/2000s)</h2></div>
+      <div id="nuevossoles1"><h2>Nuevos Soles - Primer diseño (90s/2000s)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <br>
       <div style="text-align: left">
             10 Nuevos Soles 
@@ -598,7 +616,9 @@ title: Billetes del Perú!
       <br>
 <br>
 <hr>
-      <div id="nuevossoles2"><h2>Nuevos Soles - Segundo diseño (2000s)</h2></div>
+      <div id="nuevossoles2"><h2>Nuevos Soles - Segundo diseño (2000s)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <br>
       <div style="text-align: left">
             10 Nuevos Soles 
@@ -650,7 +670,9 @@ title: Billetes del Perú!
       <br>
 <br>
 <hr>
-      <div id="soles"><h2>Soles (2016+)</h2></div>
+      <div id="soles"><h2>Soles (2016+)</h2>
+      <a href="#inicio">[Indice]</a>
+      </div>
       <br>
       <div style="text-align: left">
             10 Soles 
