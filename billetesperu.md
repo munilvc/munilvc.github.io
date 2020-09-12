@@ -4,7 +4,7 @@ title: Billetes del Perú!
 ---
 <div class="wrapperbilletes">
       <hr>
-      Esta sección está dedicada a la numismática, esta vez mostrando un poco de historia a través de los billetes que ha tenido el Perú. (fotos propias)
+      Esta sección está dedicada a la numismática, esta vez mostrando un poco de historia a través de los billetes que ha tenido el Perú. (fotos y material propio)
       <br>
       <br>
       <a href="#pacifico">Guerra del Pacífico (1873 - 1881)</a><br>
@@ -14,47 +14,23 @@ title: Billetes del Perú!
       <a href="#solesdeoro60">Soles de Oro (60s)</a><br>
       <a href="#solesdeoro6070">Soles de Oro (60s/70s)</a><br>
       <a href="#solesdeoro7080">Soles de Oro (70s/80s)</a><br>
-      <a href="#intis">Intis (85s/90s)</a>
+      <a href="#intis">Intis (85s/90s)</a><br>
+      <a href="#nuevossoles1">Nuevos Soles - Primer diseño (90s/2000s)</a><br>
+      <a href="#nuevossoles2">Nuevos Soles - Segundo diseño (2000s)</a><br>
+      <a href="#soles">Soles (2016+)</a><br>
 <br>
 <hr>
 <br>
       <div id="pacifico"><h2>Guerra del Pacífico (1873 - 1881)</h2></div>
-      <!--
-      <div style="text-align: left">
-            Resellado Provisional: 1 Sol - 1873 -> 1 Real - 1881
-            <a class="hover_image" href="#">
-                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3dz4Xtq3Keug8qGZYpCOsGPhP2dVtAOBLlc4OjKQQvzzd0eYGWj6OWc3Z0NKIEHfYsmmU_j-3IOejl4jnfNty81cj8cdMwUzg3XPIAyZYOxNBv4sGVTPg_WiLpGVE7AtlA4l19xtbmDiN1NBG5C8wI0zQ=w3360-h1420-no?authuser=0" />
-                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3eixkREUdATqFcwOl4UF57cwUG7K86Nut1Eg4B0brntJaQpLB54SDQsxjiCYWzADgVQ1L7ZiixgUoSn7PrhqUBMDujS6PlosOtO7fhThlJEn6XR4XzzH0o-7HxA8xrspiV9z5e4Shjtsh5IpK6nrbt0ig=w3360-h1430-no?authuser=0" class="hide" />
-            </a>
-      </div>
-      <br>
-      <div style="text-align: left">
-            Resellado Provisional: 5 Soles - 1873 -> 5 Reales - 1881
-            <a class="hover_image" href="#">
-                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3ftNpyUxDojRs9_LaMtoWg73yIZO3dsqLWAb1lb5n5imznWcdVTkD31tjNgyCE-r4qh1S5_HXSwMfs1GaWMhnJm-Bx7faAn_6WUulKLLQpEfizXrs0QIV6_Lz_neNm7x-ff4UkKxC_lYfYyCZ4i3pKFyA=w3360-h1366-no?authuser=0" />
-                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3dX2P3mWW-vs5_MsywHjTYsvWi1p_-QqUX5clXrViUOtdk717UKdJIYG9YHshzZsguKMskNynL6kAnaNDp8q3wuSUBmVbsIy18nykgTXOyHeizupKQgQOarY0vgMbqlQSK64AV_IBMljFq-6XDRO0C3RQ=w3360-h1394-no?authuser=0" class="hide" />
-            </a>
-      </div>
-      <br>
-      <div style="text-align: left">
-            1 Sol - 1879
-            <a class="hover_image" href="#">
-                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3fvqJs4sfi3lKovfNEkSnKnRrcsvNIpWFsgHHylhp7E-uQ1XIJ1YQegLzBU3WYccKwxOk6qsoeyy2XuLby8NvNjLv3kmsWHVfp9gO9geUFiVOtXXV-QO_Bg2ysS3HVWe05ii82Y_5gmITiw-vEnthXPng=w3360-h1606-no?authuser=0" />
-                  <img src="https://lh3.googleusercontent.com/pw/ACtC-3ciUSg--3bDYO0LMdPmIosy7VOujSXXvFJh9uJBTdHC7-IGa9aX2QcXBx6tzTALsWI1ipzI4oZboBDHEHF_-70c5lnes8yxpd2Cmo85tYAm6QQfzjHSWWYNOtkmcxt6fD3CIH03KZDvB0M6_q0Tyk1cPA=w3360-h1608-no?authuser=0" class="hide" />
-            </a>
-      </div>
-<br>
-<hr>
--->
       <br>
       <div>
-            Resellado Provisional: 1 Sol - 1873 -> 1 Real - 1881
+            Resellado Provisional: 1 Sol - 1873 -> 1 Real de Inca - 1881
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dz4Xtq3Keug8qGZYpCOsGPhP2dVtAOBLlc4OjKQQvzzd0eYGWj6OWc3Z0NKIEHfYsmmU_j-3IOejl4jnfNty81cj8cdMwUzg3XPIAyZYOxNBv4sGVTPg_WiLpGVE7AtlA4l19xtbmDiN1NBG5C8wI0zQ=w3360-h1420-no?authuser=0">
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3eixkREUdATqFcwOl4UF57cwUG7K86Nut1Eg4B0brntJaQpLB54SDQsxjiCYWzADgVQ1L7ZiixgUoSn7PrhqUBMDujS6PlosOtO7fhThlJEn6XR4XzzH0o-7HxA8xrspiV9z5e4Shjtsh5IpK6nrbt0ig=w3360-h1430-no?authuser=0">
       </div>
       <br>
       <div>
-            Resellado Provisional: 5 Soles - 1873 -> 5 Reales - 1881
+            Resellado Provisional: 5 Soles - 1873 -> 5 Reales de Inca - 1881
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3ftNpyUxDojRs9_LaMtoWg73yIZO3dsqLWAb1lb5n5imznWcdVTkD31tjNgyCE-r4qh1S5_HXSwMfs1GaWMhnJm-Bx7faAn_6WUulKLLQpEfizXrs0QIV6_Lz_neNm7x-ff4UkKxC_lYfYyCZ4i3pKFyA=w3360-h1366-no?authuser=0">
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dX2P3mWW-vs5_MsywHjTYsvWi1p_-QqUX5clXrViUOtdk717UKdJIYG9YHshzZsguKMskNynL6kAnaNDp8q3wuSUBmVbsIy18nykgTXOyHeizupKQgQOarY0vgMbqlQSK64AV_IBMljFq-6XDRO0C3RQ=w3360-h1394-no?authuser=0">
       </div>
@@ -87,6 +63,12 @@ title: Billetes del Perú!
             20 Soles - 30 de Junio de 1879
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3dRn4kul4-8GtJ7UQSvXt2ldFkSUxm6tclMluGcYCYEhHR4EZdTjxQaDZwXk53_cjfFwXUnpr_k9MYS0WUKRjGi2vgn6XWz8EAMoeY-zzrAGc4lut1seTTLGa23z89Lq7BjzzH8BJDdnti50hBFClFEWA=w3360-h1554-no?authuser=0">
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3d8igve8m5j-ElqmXn4wlzJHh8w4efb9KPe6EA_QpaBnU3RxDcMJiJTySuiVKhVUvUNYrCuN9lFYUVbG-Kj79J4E9_QFrVEQXYxqV7wH2k3MBtbeMLNTqlaING5yzj7oGMbS2Jule7bj24PMb-xgTcgDA=w3360-h1540-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            500 Soles - 30 de Junio de 1879 (Reproducción Autorizada)
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cAIw9GyKiRCBksPleZi_L6JF0jeqG7FmC5ucICjbuN98YqDPi6blr7MyUW5vN2uUdipRJyH6fZvm10WzKe1AUUdUk-vCpPtob_1CipDZ_CAa9FHn0EkC0cHhK8ukcHnoj0bkQWD_WdFCTk_tqvriRITA=w3360-h1578-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3ejuIJwscUCRn8Sd28LEh_egzB77JzcGTdYBAP2SF2wVg0W17pmkByb_r9AVyVF-gVl4b3nXDYyfPe6tfkmhyIEtlX17HV4yraSVLvDqJiW9KsnxnlGNbiZLe9EaWk4176rKes2aclavLBeSu0xo3ciyw=w3360-h1588-no?authuser=0">
       </div>
       <br>
       <div style="text-align: left">
@@ -520,6 +502,175 @@ title: Billetes del Perú!
             <img src="https://lh3.googleusercontent.com/pw/ACtC-3fVcfY2tC5zbWyGZLOPlJjLPx80aZ46w9lJN0-pD9XDJWqcqkdIOMCFZIRp9pEStTTdfeB1lefhnqdM4XbPAYm05WXfzKfxflNfgal1_b4F8kbrEKJlXTLVMx1ByZqxRXiBS5YMBR_5RXqXITT-04AQSA=w3203-h1512-no?authuser=0">
       </div>
       <br>
+<br>
+<hr>
+      <div id="nuevossoles1"><h2>Nuevos Soles - Primer diseño (90s/2000s)</h2></div>
+      <br>
+      <div style="text-align: left">
+            10 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3f419eCzWt86SWATZPjnumcktu53prpGcvVkdLC7f9F-Efysy9paCZfBn2EibPYbNFMHeHwOhQndbCmAtzBGkThBLqLSjZNC5flAaFxwjIlYRPqT0SjnJ6cRidHfZBLZC6_NgT58tGBfJBJllmwdAA2gw=w3360-h1594-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dxOP8WonCGweSp8-O_n8HDntUugwnCQgim81jtphKHg3N66wOmqpLdq_s4yW9364VdjunDvjnUIBc149HUUPWodwKnUTKlY3Zf6hL1H-HBfn1OhV4UuwjoU4Tg159M7a_aqqyvybo9Nr72E49cnmUOHg=w3360-h1590-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            10 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3el1O4MxMLQ0hL5cw13aWEyNLQk70oNBsmakontJuHpWc-99Kw8MGnVFuLv1_QG7qRKI0wqUv9UCIJ8ohWLE7O3WMIykDvAcs4UsUPUQ3HKDg_7lUyfkkvjPHYj4YXox3KUblUYc1RJnWoh3ckB2ktsOQ=w3360-h1544-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cS6qmaLd7JiXz9bOifYYZj_geLVZolGBmaEQW5DvLGr4NDYDQ4ihy4hL-82EvAVM46DrXG6iqNZsXFdP3LeGTnCRV0h76aD9kSpFP3lFGqAw2Dhrjwk7E5jpeu1JxTGwQqq9UXlG95a59nJ7Gm2xfa6A=w3360-h1564-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            10 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dv3kPmVysVDMYC-orq7Ahr7H9ave79pWfq2wH-_WxDIamJ9FwpPJGOl5b47HhcVFbOUIcsYaTWD_aG23IZ3b_kEwtJ0Zt8lCb87F3D0KrTMju8dHf8ZAGoj8WtaafyfNqKihA2qqxKdgorRbFkNhudUw=w3360-h1550-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3emEuk5ezGpLfiJdruUbC9Ff7Z2FmgyD4XEXTxgLMdUYL8X7wFZfe9og2HI7JvjhlafB8Dg0puUCVjDlA3Zrfjd-KCTLhxlx3tIrWXAnvN3wJ71dUwSXBw6kxB9nmQwd45sn00X1Ml2wJJsmKcEMQbSRA=w3360-h1558-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            10 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3f9VBhatxjQ_xJgYp1cykz8YX6y-5z6jHSKTc0jJTmChU8_QpLViYW_iUVVXTm_eej_hCMilINnBJliy2YG9wE1_p0pZy5j6wDxTglLLM-3UqvcH9FXFsTuDNSFWswScvYTLflKDfPt9TFPJqk1TszUTQ=w3360-h1560-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dON0IJ4UUJXMWdV2rG1PIaOvjltWMu4kZzAbjZjmqYTV38VcicDdZe7SslQFbRb7nj8WnJ-IwWXSVI8VSQm1056wIXUH4ER1cW3OlbRj3QsNXVKj_bUGmA-TSBkiBxdcSjZ85-uQD_mUX7R0wRvnhGeQ=w3360-h1584-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            10 Nuevos Soles
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3etN-TaMXQpsXRd7GwK76MRoqkaklOgNNAWjet7umGYtFDJGepxPEeKrsgmEM4RPyP7st_0NJ41BYIjyyibJk7B4f-X1s6aRptmLiwTe-i-N4QhK0XeuxB86YZkp2qd7Jr6IIro6XXA_glSSBQ7c9TA6g=w3360-h1560-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dmbJG8fGM6cvarstysyOpsKq_Wzzr_b2XCC8YHnvK1tH1jZBMmqBOC_tJtY_u2Sb4AYVRAznAgNPIck4xguqvPr8XPkTnLVDJAmiMV1E1I8g41cduHo-CQr-p0jddDlErs8BV10wrR4ifPXovMhPSPHA=w3360-h1562-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            20 Nuevo Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fSPTMm2R1Z9qD2gbhaiARqDPh_CVc1TytWFeLcjJA7yoM4FFOoi1KNgEWBQtDhyTdJawrhckiHe8P4OiCuM37UgFD8a15SjP3WnoKQg5mg_VEzYc2cGuvlVrRZa9I7YcUftDl_QLvd_1FRqnp1Mx6GpQ=w3360-h1554-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d-6Wxy0_9d4rKkCmkkcOhLZEufuXrwOPmYQ-DjcNKkrZ170nIJhDXVzSLCLeUN0NsyQ79cx44LJQ6wxk2DrP_vjd2yIJH3QtB74m0ee8KH1ipf2zaO6HNIByTEZjaL4f-cWyXJSgb7wtFecrdnYdSd8A=w3360-h1572-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            20 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cksvmSiH87YI5VaCVbYuH1eDeTDf11R5D0RhwBAUgmcxnfrbdnu_S6qag6kBOkXrfoTXyS7TD8T8WSajAdmqwhhT0ol-VWngQjgYpIRbQwTxVOOAYIPhqHGdpb8T274tleBv4YXcuO5wXz9LMVeDfOHA=w3360-h1568-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fL_BgAxWcR5neoZ0OJgkY_DARkdxGy1CdTYI2R5DWP1kc0bqB4cdiGfRbgCYT9u_soARNTd20s9EW-ZURPYow2Cl2SvkBqFZXNXCNEL6kUeWbB_meW6PL6x1SzdfKrP51M65zKd4mZHGiafCRrv4Y6nA=w3360-h1578-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            20 Nuevos Soles
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fgr9sIm6p7js4NZ5zdMgTu9X5DkxBug2p7UTWTsVatEPJTpYntL4XB5nbhgqTXUZSaXzcOP3CmIDU6Nu_MDjHkMlLYpQst4lrTOJKv7PqS0FNh8p3pUNZlpDuN4VojrtPV4kImv4nnf3EAL4ziudbPEQ=w3360-h1570-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fL1t_bxXnwJkJtEu8lxZq62EQVg1vHLNURBUAwxbhjyFKWDN3-XGxk-r_kA7EnSC3pen93Yo9N8dFWHZCcVAxheYwWUWl0U2RVmi1HUo4Egb19yV8-w9mg1xbw2Isrk6rl2RP-PvLQqcCvdd3TSQF8hQ=w3360-h1562-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            50 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eyUiMLT7VUBTqZievBjHddNZsfRNXHWPGfOInwURrnVPlvS5PMIA71QDvSaU_DVtcRVOizApgFFcKHJWNrdZlMaYVcguyi7wOGzViP8FszYLfBORR5ZCjLwneUzprzn8bGnXzvyUCf5vars7md47T5jg=w3360-h1582-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3emuQv8o6D7nSzqAI24lp95tW3YFZK78V4lsF1suCg37i79Eee74AUVWurL10vYOOHEzADen28fok3ekOgo4BmMTkh_XFr3FlZkNzhXL7pnn_qB8Y3SIhrExZoGd_mcw-budjxZSdme9ysyB7DqbLpWyg=w3360-h1570-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            100 Nuevos Soles
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3e-NgxY6PCqzDcIVp9kbkGcZJ1Rn9Z7CC9KqwrBrQOUpKf2KLT2UzRQvM5q-iz657mXRdRrvY0ww1TOxCJx7-9y10PNeKH2Fi9_Sjmcep7N9xpTP4u1yfzDZcC3Yy9eyY8bWr8lxvfLZsoJC_xAk8Ksuw=w3360-h1562-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cz3vrgDoIrgtSW8MoFI4wxC54ApG-k20847ldUTpHkxW7q25wcIXGQ1P-OSQUZLtpHciSb1XV0cUt8wORnoB_LiDOXeDoncx4auA_QFzAB2p9YSjUb5xVIvUmIRUpHSwwyB0oDwxz6Fv2_iGLUDi7Jbw=w3360-h1582-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            100 Nuevos Soles
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3e1DHEYuuos1-CsoS7CHYJXneP91J_gGuBFL2Kw1UxMtF1ae7HYzl-lqWsN7leMpyA3wr3l0CdPQaUaK_lLNRu49OXZS1vVF_5fdIDBdcCD4fztTx33bzKyPkUr6gymTR1NyYt8YdDV7u0ipYGxLBhgFQ=w3360-h1558-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eLch5hwhbvbrFAFWyfOatt24Vxl7MFz_-iWHP_-UgKsiYI-BVWSSzRTv8QMiMBLx3a3yh3k1R8YGn4d_Gy2lwZ_tMb8sMGEQOlKfrFVrKb66hcdDMt15xx4noTGq0UpqzWoU_9aL4TH045spsVAH6uRg=w3360-h1568-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            100 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3e8uUxKdEYN_Fndi_lR13sJwY_QHQ0bcsul8N3Q8DZYF_BQjDD3fDtqHtaYk1sU7eKP1djXLnpDU1ZQ2x9gHH7KShQmK3Q5J0rCv-1mIR_3JitM_BUoAWuSx0lLFZMmMlyhKqZfzLmCI4TA2-cdt6__jg=w3360-h1570-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fHhpF-UryfwXdp0e2Xyxjx_rUXHsLW7peaoHnUBJKX3t6Pp6SW_4p9KFywnDSLetjxYq2gANFwWOLDnBHH6x5UXGhXN2SCOa8gk8HtqCZV5ZdtyAwIvxDF0YU33M7PHrUO_GMm59K2yD0x4rqPhzWrCg=w3360-h1592-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            100 Nuevos Soles
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cwmvYJtJLfwC6EqS0zAqpGRGq2Wx6pvoBat2k0e3qfvWisQmsZ9VtXm3zq6N29Jvet6TiPx4Zyl-XTqQydeK45DJS4sPBGvMmFvbyJtD-4RiH7xsgXUvaj7lk3ukR2i6BBEZYaoxPpDWcaDa0tDVPoOg=w3360-h1572-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cTv1K9YVa63GdG8_bIqHHyBZpfuVxOvFNprTVyqi4YpNgEdw4mcfK3bKp-omMHzx4gxqxcHK_jl-OLym1pZ-js3H-kvgl6rWWH8In1S0aFJoKAe0ryh5imN7eBJGnjknPQiiHBPVvP5WSQJxUCS2JhBA=w3360-h1574-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            100 Nuevos Soles
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cXbTWpbtsQif3-z-ISK46tqe6jttvTYgcHis3zPcsZN6EGgW6O7pX4DI9P-fsaxyJ20VTxMdUMoKO7VQ7wTuHvWQihKdNAh0QYfOuF35493Sj0KYpPfm18aMWfovuHcivi7z5uonmYmKXykGnS9U88AQ=w3360-h1564-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fi4mKm5jtNwGZ4KbCAu49WS2-R-A2E0ubXFv1O60txU4CHfTqtiBZ3gqOYZleCfyISEy1DB7jYqO849IB1N6NFie7UHw6B5sYDI_WIYlgN0bEASkGeFpG6DHAQfyXOzdwKtVZNMphuwidbxDFJhmsXLw=w3360-h1570-no?authuser=0">
+      </div>
+      <br>
+            <div style="text-align: left">
+            200 Nuevos Soles
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cOhAKtDulrYoJLVK2ZzpM1lapUQfO2ilDUbzwCqJ7emjNLhGR4wRG3GIowiFF4sDXXIhvBymfbT6Pa-aiu7Y5EsWHrxLYEcvj0l1lX-G3kPznKEAYkiisZLkT6m2ejE760NH9sVzWdEPME4NzabL1UVw=w3360-h1590-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eiizX3cfO2uzTArcgBg0tXHZ5mWM8nv6o5RaxLeYRvYYjo0IfveYSCeb0qyHL2LggxcgTp_UOZ__0O66jwhkDG1-GkQu_WzDkBz4yn0psE51-OR-MgVX1NBWduLcuejysgJtMeHuG7Nr6NMyrYltAf1Q=w3360-h1598-no?authuser=0">
+      </div>
+      <br>
+<br>
+<hr>
+      <div id="nuevossoles2"><h2>Nuevos Soles - Segundo diseño (2000s)</h2></div>
+      <br>
+      <div style="text-align: left">
+            10 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fx573OFm1ez_fHSXWellZQln0_IuYh1tnQk5AzgnYvgv0gnlEf2KyZLsAbZsubbZ3mAlPfcOLpCZSt1yFGEj2AEVcKOXHMUMHAcYMeXY-CKY3cCacilFdrvtHYT9Vj8sbpAEBA0SHayx3le9PR0nzgiw=w3360-h1562-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dSANqpyCrV09BW-GgFiR-CtIMLJu4j9i0dsjA7dRGXxnzM5YTF1M8KVTpr2OZ_WDMASUVwLFOLUzF8WYn-FFrQd5BNocAdf14zhT3NB63n4YJFIJrD2679XSE-9-gcc-19_4gMSYtPjKPzUi_SQbIBLg=w3360-h1566-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            10 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cJq40FY4jSlLukpbHlqslPct1GEi4feqdo5uX_aCEaisWh0gza4SxF6hcDUDZA_rHnd7ruqVA4bCSwWUbIaU26IGEvgH8flRJPGGrWO_uHmIZ7gTaeVLmxLYPvhzaHYV9s9hoQwbgmlTWjIAUHGA_OrQ=w3360-h1548-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fszPLpMsQYBNybOF_UcyZNNWAiIKdaKdcWlu10tilxTU2xA2JbkowlfsDKnGSxPRc29TBctUGskEYrDDivtqpI9LdHQovCv_2TnQ76-kaC4SJ6FVY7zyxm4U5GU7EEv5fzcoQcgxICZJjs3AblvfWq3g=w3360-h1564-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            20 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fac1KVJs9tyvioYHfiqcTVpqtChOOzOEisF40XWPnZQGcBMvbZl-RxeKZRJqlIu9SKkna8C_thsR2Qyp7dvHBDb08KPSPbsILT705eJEtFW599SGgRp3e6ywRxaMjnP-JhiJa9_sgFYjTyeqWcyOOB7g=w3360-h1566-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3eSmPKaVVfQz2YxLTTaEW1mC1M0626urmv5hLF8ORPyjgXbs4VLMgmUw5_moyZ1zWez3FeVSSVnL02HlIC6QZ_fNfMT9tjRlt6it99IOLPwWJ9WJrlKK50cjE12rwFCIxQenix_lly0pJ9IF83Ioaqeiw=w3360-h1580-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            50 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d322HoMm9IPv1cl8Z93zpKna25XyEnWdoayfIvYX-jfJD3fj1zNHxba-Jx2AxaYsNpnf80cmydmsHds-lnVahvjCk_o1DzcKitV1--f2REaia8RwAyONfxwARgA9QYNH9J1YiP82J__smgsnu1sYjnQg=w3360-h1542-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fnpSNXz0ZgN6duV-gf1A4h8s8qtRqnsWQyf6yA9Qt5eMZYZl2wM1-PQaZicWMwZzTSGhoJqgpjxTefE_VJNHalHJaS1nTkCGg_B2yfXQbScyeoQmKGf5_s8y9_ipviVe_THJQa6-__zIx8NY3zUdhESQ=w3360-h1580-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            100 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cMEA0KgZzU8W9ZuWZTBd4XSQf4aCVZYXgEXFbipNYDr62b8vNsgF7KAL8yEg9wch4d03brMZme7xDnSHsRRnDu15LhbCRsioye3TC1mLInd_vRfRigVnwJ2KzEoBGn4rDQZVgSYSSEjoYBGxhuH93l2w=w3360-h1538-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fNyG0OToBElb8Q5NbZrdb2rrvGOwORn37WBxnOIzvxibFmqIRSogt70OOde6ijRh-JvW-UPkJ0yjPTva2MG7NF_muDfr_j6q_xxVU5nbWF_qXRv0yC59nH3cHaWT9GT9E1dgmy23nd1XkJ8W_c-8QOgQ=w3360-h1568-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            100 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3d-3fxWNQrnDqaoatCBoP_daxcTuzQKFI37d_KtNBUPf9f6eXk1-m-mxpsXC38ozKulCUCPvxazyUtDLhUHBu2FE1AweaPdobCBalWm5iDk8Opnuyzybn1QNBWaBO1oYJPYNNVhBMXVPavCpQC8XLu6bQ=w3360-h1582-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fhS3Cigo0yWoU_Rzsu2DO5kPLeDkbAyEYE4t7FllT_7dW-_ywLcf2whglgN2NinRqwYgchY2GeDU4wNmm3zr8FWgZq3xD14vnFSKnXQy0kDnv08G565K2UUhQ-5tNte3s5cT1vLMLXW2wV6tmsB9FSZg=w3360-h1550-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            200 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3f5jQlKtpGJJVB3uXQf7Amd79RYwemWpD4N3uSAGZhTOJOwJfyKFFKUoBvDU2HYtyK1cNnGNIJTtcxH9VUrtUba7FXZCXKX-OAEn0D3_BJuKV71xUhgi8nty_pPJ3CitqjHJ3E0Qp8B4ZPyQRt4WmeI5w=w3360-h1550-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3fXB249JimWE6n1x80C8i7k1K1eXVVIytz8jX9uoU0TQzyu-sJrtnESYoRkY1Q3exAgsGapEnuyC1RYReIHpSRp_z2cNUsGOuL3KfggypWU2Qd4fYslAeZ6bbSoaZE4_esFa-GKxAE51Ne8Zl572hK-Rw=w3360-h1566-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            200 Nuevos Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3dIVQCvYJjMju63JcqTZNekIR3V2HW8jQpQWAVBxGKLPkAVCRNlIEb1QGrapK3KGWZln640DY-QBjM9jCRJwq-U4i7fzUHzQn5uZGoJPyAIDDyJVG2GT7ysEmRSt_hilctx1Fi8n3JZCDkFsMoIQVwS8g=w3360-h1584-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3e6SZTAiOvt3shxr0CoskOXPiUNgEoV4-Mo29QKRgEqLDL-RlsvHvdEQdWjIvxB52L38pZe2XYTlyL7vojIuszhDYJ5E9CNvrgcnA0rn4Nvfglrncc_PrIygJ2xzrLkXfzTqHq9os-dL8zYM3GOWomsTQ=w3360-h1576-no?authuser=0">
+      </div>
+      <br>
+<br>
+<hr>
+      <div id="soles"><h2>Soles (2016+)</h2></div>
+      <br>
+      <div style="text-align: left">
+            10 Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3ccoH0E2UgtMXFXVYsK9S5AnimBGGR3zr0rT6aETPr8DelMU20ww_WaCqSKOZw-hp9gf9gyQfjlCBx8ynKW_9OA_9w5asa4hyWve2DnUynxaqZu6_hdneEpRox4rg-qo_4_A9YjLAjTnLHuc_5AUBW8Tw=w3360-h1556-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3c5-3OyxY44ut44TzNPmfgdNApHH5W_6WIAgFQ9pDSEYhxqIvH5EVwglK_yiqxEonar8SVIyIF_7ZX-kTlNWqMlq3jwpdUva3p29M9Iw8XhoDr4q2YvPxXWsugwolaf-61yEXjCKoxzYj8kLorBzj0bqA=w3360-h1576-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            20 Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cAlzxfWXXihm-wOZ73kqjtvunu_mymUDaZDXKUgkc2WQPHTVEhF4d45g-slXe92WbbRClxwHnJPyUc1KPh1I_nnbCWDWW3NopWRiemTPv_PYTFLE7PjwFS2pUr4Hvz0vRHoMwu8oTQ1oMgC7eDDUG-4w=w3360-h1552-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3e4PlLk6WHiACCWniHuUvPTVhN17RnOij__f6KUIJNB_slv1QjssUGiuHAEimSC_IQ8A4bZbsGLd4mLpdwrxWYQfT8ZXQ_QGvIRVaV-B6rDKE87U5YO1DZo_UVJjE4rJBf6RN_WwgiYPDW_fLZeGHGVqg=w3360-h1580-no?authuser=0">
+      </div>
+      <br>
+      <div style="text-align: left">
+            100 Soles 
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3elEl670MbxMeqYdwISyEsRYJXdwlYxid55sSCF0pBU9b1Y5T6yu1xUlciauvGMA2X8FuStT_I105VwQn3bfcm9cG1M5mK_vfy47V0C7fjitDkVPLHBWTc8nFul0fgQBOt2Asqhnjrl_0DydTexa74WFw=w3360-h1564-no?authuser=0">
+            <img src="https://lh3.googleusercontent.com/pw/ACtC-3cKe5DSq27XuykFtrFD7D8cFXTxGbD0Gd43CLS92W3F6ilf14kghjvvXi9f1_3E8KzVui1O2QcfSyEVFhCqPjwMH9rBJkux8CQ4FrxGpm1EBumMZ6Rfv3Uwt85Wx7DvCqR3uLAG38Be0mYw9Sx4c7Ms3Q=w3360-h1582-no?authuser=0">
+      </div>
+      <br>
+<br>     
 <hr>
       <div id="disqus_thread"></div>
       <script type="text/javascript">
